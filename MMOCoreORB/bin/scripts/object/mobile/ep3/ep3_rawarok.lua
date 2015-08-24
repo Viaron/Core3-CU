@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_ep3_rawarok = object_mobile_ep3_ep3_rawarok:new {
+object_mobile_ep3_ep3_rawarok = object_mobile_ep3_shared_ep3_rawarok:new {
 
 }
 

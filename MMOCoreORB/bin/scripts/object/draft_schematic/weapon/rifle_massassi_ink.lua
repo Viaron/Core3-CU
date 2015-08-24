@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_rifle_massassi_ink = object_draft_schematic_weapon_rifle_massassi_ink:new {
+object_draft_schematic_weapon_rifle_massassi_ink = object_draft_schematic_weapon_shared_rifle_massassi_ink:new {
 
 }
 

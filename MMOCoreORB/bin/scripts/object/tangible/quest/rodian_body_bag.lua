@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_rodian_body_bag = object_tangible_quest_rodian_body_bag:new {
+object_tangible_quest_rodian_body_bag = object_tangible_quest_shared_rodian_body_bag:new {
 
 }
 

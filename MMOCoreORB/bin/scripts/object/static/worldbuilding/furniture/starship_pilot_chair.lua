@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_furniture_starship_pilot_chair = object_static_worldbuilding_furniture_starship_pilot_chair:new {
+object_static_worldbuilding_furniture_starship_pilot_chair = object_static_worldbuilding_furniture_shared_starship_pilot_chair:new {
 
 }
 

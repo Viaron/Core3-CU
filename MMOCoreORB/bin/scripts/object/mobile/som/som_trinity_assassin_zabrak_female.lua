@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_trinity_assassin_zabrak_female = object_mobile_som_som_trinity_assassin_zabrak_female:new {
+object_mobile_som_som_trinity_assassin_zabrak_female = object_mobile_som_shared_som_trinity_assassin_zabrak_female:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_necklace_rodian_safari = object_tangible_wearables_necklace_necklace_rodian_safari:new {
+object_tangible_wearables_necklace_necklace_rodian_safari = object_tangible_wearables_necklace_shared_necklace_rodian_safari:new {
 
 }
 

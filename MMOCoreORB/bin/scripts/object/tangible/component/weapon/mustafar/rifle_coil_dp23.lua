@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_rifle_coil_dp23 = object_tangible_component_weapon_mustafar_rifle_coil_dp23:new {
+object_tangible_component_weapon_mustafar_rifle_coil_dp23 = object_tangible_component_weapon_mustafar_shared_rifle_coil_dp23:new {
 
 }
 

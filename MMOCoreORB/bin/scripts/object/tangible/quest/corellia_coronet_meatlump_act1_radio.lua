@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_corellia_coronet_meatlump_act1_radio = object_tangible_quest_corellia_coronet_meatlump_act1_radio:new {
+object_tangible_quest_corellia_coronet_meatlump_act1_radio = object_tangible_quest_shared_corellia_coronet_meatlump_act1_radio:new {
 
 }
 

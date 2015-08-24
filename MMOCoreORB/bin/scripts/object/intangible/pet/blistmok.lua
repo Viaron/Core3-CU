@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_pet_blistmok = object_intangible_pet_blistmok:new {
+object_intangible_pet_blistmok = object_intangible_pet_shared_blistmok:new {
 
 }
 

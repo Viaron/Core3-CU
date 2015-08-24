@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_hologram_hologram_hk47 = object_tangible_hologram_hologram_hk47:new {
+object_tangible_hologram_hologram_hk47 = object_tangible_hologram_shared_hologram_hk47:new {
 
 }
 

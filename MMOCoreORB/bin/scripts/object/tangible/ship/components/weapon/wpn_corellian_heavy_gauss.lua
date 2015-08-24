@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_weapon_wpn_corellian_heavy_gauss = object_tangible_ship_components_weapon_wpn_corellian_heavy_gauss:new {
+object_tangible_ship_components_weapon_wpn_corellian_heavy_gauss = object_tangible_ship_components_weapon_shared_wpn_corellian_heavy_gauss:new {
 
 }
 

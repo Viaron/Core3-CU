@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_meat_jerky = object_tangible_food_generic_dish_meat_jerky:new {
+object_tangible_food_generic_dish_meat_jerky = object_tangible_food_generic_shared_dish_meat_jerky:new {
 
 }
 

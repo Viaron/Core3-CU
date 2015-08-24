@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_structure_mustafar_must_power_converter = object_tangible_component_structure_mustafar_must_power_converter:new {
+object_tangible_component_structure_mustafar_must_power_converter = object_tangible_component_structure_mustafar_shared_must_power_converter:new {
 
 }
 

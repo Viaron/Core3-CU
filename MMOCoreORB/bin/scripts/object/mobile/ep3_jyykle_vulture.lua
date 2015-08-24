@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_jyykle_vulture = object_mobile_ep3_jyykle_vulture:new {
+object_mobile_ep3_jyykle_vulture = object_mobile_shared_ep3_jyykle_vulture:new {
 
 }
 

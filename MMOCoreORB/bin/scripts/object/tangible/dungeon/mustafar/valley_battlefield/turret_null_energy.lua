@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy = object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy:new {
+object_tangible_dungeon_mustafar_valley_battlefield_turret_null_energy = object_tangible_dungeon_mustafar_valley_battlefield_shared_turret_null_energy:new {
 
 }
 

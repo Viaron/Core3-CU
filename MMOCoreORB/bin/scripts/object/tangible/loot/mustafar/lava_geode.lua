@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_lava_geode = object_tangible_loot_mustafar_lava_geode:new {
+object_tangible_loot_mustafar_lava_geode = object_tangible_loot_mustafar_shared_lava_geode:new {
 
 }
 

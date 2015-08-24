@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_pet_jundak = object_intangible_pet_jundak:new {
+object_intangible_pet_jundak = object_intangible_pet_shared_jundak:new {
 
 }
 

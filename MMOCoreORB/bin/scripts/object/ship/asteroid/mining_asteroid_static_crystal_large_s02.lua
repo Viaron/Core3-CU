@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_asteroid_mining_asteroid_static_crystal_large_s02 = object_ship_asteroid_mining_asteroid_static_crystal_large_s02:new {
+object_ship_asteroid_mining_asteroid_static_crystal_large_s02 = object_ship_asteroid_shared_mining_asteroid_static_crystal_large_s02:new {
 
 }
 

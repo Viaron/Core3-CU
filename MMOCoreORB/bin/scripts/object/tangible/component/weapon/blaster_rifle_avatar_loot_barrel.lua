@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel = object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel:new {
+object_tangible_component_weapon_blaster_rifle_avatar_loot_barrel = object_tangible_component_weapon_shared_blaster_rifle_avatar_loot_barrel:new {
 
 }
 

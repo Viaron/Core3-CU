@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_player_player_advanced_xwing = object_ship_player_player_advanced_xwing:new {
+object_ship_player_player_advanced_xwing = object_ship_player_shared_player_advanced_xwing:new {
 
 }
 

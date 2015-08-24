@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_yt2400_pcd = object_intangible_ship_yt2400_pcd:new {
+object_intangible_ship_yt2400_pcd = object_intangible_ship_shared_yt2400_pcd:new {
 
 }
 

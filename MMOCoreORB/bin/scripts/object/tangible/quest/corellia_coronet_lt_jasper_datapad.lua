@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_corellia_coronet_lt_jasper_datapad = object_tangible_quest_corellia_coronet_lt_jasper_datapad:new {
+object_tangible_quest_corellia_coronet_lt_jasper_datapad = object_tangible_quest_shared_corellia_coronet_lt_jasper_datapad:new {
 
 }
 

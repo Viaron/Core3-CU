@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_xandank_patriarch = object_mobile_som_xandank_patriarch:new {
+object_mobile_som_xandank_patriarch = object_mobile_som_shared_xandank_patriarch:new {
 
 }
 

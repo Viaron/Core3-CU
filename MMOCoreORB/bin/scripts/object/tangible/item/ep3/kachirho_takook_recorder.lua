@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_ep3_kachirho_takook_recorder = object_tangible_item_ep3_kachirho_takook_recorder:new {
+object_tangible_item_ep3_kachirho_takook_recorder = object_tangible_item_ep3_shared_kachirho_takook_recorder:new {
 
 }
 

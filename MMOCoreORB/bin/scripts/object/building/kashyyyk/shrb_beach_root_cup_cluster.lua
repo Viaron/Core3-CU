@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_shrb_beach_root_cup_cluster = object_building_kashyyyk_shrb_beach_root_cup_cluster:new {
+object_building_kashyyyk_shrb_beach_root_cup_cluster = object_building_kashyyyk_shared_shrb_beach_root_cup_cluster:new {
 
 }
 

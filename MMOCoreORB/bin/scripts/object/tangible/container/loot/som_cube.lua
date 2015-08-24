@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_container_loot_som_cube = object_tangible_container_loot_som_cube:new {
+object_tangible_container_loot_som_cube = object_tangible_container_loot_shared_som_cube:new {
 
 }
 

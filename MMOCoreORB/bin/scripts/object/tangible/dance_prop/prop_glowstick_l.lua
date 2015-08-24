@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dance_prop_prop_glowstick_l = object_tangible_dance_prop_prop_glowstick_l:new {
+object_tangible_dance_prop_prop_glowstick_l = object_tangible_dance_prop_shared_prop_glowstick_l:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_weapon_wpn_vulcan_cannon = object_tangible_ship_components_weapon_wpn_vulcan_cannon:new {
+object_tangible_ship_components_weapon_wpn_vulcan_cannon = object_tangible_ship_components_weapon_shared_wpn_vulcan_cannon:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_city_tie_bomber_event_reward = object_tangible_furniture_city_tie_bomber_event_reward:new {
+object_tangible_furniture_city_tie_bomber_event_reward = object_tangible_furniture_city_shared_tie_bomber_event_reward:new {
 
 }
 

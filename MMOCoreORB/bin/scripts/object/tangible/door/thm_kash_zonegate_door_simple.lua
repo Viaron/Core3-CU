@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_door_thm_kash_zonegate_door_simple = object_tangible_door_thm_kash_zonegate_door_simple:new {
+object_tangible_door_thm_kash_zonegate_door_simple = object_tangible_door_shared_thm_kash_zonegate_door_simple:new {
 
 }
 

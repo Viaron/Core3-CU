@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_instant_stimpack_bactapack_generic = object_tangible_medicine_instant_stimpack_bactapack_generic:new {
+object_tangible_medicine_instant_stimpack_bactapack_generic = object_tangible_medicine_instant_stimpack_shared_bactapack_generic:new {
 
 }
 

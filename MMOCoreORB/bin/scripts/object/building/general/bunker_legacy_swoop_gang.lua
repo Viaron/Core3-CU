@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_general_bunker_legacy_swoop_gang = object_building_general_bunker_legacy_swoop_gang:new {
+object_building_general_bunker_legacy_swoop_gang = object_building_general_shared_bunker_legacy_swoop_gang:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_wookiee_knuckler = object_draft_schematic_weapon_wookiee_knuckler:new {
+object_draft_schematic_weapon_wookiee_knuckler = object_draft_schematic_weapon_shared_wookiee_knuckler:new {
 
 }
 

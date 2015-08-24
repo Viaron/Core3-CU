@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_pet_tulrus = object_intangible_pet_tulrus:new {
+object_intangible_pet_tulrus = object_intangible_pet_shared_tulrus:new {
 
 }
 

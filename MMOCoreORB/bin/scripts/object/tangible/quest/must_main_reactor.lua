@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_must_main_reactor = object_tangible_quest_must_main_reactor:new {
+object_tangible_quest_must_main_reactor = object_tangible_quest_shared_must_main_reactor:new {
 
 }
 

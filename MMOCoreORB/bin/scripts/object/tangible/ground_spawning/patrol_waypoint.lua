@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ground_spawning_patrol_waypoint = object_tangible_ground_spawning_patrol_waypoint:new {
+object_tangible_ground_spawning_patrol_waypoint = object_tangible_ground_spawning_shared_patrol_waypoint:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_lislot_bloodscar = object_mobile_som_lislot_bloodscar:new {
+object_mobile_som_lislot_bloodscar = object_mobile_som_shared_lislot_bloodscar:new {
 
 }
 

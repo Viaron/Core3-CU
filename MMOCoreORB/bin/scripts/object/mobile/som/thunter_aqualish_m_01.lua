@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_thunter_aqualish_m_01 = object_mobile_som_thunter_aqualish_m_01:new {
+object_mobile_som_thunter_aqualish_m_01 = object_mobile_som_shared_thunter_aqualish_m_01:new {
 
 }
 

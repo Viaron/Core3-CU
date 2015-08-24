@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_disrupter = object_draft_schematic_weapon_pistol_disrupter:new {
+object_draft_schematic_weapon_pistol_disrupter = object_draft_schematic_weapon_shared_pistol_disrupter:new {
 
 }
 

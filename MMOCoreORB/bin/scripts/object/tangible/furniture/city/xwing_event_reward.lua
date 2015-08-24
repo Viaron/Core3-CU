@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_city_xwing_event_reward = object_tangible_furniture_city_xwing_event_reward:new {
+object_tangible_furniture_city_xwing_event_reward = object_tangible_furniture_city_shared_xwing_event_reward:new {
 
 }
 

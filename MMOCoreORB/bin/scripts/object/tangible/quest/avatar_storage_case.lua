@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_avatar_storage_case = object_tangible_quest_avatar_storage_case:new {
+object_tangible_quest_avatar_storage_case = object_tangible_quest_shared_avatar_storage_case:new {
 
 }
 

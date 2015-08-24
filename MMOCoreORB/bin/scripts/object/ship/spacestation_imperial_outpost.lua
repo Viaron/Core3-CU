@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_spacestation_imperial_outpost = object_ship_spacestation_imperial_outpost:new {
+object_ship_spacestation_imperial_outpost = object_ship_shared_spacestation_imperial_outpost:new {
 
 }
 

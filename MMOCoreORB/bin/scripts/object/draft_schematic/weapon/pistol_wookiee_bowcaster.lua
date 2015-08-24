@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_wookiee_bowcaster = object_draft_schematic_weapon_pistol_wookiee_bowcaster:new {
+object_draft_schematic_weapon_pistol_wookiee_bowcaster = object_draft_schematic_weapon_shared_pistol_wookiee_bowcaster:new {
 
 }
 

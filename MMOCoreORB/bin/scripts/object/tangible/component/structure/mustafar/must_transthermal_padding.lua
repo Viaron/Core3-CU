@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_structure_mustafar_must_transthermal_padding = object_tangible_component_structure_mustafar_must_transthermal_padding:new {
+object_tangible_component_structure_mustafar_must_transthermal_padding = object_tangible_component_structure_mustafar_shared_must_transthermal_padding:new {
 
 }
 

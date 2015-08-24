@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_vehicle_barc_speeder = object_mobile_vehicle_barc_speeder:new {
+object_mobile_vehicle_barc_speeder = object_mobile_vehicle_shared_barc_speeder:new {
 
 }
 

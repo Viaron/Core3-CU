@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_dna_dna_playersample_base = object_tangible_component_dna_dna_playersample_base:new {
+object_tangible_component_dna_dna_playersample_base = object_tangible_component_dna_shared_dna_playersample_base:new {
 
 }
 

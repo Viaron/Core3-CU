@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_heavy_lightning_beam_static = object_weapon_ranged_heavy_heavy_lightning_beam_static:new {
+object_weapon_ranged_heavy_heavy_lightning_beam_static = object_weapon_ranged_heavy_shared_heavy_lightning_beam_static:new {
 
 }
 

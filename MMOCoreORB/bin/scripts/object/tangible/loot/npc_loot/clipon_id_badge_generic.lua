@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_clipon_id_badge_generic = object_tangible_loot_npc_loot_clipon_id_badge_generic:new {
+object_tangible_loot_npc_loot_clipon_id_badge_generic = object_tangible_loot_npc_loot_shared_clipon_id_badge_generic:new {
 
 }
 

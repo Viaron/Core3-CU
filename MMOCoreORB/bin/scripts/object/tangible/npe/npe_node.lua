@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_npe_npe_node = object_tangible_npe_npe_node:new {
+object_tangible_npe_npe_node = object_tangible_npe_shared_npe_node:new {
 
 }
 

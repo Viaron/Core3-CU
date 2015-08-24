@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_2h_sword_ep3_loot_executer = object_weapon_melee_2h_sword_ep3_loot_executer:new {
+object_weapon_melee_2h_sword_ep3_loot_executer = object_weapon_melee_2h_sword_shared_ep3_loot_executer:new {
 
 }
 

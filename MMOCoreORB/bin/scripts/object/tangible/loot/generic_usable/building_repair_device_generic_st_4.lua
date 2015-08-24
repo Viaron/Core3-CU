@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_building_repair_device_generic_st_4 = object_tangible_loot_generic_usable_building_repair_device_generic_st_4:new {
+object_tangible_loot_generic_usable_building_repair_device_generic_st_4 = object_tangible_loot_generic_usable_shared_building_repair_device_generic_st_4:new {
 
 }
 

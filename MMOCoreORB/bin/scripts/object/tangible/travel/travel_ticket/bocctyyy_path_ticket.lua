@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_travel_travel_ticket_bocctyyy_path_ticket = object_tangible_travel_travel_ticket_bocctyyy_path_ticket:new {
+object_tangible_travel_travel_ticket_bocctyyy_path_ticket = object_tangible_travel_travel_ticket_shared_bocctyyy_path_ticket:new {
 
 }
 

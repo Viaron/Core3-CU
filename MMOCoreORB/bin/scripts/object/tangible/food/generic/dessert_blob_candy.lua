@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_blob_candy = object_tangible_food_generic_dessert_blob_candy:new {
+object_tangible_food_generic_dessert_blob_candy = object_tangible_food_generic_shared_dessert_blob_candy:new {
 
 }
 

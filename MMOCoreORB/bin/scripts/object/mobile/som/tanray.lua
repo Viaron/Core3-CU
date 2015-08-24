@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_tanray = object_mobile_som_tanray:new {
+object_mobile_som_tanray = object_mobile_som_shared_tanray:new {
 
 }
 

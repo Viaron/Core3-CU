@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_arc170_pcd = object_intangible_ship_arc170_pcd:new {
+object_intangible_ship_arc170_pcd = object_intangible_ship_shared_arc170_pcd:new {
 
 }
 

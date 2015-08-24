@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_deed_pet_deed_carrion_spat_generic_deed = object_tangible_deed_pet_deed_carrion_spat_generic_deed:new {
+object_tangible_deed_pet_deed_carrion_spat_generic_deed = object_tangible_deed_pet_deed_shared_carrion_spat_generic_deed:new {
 
 }
 

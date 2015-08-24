@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_smuggler_reactive_micro_plating = object_tangible_smuggler_reactive_micro_plating:new {
+object_tangible_smuggler_reactive_micro_plating = object_tangible_smuggler_shared_reactive_micro_plating:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_weapon_wpn_elite_null_bolt = object_tangible_ship_crafted_weapon_wpn_elite_null_bolt:new {
+object_tangible_ship_crafted_weapon_wpn_elite_null_bolt = object_tangible_ship_crafted_weapon_shared_wpn_elite_null_bolt:new {
 
 }
 

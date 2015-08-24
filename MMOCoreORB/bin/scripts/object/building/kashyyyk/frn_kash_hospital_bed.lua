@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_kash_hospital_bed = object_building_kashyyyk_frn_kash_hospital_bed:new {
+object_building_kashyyyk_frn_kash_hospital_bed = object_building_kashyyyk_shared_frn_kash_hospital_bed:new {
 
 }
 

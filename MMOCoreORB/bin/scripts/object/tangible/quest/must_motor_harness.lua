@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_must_motor_harness = object_tangible_quest_must_motor_harness:new {
+object_tangible_quest_must_motor_harness = object_tangible_quest_shared_must_motor_harness:new {
 
 }
 

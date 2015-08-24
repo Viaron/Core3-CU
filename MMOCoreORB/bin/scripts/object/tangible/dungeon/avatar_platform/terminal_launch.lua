@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_avatar_platform_terminal_launch = object_tangible_dungeon_avatar_platform_terminal_launch:new {
+object_tangible_dungeon_avatar_platform_terminal_launch = object_tangible_dungeon_avatar_platform_shared_terminal_launch:new {
 
 }
 

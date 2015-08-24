@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_component_armor_core_battle_standard = object_draft_schematic_armor_component_armor_core_battle_standard:new {
+object_draft_schematic_armor_component_armor_core_battle_standard = object_draft_schematic_armor_component_shared_armor_core_battle_standard:new {
 
 }
 

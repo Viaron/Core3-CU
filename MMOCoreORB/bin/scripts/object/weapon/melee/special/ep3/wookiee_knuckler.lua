@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_special_ep3_wookiee_knuckler = object_weapon_melee_special_ep3_wookiee_knuckler:new {
+object_weapon_melee_special_ep3_wookiee_knuckler = object_weapon_melee_special_ep3_shared_wookiee_knuckler:new {
 
 }
 

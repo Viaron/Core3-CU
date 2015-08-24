@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_bane_back_spider = object_mobile_bane_back_spider:new {
+object_mobile_bane_back_spider = object_mobile_shared_bane_back_spider:new {
 
 }
 

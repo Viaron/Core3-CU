@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_victor_baton_gaderiffi = object_draft_schematic_weapon_victor_baton_gaderiffi:new {
+object_draft_schematic_weapon_victor_baton_gaderiffi = object_draft_schematic_weapon_shared_victor_baton_gaderiffi:new {
 
 }
 

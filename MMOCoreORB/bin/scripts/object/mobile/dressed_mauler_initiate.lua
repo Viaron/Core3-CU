@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_mauler_initiate = object_mobile_dressed_mauler_initiate:new {
+object_mobile_dressed_mauler_initiate = object_mobile_shared_dressed_mauler_initiate:new {
 
 }
 

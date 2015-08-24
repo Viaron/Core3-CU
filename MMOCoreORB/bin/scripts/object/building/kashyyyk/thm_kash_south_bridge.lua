@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_thm_kash_south_bridge = object_building_kashyyyk_thm_kash_south_bridge:new {
+object_building_kashyyyk_thm_kash_south_bridge = object_building_kashyyyk_shared_thm_kash_south_bridge:new {
 
 }
 

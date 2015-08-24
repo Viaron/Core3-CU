@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_coyn_shock = object_mobile_som_coyn_shock:new {
+object_mobile_som_coyn_shock = object_mobile_som_shared_coyn_shock:new {
 
 }
 

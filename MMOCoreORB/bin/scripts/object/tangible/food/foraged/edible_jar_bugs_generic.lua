@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_foraged_edible_jar_bugs_generic = object_tangible_food_foraged_edible_jar_bugs_generic:new {
+object_tangible_food_foraged_edible_jar_bugs_generic = object_tangible_food_foraged_shared_edible_jar_bugs_generic:new {
 
 }
 

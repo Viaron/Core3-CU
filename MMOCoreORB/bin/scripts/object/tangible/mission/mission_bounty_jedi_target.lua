@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_mission_mission_bounty_jedi_target = object_tangible_mission_mission_bounty_jedi_target:new {
+object_tangible_mission_mission_bounty_jedi_target = object_tangible_mission_shared_mission_bounty_jedi_target:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_structure_mustafar_must_synth_creature_hide = object_tangible_component_structure_mustafar_must_synth_creature_hide:new {
+object_tangible_component_structure_mustafar_must_synth_creature_hide = object_tangible_component_structure_mustafar_shared_must_synth_creature_hide:new {
 
 }
 

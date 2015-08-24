@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_engine_eng_bezelbok_kessel_runner = object_tangible_ship_components_engine_eng_bezelbok_kessel_runner:new {
+object_tangible_ship_components_engine_eng_bezelbok_kessel_runner = object_tangible_ship_components_engine_shared_eng_bezelbok_kessel_runner:new {
 
 }
 

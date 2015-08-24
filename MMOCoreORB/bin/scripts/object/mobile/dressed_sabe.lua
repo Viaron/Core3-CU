@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_sabe = object_mobile_dressed_sabe:new {
+object_mobile_dressed_sabe = object_mobile_shared_dressed_sabe:new {
 
 }
 

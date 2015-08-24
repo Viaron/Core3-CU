@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_mun_kash_avatar_planet_hologram = object_building_kashyyyk_mun_kash_avatar_planet_hologram:new {
+object_building_kashyyyk_mun_kash_avatar_planet_hologram = object_building_kashyyyk_shared_mun_kash_avatar_planet_hologram:new {
 
 }
 

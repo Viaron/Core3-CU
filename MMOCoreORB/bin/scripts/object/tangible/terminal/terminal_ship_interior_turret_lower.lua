@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_terminal_ship_interior_turret_lower = object_tangible_terminal_terminal_ship_interior_turret_lower:new {
+object_tangible_terminal_terminal_ship_interior_turret_lower = object_tangible_terminal_shared_terminal_ship_interior_turret_lower:new {
 
 }
 

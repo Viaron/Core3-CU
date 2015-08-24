@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_enhancer_bactajab = object_tangible_medicine_enhancer_enhancer_bactajab:new {
+object_tangible_medicine_enhancer_enhancer_bactajab = object_tangible_medicine_enhancer_shared_enhancer_bactajab:new {
 
 }
 

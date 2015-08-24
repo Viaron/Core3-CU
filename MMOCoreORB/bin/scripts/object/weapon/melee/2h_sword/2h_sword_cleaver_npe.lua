@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_2h_sword_2h_sword_cleaver_npe = object_weapon_melee_2h_sword_2h_sword_cleaver_npe:new {
+object_weapon_melee_2h_sword_2h_sword_cleaver_npe = object_weapon_melee_2h_sword_shared_2h_sword_cleaver_npe:new {
 
 }
 

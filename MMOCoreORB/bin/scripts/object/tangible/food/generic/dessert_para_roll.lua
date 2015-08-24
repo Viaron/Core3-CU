@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_para_roll = object_tangible_food_generic_dessert_para_roll:new {
+object_tangible_food_generic_dessert_para_roll = object_tangible_food_generic_shared_dessert_para_roll:new {
 
 }
 

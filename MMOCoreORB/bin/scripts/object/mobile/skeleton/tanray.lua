@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_skeleton_tanray = object_mobile_skeleton_tanray:new {
+object_mobile_skeleton_tanray = object_mobile_skeleton_shared_tanray:new {
 
 }
 

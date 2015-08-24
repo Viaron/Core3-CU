@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_jedi_jedi_holocron_generic = object_tangible_jedi_jedi_holocron_generic:new {
+object_tangible_jedi_jedi_holocron_generic = object_tangible_jedi_shared_jedi_holocron_generic:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_kenobi_final_chamber_entrance_item = object_tangible_quest_som_kenobi_final_chamber_entrance_item:new {
+object_tangible_quest_som_kenobi_final_chamber_entrance_item = object_tangible_quest_shared_som_kenobi_final_chamber_entrance_item:new {
 
 }
 

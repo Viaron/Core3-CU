@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_weapon_arc170_weapon_s06 = object_tangible_ship_attachment_weapon_arc170_weapon_s06:new {
+object_tangible_ship_attachment_weapon_arc170_weapon_s06 = object_tangible_ship_attachment_weapon_shared_arc170_weapon_s06:new {
 
 }
 

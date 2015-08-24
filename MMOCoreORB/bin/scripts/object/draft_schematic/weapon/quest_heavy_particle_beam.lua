@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_quest_heavy_particle_beam = object_draft_schematic_weapon_quest_heavy_particle_beam:new {
+object_draft_schematic_weapon_quest_heavy_particle_beam = object_draft_schematic_weapon_shared_quest_heavy_particle_beam:new {
 
 }
 

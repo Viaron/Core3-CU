@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_armor_appearance_enhancement_feather = object_draft_schematic_armor_armor_appearance_enhancement_feather:new {
+object_draft_schematic_armor_armor_appearance_enhancement_feather = object_draft_schematic_armor_shared_armor_appearance_enhancement_feather:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_yavin_negam = object_mobile_dressed_yavin_negam:new {
+object_mobile_dressed_yavin_negam = object_mobile_shared_dressed_yavin_negam:new {
 
 }
 

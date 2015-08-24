@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_house_generic_house_control_device = object_intangible_house_generic_house_control_device:new {
+object_intangible_house_generic_house_control_device = object_intangible_house_shared_generic_house_control_device:new {
 
 }
 

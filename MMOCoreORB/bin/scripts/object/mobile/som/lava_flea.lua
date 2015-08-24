@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_lava_flea = object_mobile_som_lava_flea:new {
+object_mobile_som_lava_flea = object_mobile_som_shared_lava_flea:new {
 
 }
 

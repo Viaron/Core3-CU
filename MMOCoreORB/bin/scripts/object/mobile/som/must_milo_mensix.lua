@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_must_milo_mensix = object_mobile_som_must_milo_mensix:new {
+object_mobile_som_must_milo_mensix = object_mobile_som_shared_must_milo_mensix:new {
 
 }
 

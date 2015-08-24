@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_event_reward_bossk_pistol = object_draft_schematic_weapon_event_reward_bossk_pistol:new {
+object_draft_schematic_weapon_event_reward_bossk_pistol = object_draft_schematic_weapon_shared_event_reward_bossk_pistol:new {
 
 }
 

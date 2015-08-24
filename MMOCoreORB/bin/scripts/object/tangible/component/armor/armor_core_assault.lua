@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_armor_core_assault = object_tangible_component_armor_armor_core_assault:new {
+object_tangible_component_armor_armor_core_assault = object_tangible_component_armor_shared_armor_core_assault:new {
 
 }
 

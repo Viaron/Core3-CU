@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_crafted_medpack_enhance_action_triad_d = object_tangible_medicine_crafted_medpack_enhance_action_triad_d:new {
+object_tangible_medicine_crafted_medpack_enhance_action_triad_d = object_tangible_medicine_crafted_shared_medpack_enhance_action_triad_d:new {
 
 }
 

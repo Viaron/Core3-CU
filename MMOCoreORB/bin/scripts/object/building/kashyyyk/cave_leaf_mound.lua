@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_cave_leaf_mound = object_building_kashyyyk_cave_leaf_mound:new {
+object_building_kashyyyk_cave_leaf_mound = object_building_kashyyyk_shared_cave_leaf_mound:new {
 
 }
 

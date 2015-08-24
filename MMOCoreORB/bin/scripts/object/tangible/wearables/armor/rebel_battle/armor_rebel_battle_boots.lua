@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_rebel_battle_armor_rebel_battle_boots = object_tangible_wearables_armor_rebel_battle_armor_rebel_battle_boots:new {
+object_tangible_wearables_armor_rebel_battle_armor_rebel_battle_boots = object_tangible_wearables_armor_rebel_battle_shared_armor_rebel_battle_boots:new {
 
 }
 

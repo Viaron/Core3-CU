@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_tremor_foot = object_mobile_som_tremor_foot:new {
+object_mobile_som_tremor_foot = object_mobile_som_shared_tremor_foot:new {
 
 }
 

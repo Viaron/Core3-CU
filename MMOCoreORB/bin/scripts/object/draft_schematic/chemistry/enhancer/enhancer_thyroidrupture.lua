@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_enhancer_thyroidrupture = object_draft_schematic_chemistry_enhancer_enhancer_thyroidrupture:new {
+object_draft_schematic_chemistry_enhancer_enhancer_thyroidrupture = object_draft_schematic_chemistry_enhancer_shared_enhancer_thyroidrupture:new {
 
 }
 

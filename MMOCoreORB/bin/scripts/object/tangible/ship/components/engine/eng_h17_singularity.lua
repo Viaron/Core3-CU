@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_engine_eng_h17_singularity = object_tangible_ship_components_engine_eng_h17_singularity:new {
+object_tangible_ship_components_engine_eng_h17_singularity = object_tangible_ship_components_engine_shared_eng_h17_singularity:new {
 
 }
 

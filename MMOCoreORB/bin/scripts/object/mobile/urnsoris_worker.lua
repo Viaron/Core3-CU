@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_urnsoris_worker = object_mobile_urnsoris_worker:new {
+object_mobile_urnsoris_worker = object_mobile_shared_urnsoris_worker:new {
 
 }
 

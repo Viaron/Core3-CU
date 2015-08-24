@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_engine_awing_engine_s03 = object_tangible_ship_attachment_engine_awing_engine_s03:new {
+object_tangible_ship_attachment_engine_awing_engine_s03 = object_tangible_ship_attachment_engine_shared_awing_engine_s03:new {
 
 }
 

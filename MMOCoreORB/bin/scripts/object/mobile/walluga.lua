@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_walluga = object_mobile_walluga:new {
+object_mobile_walluga = object_mobile_shared_walluga:new {
 
 }
 

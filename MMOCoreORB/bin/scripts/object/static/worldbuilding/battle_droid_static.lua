@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_battle_droid_static = object_static_worldbuilding_battle_droid_static:new {
+object_static_worldbuilding_battle_droid_static = object_static_worldbuilding_shared_battle_droid_static:new {
 
 }
 

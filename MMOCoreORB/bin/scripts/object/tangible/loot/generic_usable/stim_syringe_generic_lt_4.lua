@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_stim_syringe_generic_lt_4 = object_tangible_loot_generic_usable_stim_syringe_generic_lt_4:new {
+object_tangible_loot_generic_usable_stim_syringe_generic_lt_4 = object_tangible_loot_generic_usable_shared_stim_syringe_generic_lt_4:new {
 
 }
 

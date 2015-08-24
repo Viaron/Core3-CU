@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_spacestation_mining_outpost = object_ship_spacestation_mining_outpost:new {
+object_ship_spacestation_mining_outpost = object_ship_shared_spacestation_mining_outpost:new {
 
 }
 

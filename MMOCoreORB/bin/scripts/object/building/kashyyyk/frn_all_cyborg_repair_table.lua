@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_all_cyborg_repair_table = object_building_kashyyyk_frn_all_cyborg_repair_table:new {
+object_building_kashyyyk_frn_all_cyborg_repair_table = object_building_kashyyyk_shared_frn_all_cyborg_repair_table:new {
 
 }
 

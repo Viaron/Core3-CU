@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_dark_jedi_boss = object_mobile_som_som_dark_jedi_boss:new {
+object_mobile_som_som_dark_jedi_boss = object_mobile_som_shared_som_dark_jedi_boss:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_volcano_cyborg_lt = object_mobile_som_volcano_cyborg_lt:new {
+object_mobile_som_volcano_cyborg_lt = object_mobile_som_shared_volcano_cyborg_lt:new {
 
 }
 

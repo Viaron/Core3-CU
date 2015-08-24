@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_rifle_rifle_massassi_ink = object_weapon_ranged_rifle_rifle_massassi_ink:new {
+object_weapon_ranged_rifle_rifle_massassi_ink = object_weapon_ranged_rifle_shared_rifle_massassi_ink:new {
 
 }
 

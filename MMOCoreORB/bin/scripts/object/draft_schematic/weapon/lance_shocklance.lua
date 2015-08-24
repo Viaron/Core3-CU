@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_lance_shocklance = object_draft_schematic_weapon_lance_shocklance:new {
+object_draft_schematic_weapon_lance_shocklance = object_draft_schematic_weapon_shared_lance_shocklance:new {
 
 }
 

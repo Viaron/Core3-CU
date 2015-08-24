@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_bio_engineer_bio_component_bio_component_armor_adenine = object_draft_schematic_bio_engineer_bio_component_bio_component_armor_adenine:new {
+object_draft_schematic_bio_engineer_bio_component_bio_component_armor_adenine = object_draft_schematic_bio_engineer_bio_component_shared_bio_component_armor_adenine:new {
 
 }
 

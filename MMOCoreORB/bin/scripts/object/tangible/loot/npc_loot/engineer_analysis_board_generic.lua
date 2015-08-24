@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_engineer_analysis_board_generic = object_tangible_loot_npc_loot_engineer_analysis_board_generic:new {
+object_tangible_loot_npc_loot_engineer_analysis_board_generic = object_tangible_loot_npc_loot_shared_engineer_analysis_board_generic:new {
 
 }
 

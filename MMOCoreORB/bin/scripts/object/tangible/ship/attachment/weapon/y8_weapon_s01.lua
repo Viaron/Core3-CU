@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_weapon_y8_weapon_s01 = object_tangible_ship_attachment_weapon_y8_weapon_s01:new {
+object_tangible_ship_attachment_weapon_y8_weapon_s01 = object_tangible_ship_attachment_weapon_shared_y8_weapon_s01:new {
 
 }
 

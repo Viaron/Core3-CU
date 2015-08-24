@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_loot_schematic_speeder_usv5_schematic = object_tangible_loot_loot_schematic_speeder_usv5_schematic:new {
+object_tangible_loot_loot_schematic_speeder_usv5_schematic = object_tangible_loot_loot_schematic_shared_speeder_usv5_schematic:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_booster_yt2400_booster_s02 = object_tangible_ship_attachment_booster_yt2400_booster_s02:new {
+object_tangible_ship_attachment_booster_yt2400_booster_s02 = object_tangible_ship_attachment_booster_shared_yt2400_booster_s02:new {
 
 }
 

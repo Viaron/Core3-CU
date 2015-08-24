@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_volcano_battlefield_launch_mechanism = object_tangible_dungeon_mustafar_volcano_battlefield_launch_mechanism:new {
+object_tangible_dungeon_mustafar_volcano_battlefield_launch_mechanism = object_tangible_dungeon_mustafar_volcano_battlefield_shared_launch_mechanism:new {
 
 }
 

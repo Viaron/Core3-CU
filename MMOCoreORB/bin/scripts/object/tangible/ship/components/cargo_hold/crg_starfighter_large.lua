@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_cargo_hold_crg_starfighter_large = object_tangible_ship_components_cargo_hold_crg_starfighter_large:new {
+object_tangible_ship_components_cargo_hold_crg_starfighter_large = object_tangible_ship_components_cargo_hold_shared_crg_starfighter_large:new {
 
 }
 

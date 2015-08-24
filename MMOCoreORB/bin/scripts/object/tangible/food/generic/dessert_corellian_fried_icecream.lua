@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_corellian_fried_icecream = object_tangible_food_generic_dessert_corellian_fried_icecream:new {
+object_tangible_food_generic_dessert_corellian_fried_icecream = object_tangible_food_generic_shared_dessert_corellian_fried_icecream:new {
 
 }
 

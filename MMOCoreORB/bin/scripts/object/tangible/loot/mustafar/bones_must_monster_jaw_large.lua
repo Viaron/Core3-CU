@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_bones_must_monster_jaw_large = object_tangible_loot_mustafar_bones_must_monster_jaw_large:new {
+object_tangible_loot_mustafar_bones_must_monster_jaw_large = object_tangible_loot_mustafar_shared_bones_must_monster_jaw_large:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_archaic_sayormi_blade = object_tangible_loot_creature_loot_kashyyyk_loot_archaic_sayormi_blade:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_archaic_sayormi_blade = object_tangible_loot_creature_loot_kashyyyk_loot_shared_archaic_sayormi_blade:new {
 
 }
 

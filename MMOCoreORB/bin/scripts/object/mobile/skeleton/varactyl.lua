@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_skeleton_varactyl = object_mobile_skeleton_varactyl:new {
+object_mobile_skeleton_varactyl = object_mobile_skeleton_shared_varactyl:new {
 
 }
 

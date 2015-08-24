@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_chassis_texture_kit_arc170_s01 = object_draft_schematic_space_chassis_texture_kit_arc170_s01:new {
+object_draft_schematic_space_chassis_texture_kit_arc170_s01 = object_draft_schematic_space_chassis_shared_texture_kit_arc170_s01:new {
 
 }
 

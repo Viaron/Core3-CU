@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_urnsoris_young = object_mobile_urnsoris_young:new {
+object_mobile_urnsoris_young = object_mobile_shared_urnsoris_young:new {
 
 }
 

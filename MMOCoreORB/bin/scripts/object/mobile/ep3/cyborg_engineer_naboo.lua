@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_cyborg_engineer_naboo = object_mobile_ep3_cyborg_engineer_naboo:new {
+object_mobile_ep3_cyborg_engineer_naboo = object_mobile_ep3_shared_cyborg_engineer_naboo:new {
 
 }
 

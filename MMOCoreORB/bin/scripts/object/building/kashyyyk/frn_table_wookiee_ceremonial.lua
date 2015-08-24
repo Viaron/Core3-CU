@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_table_wookiee_ceremonial = object_building_kashyyyk_frn_table_wookiee_ceremonial:new {
+object_building_kashyyyk_frn_table_wookiee_ceremonial = object_building_kashyyyk_shared_frn_table_wookiee_ceremonial:new {
 
 }
 

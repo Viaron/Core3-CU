@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_smuggler_illegal_core_booster = object_tangible_smuggler_illegal_core_booster:new {
+object_tangible_smuggler_illegal_core_booster = object_tangible_smuggler_shared_illegal_core_booster:new {
 
 }
 

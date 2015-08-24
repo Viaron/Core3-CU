@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_component_new_armor_segment_test = object_draft_schematic_armor_component_new_armor_segment_test:new {
+object_draft_schematic_armor_component_new_armor_segment_test = object_draft_schematic_armor_component_shared_new_armor_segment_test:new {
 
 }
 

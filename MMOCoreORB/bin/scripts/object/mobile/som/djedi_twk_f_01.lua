@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_djedi_twk_f_01 = object_mobile_som_djedi_twk_f_01:new {
+object_mobile_som_djedi_twk_f_01 = object_mobile_som_shared_djedi_twk_f_01:new {
 
 }
 

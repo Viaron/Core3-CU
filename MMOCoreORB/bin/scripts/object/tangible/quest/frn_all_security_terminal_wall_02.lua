@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_frn_all_security_terminal_wall_02 = object_tangible_quest_frn_all_security_terminal_wall_02:new {
+object_tangible_quest_frn_all_security_terminal_wall_02 = object_tangible_quest_shared_frn_all_security_terminal_wall_02:new {
 
 }
 

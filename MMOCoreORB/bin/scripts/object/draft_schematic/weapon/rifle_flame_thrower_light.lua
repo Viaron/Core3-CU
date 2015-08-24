@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_rifle_flame_thrower_light = object_draft_schematic_weapon_rifle_flame_thrower_light:new {
+object_draft_schematic_weapon_rifle_flame_thrower_light = object_draft_schematic_weapon_shared_rifle_flame_thrower_light:new {
 
 }
 

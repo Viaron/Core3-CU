@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_polearm_som_lance_xandank = object_weapon_melee_polearm_som_lance_xandank:new {
+object_weapon_melee_polearm_som_lance_xandank = object_weapon_melee_polearm_shared_som_lance_xandank:new {
 
 }
 

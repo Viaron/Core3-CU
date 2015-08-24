@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_quest_drink_warrl_surprise = object_tangible_food_quest_drink_warrl_surprise:new {
+object_tangible_food_quest_drink_warrl_surprise = object_tangible_food_quest_shared_drink_warrl_surprise:new {
 
 }
 

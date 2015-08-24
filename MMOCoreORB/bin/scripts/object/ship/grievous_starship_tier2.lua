@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_grievous_starship_tier2 = object_ship_grievous_starship_tier2:new {
+object_ship_grievous_starship_tier2 = object_ship_shared_grievous_starship_tier2:new {
 
 }
 

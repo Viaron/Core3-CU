@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_sayormi_warrior_05 = object_mobile_dressed_sayormi_warrior_05:new {
+object_mobile_dressed_sayormi_warrior_05 = object_mobile_shared_dressed_sayormi_warrior_05:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_carbine_avatar_trando_e5 = object_weapon_ranged_carbine_carbine_avatar_trando_e5:new {
+object_weapon_ranged_carbine_carbine_avatar_trando_e5 = object_weapon_ranged_carbine_shared_carbine_avatar_trando_e5:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_elect_module_complex_generic = object_tangible_loot_npc_loot_elect_module_complex_generic:new {
+object_tangible_loot_npc_loot_elect_module_complex_generic = object_tangible_loot_npc_loot_shared_elect_module_complex_generic:new {
 
 }
 

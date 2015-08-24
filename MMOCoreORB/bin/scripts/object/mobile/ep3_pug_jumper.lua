@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_pug_jumper = object_mobile_ep3_pug_jumper:new {
+object_mobile_ep3_pug_jumper = object_mobile_shared_ep3_pug_jumper:new {
 
 }
 

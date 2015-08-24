@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_mayor_mikdanyell_guhrantt = object_mobile_dressed_mayor_mikdanyell_guhrantt:new {
+object_mobile_dressed_mayor_mikdanyell_guhrantt = object_mobile_shared_dressed_mayor_mikdanyell_guhrantt:new {
 
 }
 

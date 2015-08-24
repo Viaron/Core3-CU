@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_naboo_trandoshan_slave_naboo_house = object_building_naboo_trandoshan_slave_naboo_house:new {
+object_building_naboo_trandoshan_slave_naboo_house = object_building_naboo_shared_trandoshan_slave_naboo_house:new {
 
 }
 

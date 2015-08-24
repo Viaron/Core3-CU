@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_general_bunker_corellia_nedgarr_bandits = object_building_general_bunker_corellia_nedgarr_bandits:new {
+object_building_general_bunker_corellia_nedgarr_bandits = object_building_general_shared_bunker_corellia_nedgarr_bandits:new {
 
 }
 

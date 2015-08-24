@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_ep3_sword_wookiee = object_weapon_melee_sword_ep3_sword_wookiee:new {
+object_weapon_melee_sword_ep3_sword_wookiee = object_weapon_melee_sword_ep3_shared_sword_wookiee:new {
 
 }
 

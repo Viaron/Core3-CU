@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_wp_mle_lance_massassi = object_static_item_wp_mle_lance_massassi:new {
+object_static_item_wp_mle_lance_massassi = object_static_item_shared_wp_mle_lance_massassi:new {
 
 }
 

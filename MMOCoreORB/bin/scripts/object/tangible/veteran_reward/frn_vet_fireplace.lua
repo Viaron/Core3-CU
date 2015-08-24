@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_veteran_reward_frn_vet_fireplace = object_tangible_veteran_reward_frn_vet_fireplace:new {
+object_tangible_veteran_reward_frn_vet_fireplace = object_tangible_veteran_reward_shared_frn_vet_fireplace:new {
 
 }
 

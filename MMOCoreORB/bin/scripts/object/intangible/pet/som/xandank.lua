@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_pet_som_xandank = object_intangible_pet_som_xandank:new {
+object_intangible_pet_som_xandank = object_intangible_pet_som_shared_xandank:new {
 
 }
 

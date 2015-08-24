@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_arcona = object_mobile_arcona:new {
+object_mobile_arcona = object_mobile_shared_arcona:new {
 
 }
 

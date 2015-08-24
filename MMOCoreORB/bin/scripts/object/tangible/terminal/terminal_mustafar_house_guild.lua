@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_terminal_mustafar_house_guild = object_tangible_terminal_terminal_mustafar_house_guild:new {
+object_tangible_terminal_terminal_mustafar_house_guild = object_tangible_terminal_shared_terminal_mustafar_house_guild:new {
 
 }
 

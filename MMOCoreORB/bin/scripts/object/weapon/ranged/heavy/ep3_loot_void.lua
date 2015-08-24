@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_ep3_loot_void = object_weapon_ranged_heavy_ep3_loot_void:new {
+object_weapon_ranged_heavy_ep3_loot_void = object_weapon_ranged_heavy_shared_ep3_loot_void:new {
 
 }
 

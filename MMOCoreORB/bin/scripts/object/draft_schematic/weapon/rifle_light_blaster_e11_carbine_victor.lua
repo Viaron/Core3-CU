@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_rifle_light_blaster_e11_carbine_victor = object_draft_schematic_weapon_rifle_light_blaster_e11_carbine_victor:new {
+object_draft_schematic_weapon_rifle_light_blaster_e11_carbine_victor = object_draft_schematic_weapon_shared_rifle_light_blaster_e11_carbine_victor:new {
 
 }
 

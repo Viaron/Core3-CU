@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_structure_mustafar_must_micro_fiber_weave = object_tangible_component_structure_mustafar_must_micro_fiber_weave:new {
+object_tangible_component_structure_mustafar_must_micro_fiber_weave = object_tangible_component_structure_mustafar_shared_must_micro_fiber_weave:new {
 
 }
 

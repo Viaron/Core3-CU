@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_ruins_aqualish = object_mobile_som_ruins_aqualish:new {
+object_mobile_som_ruins_aqualish = object_mobile_som_shared_ruins_aqualish:new {
 
 }
 

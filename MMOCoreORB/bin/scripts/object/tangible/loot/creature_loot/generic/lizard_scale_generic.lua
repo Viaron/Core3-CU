@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_lizard_scale_generic = object_tangible_loot_creature_loot_generic_lizard_scale_generic:new {
+object_tangible_loot_creature_loot_generic_lizard_scale_generic = object_tangible_loot_creature_loot_generic_shared_lizard_scale_generic:new {
 
 }
 

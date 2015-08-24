@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_quest_rifle_projectile_tusken = object_draft_schematic_weapon_quest_rifle_projectile_tusken:new {
+object_draft_schematic_weapon_quest_rifle_projectile_tusken = object_draft_schematic_weapon_shared_quest_rifle_projectile_tusken:new {
 
 }
 

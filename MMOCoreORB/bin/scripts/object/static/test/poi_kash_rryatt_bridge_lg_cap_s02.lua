@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_test_poi_kash_rryatt_bridge_lg_cap_s02 = object_static_test_poi_kash_rryatt_bridge_lg_cap_s02:new {
+object_static_test_poi_kash_rryatt_bridge_lg_cap_s02 = object_static_test_shared_poi_kash_rryatt_bridge_lg_cap_s02:new {
 
 }
 

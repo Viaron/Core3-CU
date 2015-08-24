@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_bofa_treat = object_tangible_food_generic_dessert_bofa_treat:new {
+object_tangible_food_generic_dessert_bofa_treat = object_tangible_food_generic_shared_dessert_bofa_treat:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_pikatta_pie = object_tangible_food_generic_dessert_pikatta_pie:new {
+object_tangible_food_generic_dessert_pikatta_pie = object_tangible_food_generic_shared_dessert_pikatta_pie:new {
 
 }
 

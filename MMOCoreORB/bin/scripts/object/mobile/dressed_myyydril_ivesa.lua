@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_myyydril_ivesa = object_mobile_dressed_myyydril_ivesa:new {
+object_mobile_dressed_myyydril_ivesa = object_mobile_shared_dressed_myyydril_ivesa:new {
 
 }
 

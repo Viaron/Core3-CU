@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_misc_kashyyyk_cave_plant = object_tangible_loot_misc_kashyyyk_cave_plant:new {
+object_tangible_loot_misc_kashyyyk_cave_plant = object_tangible_loot_misc_shared_kashyyyk_cave_plant:new {
 
 }
 

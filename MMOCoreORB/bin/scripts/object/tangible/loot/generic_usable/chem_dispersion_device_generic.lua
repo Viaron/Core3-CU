@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_chem_dispersion_device_generic = object_tangible_loot_generic_usable_chem_dispersion_device_generic:new {
+object_tangible_loot_generic_usable_chem_dispersion_device_generic = object_tangible_loot_generic_usable_shared_chem_dispersion_device_generic:new {
 
 }
 

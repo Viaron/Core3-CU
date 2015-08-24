@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_armor_elite_armor = object_draft_schematic_space_armor_elite_armor:new {
+object_draft_schematic_space_armor_elite_armor = object_draft_schematic_space_armor_shared_elite_armor:new {
 
 }
 

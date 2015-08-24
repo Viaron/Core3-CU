@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_lightsaber_lightsaber_module_lava_crystal = object_tangible_component_weapon_lightsaber_lightsaber_module_lava_crystal:new {
+object_tangible_component_weapon_lightsaber_lightsaber_module_lava_crystal = object_tangible_component_weapon_lightsaber_shared_lightsaber_module_lava_crystal:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_player_player_arc170 = object_ship_player_player_arc170:new {
+object_ship_player_player_arc170 = object_ship_player_shared_player_arc170:new {
 
 }
 

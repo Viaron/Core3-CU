@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_force_sensitive__force_crystal = object_tangible_loot_quest_force_sensitive__force_crystal:new {
+object_tangible_loot_quest_force_sensitive__force_crystal = object_tangible_loot_quest_force_sensitive_shared__force_crystal:new {
 
 }
 

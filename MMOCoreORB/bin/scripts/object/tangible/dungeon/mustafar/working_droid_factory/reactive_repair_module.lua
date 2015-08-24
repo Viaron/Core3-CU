@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_working_droid_factory_reactive_repair_module = object_tangible_dungeon_mustafar_working_droid_factory_reactive_repair_module:new {
+object_tangible_dungeon_mustafar_working_droid_factory_reactive_repair_module = object_tangible_dungeon_mustafar_working_droid_factory_shared_reactive_repair_module:new {
 
 }
 

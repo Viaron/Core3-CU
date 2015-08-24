@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_ith_necklace_wookiee_freedom_f = object_tangible_wearables_necklace_ith_necklace_wookiee_freedom_f:new {
+object_tangible_wearables_necklace_ith_necklace_wookiee_freedom_f = object_tangible_wearables_necklace_shared_ith_necklace_wookiee_freedom_f:new {
 
 }
 

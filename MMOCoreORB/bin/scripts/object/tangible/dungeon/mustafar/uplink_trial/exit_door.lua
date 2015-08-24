@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_uplink_trial_exit_door = object_tangible_dungeon_mustafar_uplink_trial_exit_door:new {
+object_tangible_dungeon_mustafar_uplink_trial_exit_door = object_tangible_dungeon_mustafar_uplink_trial_shared_exit_door:new {
 
 }
 

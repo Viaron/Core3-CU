@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_mutant_acklay = object_mobile_mutant_acklay:new {
+object_mobile_mutant_acklay = object_mobile_shared_mutant_acklay:new {
 
 }
 

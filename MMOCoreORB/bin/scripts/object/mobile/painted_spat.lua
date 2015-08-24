@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_painted_spat = object_mobile_painted_spat:new {
+object_mobile_painted_spat = object_mobile_shared_painted_spat:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_dressed_legacy_barrezz = object_mobile_dressed_dressed_legacy_barrezz:new {
+object_mobile_dressed_dressed_legacy_barrezz = object_mobile_shared_dressed_dressed_legacy_barrezz:new {
 
 }
 

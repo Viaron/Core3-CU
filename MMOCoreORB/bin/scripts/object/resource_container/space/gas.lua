@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_resource_container_space_gas = object_resource_container_space_gas:new {
+object_resource_container_space_gas = object_resource_container_space_shared_gas:new {
 
 }
 

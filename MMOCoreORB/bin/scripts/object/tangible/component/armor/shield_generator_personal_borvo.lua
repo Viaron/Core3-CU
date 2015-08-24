@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_shield_generator_personal_borvo = object_tangible_component_armor_shield_generator_personal_borvo:new {
+object_tangible_component_armor_shield_generator_personal_borvo = object_tangible_component_armor_shared_shield_generator_personal_borvo:new {
 
 }
 

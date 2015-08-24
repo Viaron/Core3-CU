@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_mustafarian_computer_technician = object_mobile_som_som_mustafarian_computer_technician:new {
+object_mobile_som_som_mustafarian_computer_technician = object_mobile_som_shared_som_mustafarian_computer_technician:new {
 
 }
 

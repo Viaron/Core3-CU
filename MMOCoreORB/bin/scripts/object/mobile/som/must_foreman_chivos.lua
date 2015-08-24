@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_must_foreman_chivos = object_mobile_som_must_foreman_chivos:new {
+object_mobile_som_must_foreman_chivos = object_mobile_som_shared_must_foreman_chivos:new {
 
 }
 

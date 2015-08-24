@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_structure_general_trash_pile_no_flora_15m = object_static_structure_general_trash_pile_no_flora_15m:new {
+object_static_structure_general_trash_pile_no_flora_15m = object_static_structure_general_shared_trash_pile_no_flora_15m:new {
 
 }
 

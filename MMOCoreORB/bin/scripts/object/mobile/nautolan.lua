@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_nautolan = object_mobile_nautolan:new {
+object_mobile_nautolan = object_mobile_shared_nautolan:new {
 
 }
 

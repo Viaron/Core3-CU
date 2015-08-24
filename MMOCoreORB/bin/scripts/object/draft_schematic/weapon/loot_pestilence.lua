@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_loot_pestilence = object_draft_schematic_weapon_loot_pestilence:new {
+object_draft_schematic_weapon_loot_pestilence = object_draft_schematic_weapon_shared_loot_pestilence:new {
 
 }
 

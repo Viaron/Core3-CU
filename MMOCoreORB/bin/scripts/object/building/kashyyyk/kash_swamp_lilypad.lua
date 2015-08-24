@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_kash_swamp_lilypad = object_building_kashyyyk_kash_swamp_lilypad:new {
+object_building_kashyyyk_kash_swamp_lilypad = object_building_kashyyyk_shared_kash_swamp_lilypad:new {
 
 }
 

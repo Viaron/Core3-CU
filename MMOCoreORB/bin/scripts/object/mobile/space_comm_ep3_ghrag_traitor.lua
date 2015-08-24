@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_space_comm_ep3_ghrag_traitor = object_mobile_space_comm_ep3_ghrag_traitor:new {
+object_mobile_space_comm_ep3_ghrag_traitor = object_mobile_shared_space_comm_ep3_ghrag_traitor:new {
 
 }
 

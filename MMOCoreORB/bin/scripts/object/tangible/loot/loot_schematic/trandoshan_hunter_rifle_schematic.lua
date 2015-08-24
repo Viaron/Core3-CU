@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic = object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic:new {
+object_tangible_loot_loot_schematic_trandoshan_hunter_rifle_schematic = object_tangible_loot_loot_schematic_shared_trandoshan_hunter_rifle_schematic:new {
 
 }
 

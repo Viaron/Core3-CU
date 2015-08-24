@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_wp_mle_sword_acid = object_static_item_wp_mle_sword_acid:new {
+object_static_item_wp_mle_sword_acid = object_static_item_shared_wp_mle_sword_acid:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_space_comm_wke_resist_02 = object_mobile_space_comm_wke_resist_02:new {
+object_mobile_space_comm_wke_resist_02 = object_mobile_shared_space_comm_wke_resist_02:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_furniture_must_radar_screen = object_draft_schematic_furniture_must_radar_screen:new {
+object_draft_schematic_furniture_must_radar_screen = object_draft_schematic_furniture_shared_must_radar_screen:new {
 
 }
 

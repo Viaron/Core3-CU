@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_loot_blackhand = object_draft_schematic_weapon_loot_blackhand:new {
+object_draft_schematic_weapon_loot_blackhand = object_draft_schematic_weapon_shared_loot_blackhand:new {
 
 }
 

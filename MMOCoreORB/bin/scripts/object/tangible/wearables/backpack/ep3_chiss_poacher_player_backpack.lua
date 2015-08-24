@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack = object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack:new {
+object_tangible_wearables_backpack_ep3_chiss_poacher_player_backpack = object_tangible_wearables_backpack_shared_ep3_chiss_poacher_player_backpack:new {
 
 }
 

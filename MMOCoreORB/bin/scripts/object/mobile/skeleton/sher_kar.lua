@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_skeleton_sher_kar = object_mobile_skeleton_sher_kar:new {
+object_mobile_skeleton_sher_kar = object_mobile_skeleton_shared_sher_kar:new {
 
 }
 

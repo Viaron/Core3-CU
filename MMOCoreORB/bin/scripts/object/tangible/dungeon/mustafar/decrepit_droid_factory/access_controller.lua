@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_decrepit_droid_factory_access_controller = object_tangible_dungeon_mustafar_decrepit_droid_factory_access_controller:new {
+object_tangible_dungeon_mustafar_decrepit_droid_factory_access_controller = object_tangible_dungeon_mustafar_decrepit_droid_factory_shared_access_controller:new {
 
 }
 

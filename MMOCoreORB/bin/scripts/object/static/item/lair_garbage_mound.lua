@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_lair_garbage_mound = object_static_item_lair_garbage_mound:new {
+object_static_item_lair_garbage_mound = object_static_item_shared_lair_garbage_mound:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_mun_kachirho_starport = object_building_kashyyyk_mun_kachirho_starport:new {
+object_building_kashyyyk_mun_kachirho_starport = object_building_kashyyyk_shared_mun_kachirho_starport:new {
 
 }
 

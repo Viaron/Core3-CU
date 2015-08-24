@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_structure_general_waypoint_personal_white = object_static_structure_general_waypoint_personal_white:new {
+object_static_structure_general_waypoint_personal_white = object_static_structure_general_shared_waypoint_personal_white:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_space_mining_mining_rare_ancient_asteroid_chunk = object_tangible_space_mining_mining_rare_ancient_asteroid_chunk:new {
+object_tangible_space_mining_mining_rare_ancient_asteroid_chunk = object_tangible_space_mining_mining_rare_shared_ancient_asteroid_chunk:new {
 
 }
 

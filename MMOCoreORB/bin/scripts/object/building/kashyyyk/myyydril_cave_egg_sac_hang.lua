@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_myyydril_cave_egg_sac_hang = object_building_kashyyyk_myyydril_cave_egg_sac_hang:new {
+object_building_kashyyyk_myyydril_cave_egg_sac_hang = object_building_kashyyyk_shared_myyydril_cave_egg_sac_hang:new {
 
 }
 

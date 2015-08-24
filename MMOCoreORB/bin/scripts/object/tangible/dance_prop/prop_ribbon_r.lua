@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dance_prop_prop_ribbon_r = object_tangible_dance_prop_prop_ribbon_r:new {
+object_tangible_dance_prop_prop_ribbon_r = object_tangible_dance_prop_shared_prop_ribbon_r:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_powerup_weapon_melee_hilt_reinforcement_kit = object_tangible_powerup_weapon_melee_hilt_reinforcement_kit:new {
+object_tangible_powerup_weapon_melee_hilt_reinforcement_kit = object_tangible_powerup_weapon_shared_melee_hilt_reinforcement_kit:new {
 
 }
 

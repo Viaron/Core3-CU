@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_cinderclaw = object_mobile_som_cinderclaw:new {
+object_mobile_som_cinderclaw = object_mobile_som_shared_cinderclaw:new {
 
 }
 

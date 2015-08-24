@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_trinity_assassin_ithorian_male = object_mobile_som_som_trinity_assassin_ithorian_male:new {
+object_mobile_som_som_trinity_assassin_ithorian_male = object_mobile_som_shared_som_trinity_assassin_ithorian_male:new {
 
 }
 

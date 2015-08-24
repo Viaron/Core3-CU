@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_quest_start_naboo_kadaara_jonni_skaak_journal = object_tangible_quest_quest_start_naboo_kadaara_jonni_skaak_journal:new {
+object_tangible_quest_quest_start_naboo_kadaara_jonni_skaak_journal = object_tangible_quest_quest_start_shared_naboo_kadaara_jonni_skaak_journal:new {
 
 }
 

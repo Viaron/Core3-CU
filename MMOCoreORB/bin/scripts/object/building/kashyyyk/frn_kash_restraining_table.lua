@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_kash_restraining_table = object_building_kashyyyk_frn_kash_restraining_table:new {
+object_building_kashyyyk_frn_kash_restraining_table = object_building_kashyyyk_shared_frn_kash_restraining_table:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_intimidator = object_draft_schematic_weapon_pistol_intimidator:new {
+object_draft_schematic_weapon_pistol_intimidator = object_draft_schematic_weapon_shared_pistol_intimidator:new {
 
 }
 

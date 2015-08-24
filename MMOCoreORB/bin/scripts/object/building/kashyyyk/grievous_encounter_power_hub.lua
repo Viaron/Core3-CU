@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_grievous_encounter_power_hub = object_building_kashyyyk_grievous_encounter_power_hub:new {
+object_building_kashyyyk_grievous_encounter_power_hub = object_building_kashyyyk_shared_grievous_encounter_power_hub:new {
 
 }
 

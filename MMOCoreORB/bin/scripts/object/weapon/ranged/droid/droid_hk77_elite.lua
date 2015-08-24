@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_droid_droid_hk77_elite = object_weapon_ranged_droid_droid_hk77_elite:new {
+object_weapon_ranged_droid_droid_hk77_elite = object_weapon_ranged_droid_shared_droid_hk77_elite:new {
 
 }
 

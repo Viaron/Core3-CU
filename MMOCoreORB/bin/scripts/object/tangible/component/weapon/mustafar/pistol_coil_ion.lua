@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_pistol_coil_ion = object_tangible_component_weapon_mustafar_pistol_coil_ion:new {
+object_tangible_component_weapon_mustafar_pistol_coil_ion = object_tangible_component_weapon_mustafar_shared_pistol_coil_ion:new {
 
 }
 

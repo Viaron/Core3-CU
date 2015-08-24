@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_poi_kash_rryatt_rope_lift_rope_half = object_building_kashyyyk_poi_kash_rryatt_rope_lift_rope_half:new {
+object_building_kashyyyk_poi_kash_rryatt_rope_lift_rope_half = object_building_kashyyyk_shared_poi_kash_rryatt_rope_lift_rope_half:new {
 
 }
 

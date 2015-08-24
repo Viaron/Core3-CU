@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_theme_park_myyydril_myyydril_magic_stone = object_tangible_theme_park_myyydril_myyydril_magic_stone:new {
+object_tangible_theme_park_myyydril_myyydril_magic_stone = object_tangible_theme_park_myyydril_shared_myyydril_magic_stone:new {
 
 }
 

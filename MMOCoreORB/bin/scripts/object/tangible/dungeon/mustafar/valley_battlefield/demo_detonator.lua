@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator = object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator:new {
+object_tangible_dungeon_mustafar_valley_battlefield_demo_detonator = object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_detonator:new {
 
 }
 

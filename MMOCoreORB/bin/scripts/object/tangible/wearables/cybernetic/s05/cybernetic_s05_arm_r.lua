@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_cybernetic_s05_cybernetic_s05_arm_r = object_tangible_wearables_cybernetic_s05_cybernetic_s05_arm_r:new {
+object_tangible_wearables_cybernetic_s05_cybernetic_s05_arm_r = object_tangible_wearables_cybernetic_s05_shared_cybernetic_s05_arm_r:new {
 
 }
 

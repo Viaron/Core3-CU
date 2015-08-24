@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_instant_stimpack_stimpack_d = object_draft_schematic_chemistry_instant_stimpack_stimpack_d:new {
+object_draft_schematic_chemistry_instant_stimpack_stimpack_d = object_draft_schematic_chemistry_instant_stimpack_shared_stimpack_d:new {
 
 }
 

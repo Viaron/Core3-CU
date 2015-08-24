@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_webweaver_blanket = object_tangible_furniture_ep3_rewards_webweaver_blanket:new {
+object_tangible_furniture_ep3_rewards_webweaver_blanket = object_tangible_furniture_ep3_rewards_shared_webweaver_blanket:new {
 
 }
 

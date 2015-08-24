@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_lair_fake_cave_small = object_static_item_lair_fake_cave_small:new {
+object_static_item_lair_fake_cave_small = object_static_item_shared_lair_fake_cave_small:new {
 
 }
 

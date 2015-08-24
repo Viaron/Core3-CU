@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_cavaellin_creams = object_tangible_food_generic_dessert_cavaellin_creams:new {
+object_tangible_food_generic_dessert_cavaellin_creams = object_tangible_food_generic_shared_dessert_cavaellin_creams:new {
 
 }
 

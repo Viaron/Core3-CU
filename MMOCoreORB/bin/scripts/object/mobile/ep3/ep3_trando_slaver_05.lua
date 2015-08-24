@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_ep3_trando_slaver_05 = object_mobile_ep3_ep3_trando_slaver_05:new {
+object_mobile_ep3_ep3_trando_slaver_05 = object_mobile_ep3_shared_ep3_trando_slaver_05:new {
 
 }
 

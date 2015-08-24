@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_demo_pack = object_tangible_dungeon_mustafar_valley_battlefield_demo_pack:new {
+object_tangible_dungeon_mustafar_valley_battlefield_demo_pack = object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_pack:new {
 
 }
 

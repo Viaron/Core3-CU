@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_food_drink_rancoraid = object_draft_schematic_food_drink_rancoraid:new {
+object_draft_schematic_food_drink_rancoraid = object_draft_schematic_food_shared_drink_rancoraid:new {
 
 }
 

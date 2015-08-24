@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_ancient_guardian_ig = object_mobile_som_som_ancient_guardian_ig:new {
+object_mobile_som_som_ancient_guardian_ig = object_mobile_som_shared_som_ancient_guardian_ig:new {
 
 }
 

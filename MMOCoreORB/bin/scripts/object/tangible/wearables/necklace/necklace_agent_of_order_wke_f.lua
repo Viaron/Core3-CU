@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_necklace_agent_of_order_wke_f = object_tangible_wearables_necklace_necklace_agent_of_order_wke_f:new {
+object_tangible_wearables_necklace_necklace_agent_of_order_wke_f = object_tangible_wearables_necklace_shared_necklace_agent_of_order_wke_f:new {
 
 }
 

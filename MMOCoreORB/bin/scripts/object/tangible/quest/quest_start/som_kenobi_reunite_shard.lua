@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_quest_start_som_kenobi_reunite_shard = object_tangible_quest_quest_start_som_kenobi_reunite_shard:new {
+object_tangible_quest_quest_start_som_kenobi_reunite_shard = object_tangible_quest_quest_start_shared_som_kenobi_reunite_shard:new {
 
 }
 

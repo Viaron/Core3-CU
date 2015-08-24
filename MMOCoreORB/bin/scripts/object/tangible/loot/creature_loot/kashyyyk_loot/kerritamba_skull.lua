@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_skull = object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_skull:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_kerritamba_skull = object_tangible_loot_creature_loot_kashyyyk_loot_shared_kerritamba_skull:new {
 
 }
 

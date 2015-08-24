@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_knife_ep3_loot_blackbane = object_weapon_melee_knife_ep3_loot_blackbane:new {
+object_weapon_melee_knife_ep3_loot_blackbane = object_weapon_melee_knife_shared_ep3_loot_blackbane:new {
 
 }
 

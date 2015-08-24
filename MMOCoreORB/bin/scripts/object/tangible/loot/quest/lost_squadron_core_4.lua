@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_lost_squadron_core_4 = object_tangible_loot_quest_lost_squadron_core_4:new {
+object_tangible_loot_quest_lost_squadron_core_4 = object_tangible_loot_quest_shared_lost_squadron_core_4:new {
 
 }
 

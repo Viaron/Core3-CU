@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_carbine_czerka_dart = object_draft_schematic_weapon_carbine_czerka_dart:new {
+object_draft_schematic_weapon_carbine_czerka_dart = object_draft_schematic_weapon_shared_carbine_czerka_dart:new {
 
 }
 

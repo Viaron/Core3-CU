@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_terminal_space_nosnap = object_tangible_terminal_terminal_space_nosnap:new {
+object_tangible_terminal_terminal_space_nosnap = object_tangible_terminal_shared_terminal_space_nosnap:new {
 
 }
 

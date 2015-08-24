@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_launcher_elite = object_draft_schematic_weapon_pistol_launcher_elite:new {
+object_draft_schematic_weapon_pistol_launcher_elite = object_draft_schematic_weapon_shared_pistol_launcher_elite:new {
 
 }
 

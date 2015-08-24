@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_entha_kandela = object_mobile_dressed_entha_kandela:new {
+object_mobile_dressed_entha_kandela = object_mobile_shared_dressed_entha_kandela:new {
 
 }
 

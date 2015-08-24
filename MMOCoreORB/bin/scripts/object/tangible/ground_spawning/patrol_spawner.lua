@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ground_spawning_patrol_spawner = object_tangible_ground_spawning_patrol_spawner:new {
+object_tangible_ground_spawning_patrol_spawner = object_tangible_ground_spawning_shared_patrol_spawner:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_reactor_mining_grade_reactor = object_draft_schematic_space_reactor_mining_grade_reactor:new {
+object_draft_schematic_space_reactor_mining_grade_reactor = object_draft_schematic_space_reactor_shared_mining_grade_reactor:new {
 
 }
 

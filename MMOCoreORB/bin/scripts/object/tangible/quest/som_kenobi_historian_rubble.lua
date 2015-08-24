@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_kenobi_historian_rubble = object_tangible_quest_som_kenobi_historian_rubble:new {
+object_tangible_quest_som_kenobi_historian_rubble = object_tangible_quest_shared_som_kenobi_historian_rubble:new {
 
 }
 

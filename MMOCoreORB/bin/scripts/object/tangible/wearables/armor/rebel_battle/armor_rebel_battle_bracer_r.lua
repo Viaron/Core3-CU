@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_rebel_battle_armor_rebel_battle_bracer_r = object_tangible_wearables_armor_rebel_battle_armor_rebel_battle_bracer_r:new {
+object_tangible_wearables_armor_rebel_battle_armor_rebel_battle_bracer_r = object_tangible_wearables_armor_rebel_battle_shared_armor_rebel_battle_bracer_r:new {
 
 }
 

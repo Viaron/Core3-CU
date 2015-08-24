@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_veteran_reward_one_year_anniversary_painting_10 = object_tangible_veteran_reward_one_year_anniversary_painting_10:new {
+object_tangible_veteran_reward_one_year_anniversary_painting_10 = object_tangible_veteran_reward_one_year_anniversary_shared_painting_10:new {
 
 }
 

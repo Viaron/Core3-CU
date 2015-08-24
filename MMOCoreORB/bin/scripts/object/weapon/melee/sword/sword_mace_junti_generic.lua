@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_sword_mace_junti_generic = object_weapon_melee_sword_sword_mace_junti_generic:new {
+object_weapon_melee_sword_sword_mace_junti_generic = object_weapon_melee_sword_shared_sword_mace_junti_generic:new {
 
 }
 

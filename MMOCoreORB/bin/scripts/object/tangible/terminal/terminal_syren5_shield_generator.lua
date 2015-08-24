@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_terminal_syren5_shield_generator = object_tangible_terminal_terminal_syren5_shield_generator:new {
+object_tangible_terminal_terminal_syren5_shield_generator = object_tangible_terminal_shared_terminal_syren5_shield_generator:new {
 
 }
 

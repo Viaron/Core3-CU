@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_puk = object_tangible_food_generic_dish_puk:new {
+object_tangible_food_generic_dish_puk = object_tangible_food_generic_shared_dish_puk:new {
 
 }
 

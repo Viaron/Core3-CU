@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_decorative_hologram_base_emperor = object_tangible_furniture_decorative_hologram_base_emperor:new {
+object_tangible_furniture_decorative_hologram_base_emperor = object_tangible_furniture_decorative_shared_hologram_base_emperor:new {
 
 }
 

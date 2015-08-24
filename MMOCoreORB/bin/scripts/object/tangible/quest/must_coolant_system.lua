@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_must_coolant_system = object_tangible_quest_must_coolant_system:new {
+object_tangible_quest_must_coolant_system = object_tangible_quest_shared_must_coolant_system:new {
 
 }
 

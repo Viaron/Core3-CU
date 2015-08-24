@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_uwari_beetle_aggro = object_mobile_uwari_beetle_aggro:new {
+object_mobile_uwari_beetle_aggro = object_mobile_shared_uwari_beetle_aggro:new {
 
 }
 

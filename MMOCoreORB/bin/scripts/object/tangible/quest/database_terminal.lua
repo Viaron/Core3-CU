@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_database_terminal = object_tangible_quest_database_terminal:new {
+object_tangible_quest_database_terminal = object_tangible_quest_shared_database_terminal:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_capacitor_elite_capacitor = object_draft_schematic_space_capacitor_elite_capacitor:new {
+object_draft_schematic_space_capacitor_elite_capacitor = object_draft_schematic_space_capacitor_shared_elite_capacitor:new {
 
 }
 

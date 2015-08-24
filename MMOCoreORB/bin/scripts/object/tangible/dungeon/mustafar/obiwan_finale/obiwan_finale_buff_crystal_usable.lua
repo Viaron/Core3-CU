@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_obiwan_finale_obiwan_finale_buff_crystal_usable = object_tangible_dungeon_mustafar_obiwan_finale_obiwan_finale_buff_crystal_usable:new {
+object_tangible_dungeon_mustafar_obiwan_finale_obiwan_finale_buff_crystal_usable = object_tangible_dungeon_mustafar_obiwan_finale_shared_obiwan_finale_buff_crystal_usable:new {
 
 }
 

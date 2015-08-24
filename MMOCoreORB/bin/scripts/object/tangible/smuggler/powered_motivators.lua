@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_smuggler_powered_motivators = object_tangible_smuggler_powered_motivators:new {
+object_tangible_smuggler_powered_motivators = object_tangible_smuggler_shared_powered_motivators:new {
 
 }
 

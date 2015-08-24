@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_valarian_thug_gran = object_mobile_dressed_valarian_thug_gran:new {
+object_mobile_dressed_valarian_thug_gran = object_mobile_shared_dressed_valarian_thug_gran:new {
 
 }
 

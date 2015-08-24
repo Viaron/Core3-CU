@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_carbine_avatar_trandoshan = object_draft_schematic_weapon_carbine_avatar_trandoshan:new {
+object_draft_schematic_weapon_carbine_avatar_trandoshan = object_draft_schematic_weapon_shared_carbine_avatar_trandoshan:new {
 
 }
 

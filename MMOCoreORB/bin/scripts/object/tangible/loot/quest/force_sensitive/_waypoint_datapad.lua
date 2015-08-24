@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_force_sensitive__waypoint_datapad = object_tangible_loot_quest_force_sensitive__waypoint_datapad:new {
+object_tangible_loot_quest_force_sensitive__waypoint_datapad = object_tangible_loot_quest_force_sensitive_shared__waypoint_datapad:new {
 
 }
 

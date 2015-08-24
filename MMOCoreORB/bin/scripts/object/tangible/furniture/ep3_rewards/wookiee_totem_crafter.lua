@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_wookiee_totem_crafter = object_tangible_furniture_ep3_rewards_wookiee_totem_crafter:new {
+object_tangible_furniture_ep3_rewards_wookiee_totem_crafter = object_tangible_furniture_ep3_rewards_shared_wookiee_totem_crafter:new {
 
 }
 

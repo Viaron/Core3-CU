@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_fried_endwa = object_tangible_food_generic_dish_fried_endwa:new {
+object_tangible_food_generic_dish_fried_endwa = object_tangible_food_generic_shared_dish_fried_endwa:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_jedi_statue = object_tangible_loot_mustafar_jedi_statue:new {
+object_tangible_loot_mustafar_jedi_statue = object_tangible_loot_mustafar_shared_jedi_statue:new {
 
 }
 

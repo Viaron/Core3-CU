@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_cybernetic_s04_cybernetic_s04_torso = object_tangible_wearables_cybernetic_s04_cybernetic_s04_torso:new {
+object_tangible_wearables_cybernetic_s04_cybernetic_s04_torso = object_tangible_wearables_cybernetic_s04_shared_cybernetic_s04_torso:new {
 
 }
 

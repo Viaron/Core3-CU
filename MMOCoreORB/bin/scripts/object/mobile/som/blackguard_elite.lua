@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_blackguard_elite = object_mobile_som_blackguard_elite:new {
+object_mobile_som_blackguard_elite = object_mobile_som_shared_blackguard_elite:new {
 
 }
 

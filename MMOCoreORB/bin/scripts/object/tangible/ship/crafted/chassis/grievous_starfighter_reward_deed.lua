@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_chassis_grievous_starfighter_reward_deed = object_tangible_ship_crafted_chassis_grievous_starfighter_reward_deed:new {
+object_tangible_ship_crafted_chassis_grievous_starfighter_reward_deed = object_tangible_ship_crafted_chassis_shared_grievous_starfighter_reward_deed:new {
 
 }
 

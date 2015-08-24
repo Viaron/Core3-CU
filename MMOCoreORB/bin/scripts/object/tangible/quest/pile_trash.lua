@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_pile_trash = object_tangible_quest_pile_trash:new {
+object_tangible_quest_pile_trash = object_tangible_quest_shared_pile_trash:new {
 
 }
 

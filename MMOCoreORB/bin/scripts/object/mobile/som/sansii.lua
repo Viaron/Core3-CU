@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_sansii = object_mobile_som_sansii:new {
+object_mobile_som_sansii = object_mobile_som_shared_sansii:new {
 
 }
 

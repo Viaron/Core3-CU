@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_awing_mercenary = object_ship_awing_mercenary:new {
+object_ship_awing_mercenary = object_ship_shared_awing_mercenary:new {
 
 }
 

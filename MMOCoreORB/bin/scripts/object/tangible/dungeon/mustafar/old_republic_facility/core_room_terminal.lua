@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal = object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal:new {
+object_tangible_dungeon_mustafar_old_republic_facility_core_room_terminal = object_tangible_dungeon_mustafar_old_republic_facility_shared_core_room_terminal:new {
 
 }
 

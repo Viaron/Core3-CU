@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_event_perk_frn_hologram_data_disk_s02 = object_tangible_event_perk_frn_hologram_data_disk_s02:new {
+object_tangible_event_perk_frn_hologram_data_disk_s02 = object_tangible_event_perk_shared_frn_hologram_data_disk_s02:new {
 
 }
 

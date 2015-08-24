@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_booster_elite_booster = object_draft_schematic_space_booster_elite_booster:new {
+object_draft_schematic_space_booster_elite_booster = object_draft_schematic_space_booster_shared_elite_booster:new {
 
 }
 

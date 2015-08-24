@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_webweaver = object_mobile_webweaver:new {
+object_mobile_webweaver = object_mobile_shared_webweaver:new {
 
 }
 

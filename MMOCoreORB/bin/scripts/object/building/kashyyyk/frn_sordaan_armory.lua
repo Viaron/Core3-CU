@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_sordaan_armory = object_building_kashyyyk_frn_sordaan_armory:new {
+object_building_kashyyyk_frn_sordaan_armory = object_building_kashyyyk_shared_frn_sordaan_armory:new {
 
 }
 

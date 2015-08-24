@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_engine_eng_quantum_ion_drive = object_tangible_ship_components_engine_eng_quantum_ion_drive:new {
+object_tangible_ship_components_engine_eng_quantum_ion_drive = object_tangible_ship_components_engine_shared_eng_quantum_ion_drive:new {
 
 }
 

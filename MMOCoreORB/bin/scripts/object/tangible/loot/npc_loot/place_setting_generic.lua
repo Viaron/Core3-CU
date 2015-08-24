@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_place_setting_generic = object_tangible_loot_npc_loot_place_setting_generic:new {
+object_tangible_loot_npc_loot_place_setting_generic = object_tangible_loot_npc_loot_shared_place_setting_generic:new {
 
 }
 

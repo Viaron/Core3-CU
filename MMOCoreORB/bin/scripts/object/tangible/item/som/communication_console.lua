@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_communication_console = object_tangible_item_som_communication_console:new {
+object_tangible_item_som_communication_console = object_tangible_item_som_shared_communication_console:new {
 
 }
 

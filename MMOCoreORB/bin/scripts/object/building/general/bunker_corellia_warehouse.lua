@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_general_bunker_corellia_warehouse = object_building_general_bunker_corellia_warehouse:new {
+object_building_general_bunker_corellia_warehouse = object_building_general_shared_bunker_corellia_warehouse:new {
 
 }
 

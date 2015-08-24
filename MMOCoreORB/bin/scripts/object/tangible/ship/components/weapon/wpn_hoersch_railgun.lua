@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_weapon_wpn_hoersch_railgun = object_tangible_ship_components_weapon_wpn_hoersch_railgun:new {
+object_tangible_ship_components_weapon_wpn_hoersch_railgun = object_tangible_ship_components_weapon_shared_wpn_hoersch_railgun:new {
 
 }
 

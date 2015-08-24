@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_polearm_lance_avatar_wke_heartlance = object_weapon_melee_polearm_lance_avatar_wke_heartlance:new {
+object_weapon_melee_polearm_lance_avatar_wke_heartlance = object_weapon_melee_polearm_shared_lance_avatar_wke_heartlance:new {
 
 }
 

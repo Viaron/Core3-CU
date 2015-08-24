@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_xandank_lair = object_tangible_item_som_xandank_lair:new {
+object_tangible_item_som_xandank_lair = object_tangible_item_som_shared_xandank_lair:new {
 
 }
 

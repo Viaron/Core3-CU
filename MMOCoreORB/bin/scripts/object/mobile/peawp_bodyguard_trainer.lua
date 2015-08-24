@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_peawp_bodyguard_trainer = object_mobile_peawp_bodyguard_trainer:new {
+object_mobile_peawp_bodyguard_trainer = object_mobile_shared_peawp_bodyguard_trainer:new {
 
 }
 

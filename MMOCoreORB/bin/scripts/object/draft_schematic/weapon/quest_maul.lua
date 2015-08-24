@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_quest_maul = object_draft_schematic_weapon_quest_maul:new {
+object_draft_schematic_weapon_quest_maul = object_draft_schematic_weapon_shared_quest_maul:new {
 
 }
 

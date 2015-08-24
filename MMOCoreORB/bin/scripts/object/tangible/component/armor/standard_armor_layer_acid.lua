@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_standard_armor_layer_acid = object_tangible_component_armor_standard_armor_layer_acid:new {
+object_tangible_component_armor_standard_armor_layer_acid = object_tangible_component_armor_shared_standard_armor_layer_acid:new {
 
 }
 

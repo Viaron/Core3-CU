@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_furniture_tech_cabinet = object_static_worldbuilding_furniture_tech_cabinet:new {
+object_static_worldbuilding_furniture_tech_cabinet = object_static_worldbuilding_furniture_shared_tech_cabinet:new {
 
 }
 

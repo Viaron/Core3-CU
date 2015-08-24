@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_cybernetic_s01_cybernetic_s01_legs = object_tangible_wearables_cybernetic_s01_cybernetic_s01_legs:new {
+object_tangible_wearables_cybernetic_s01_cybernetic_s01_legs = object_tangible_wearables_cybernetic_s01_shared_cybernetic_s01_legs:new {
 
 }
 

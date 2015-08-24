@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_jedi_watch_dog_chest = object_tangible_item_som_jedi_watch_dog_chest:new {
+object_tangible_item_som_jedi_watch_dog_chest = object_tangible_item_som_shared_jedi_watch_dog_chest:new {
 
 }
 

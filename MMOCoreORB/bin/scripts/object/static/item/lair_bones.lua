@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_lair_bones = object_static_item_lair_bones:new {
+object_static_item_lair_bones = object_static_item_shared_lair_bones:new {
 
 }
 

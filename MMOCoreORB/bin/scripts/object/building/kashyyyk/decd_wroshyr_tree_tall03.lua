@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_decd_wroshyr_tree_tall03 = object_building_kashyyyk_decd_wroshyr_tree_tall03:new {
+object_building_kashyyyk_decd_wroshyr_tree_tall03 = object_building_kashyyyk_shared_decd_wroshyr_tree_tall03:new {
 
 }
 

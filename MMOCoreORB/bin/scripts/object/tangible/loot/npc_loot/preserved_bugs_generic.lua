@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_preserved_bugs_generic = object_tangible_loot_npc_loot_preserved_bugs_generic:new {
+object_tangible_loot_npc_loot_preserved_bugs_generic = object_tangible_loot_npc_loot_shared_preserved_bugs_generic:new {
 
 }
 

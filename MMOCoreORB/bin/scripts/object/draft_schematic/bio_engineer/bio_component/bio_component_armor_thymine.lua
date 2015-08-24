@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine = object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine:new {
+object_draft_schematic_bio_engineer_bio_component_bio_component_armor_thymine = object_draft_schematic_bio_engineer_bio_component_shared_bio_component_armor_thymine:new {
 
 }
 

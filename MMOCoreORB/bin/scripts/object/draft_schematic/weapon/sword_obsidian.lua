@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_sword_obsidian = object_draft_schematic_weapon_sword_obsidian:new {
+object_draft_schematic_weapon_sword_obsidian = object_draft_schematic_weapon_shared_sword_obsidian:new {
 
 }
 

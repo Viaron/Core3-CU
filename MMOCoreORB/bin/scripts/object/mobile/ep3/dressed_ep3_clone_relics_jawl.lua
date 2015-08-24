@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_dressed_ep3_clone_relics_jawl = object_mobile_ep3_dressed_ep3_clone_relics_jawl:new {
+object_mobile_ep3_dressed_ep3_clone_relics_jawl = object_mobile_ep3_shared_dressed_ep3_clone_relics_jawl:new {
 
 }
 

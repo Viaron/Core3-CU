@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal = object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal:new {
+object_tangible_dungeon_mustafar_decrepit_droid_factory_data_terminal = object_tangible_dungeon_mustafar_decrepit_droid_factory_shared_data_terminal:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_gravestone = object_tangible_quest_gravestone:new {
+object_tangible_quest_gravestone = object_tangible_quest_shared_gravestone:new {
 
 }
 

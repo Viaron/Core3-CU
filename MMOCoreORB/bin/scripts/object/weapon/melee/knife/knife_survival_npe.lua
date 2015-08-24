@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_knife_knife_survival_npe = object_weapon_melee_knife_knife_survival_npe:new {
+object_weapon_melee_knife_knife_survival_npe = object_weapon_melee_knife_shared_knife_survival_npe:new {
 
 }
 

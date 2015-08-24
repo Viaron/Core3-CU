@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_bolotaur = object_mobile_bolotaur:new {
+object_mobile_bolotaur = object_mobile_shared_bolotaur:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_shield_generator_shd_esp_reactive = object_tangible_ship_components_shield_generator_shd_esp_reactive:new {
+object_tangible_ship_components_shield_generator_shd_esp_reactive = object_tangible_ship_components_shield_generator_shared_shd_esp_reactive:new {
 
 }
 

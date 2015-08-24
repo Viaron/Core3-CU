@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_bio_base_bio_component_armor = object_tangible_component_bio_base_bio_component_armor:new {
+object_tangible_component_bio_base_bio_component_armor = object_tangible_component_bio_shared_base_bio_component_armor:new {
 
 }
 

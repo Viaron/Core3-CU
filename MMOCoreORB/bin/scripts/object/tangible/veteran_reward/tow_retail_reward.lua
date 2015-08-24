@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_veteran_reward_tow_retail_reward = object_tangible_veteran_reward_tow_retail_reward:new {
+object_tangible_veteran_reward_tow_retail_reward = object_tangible_veteran_reward_shared_tow_retail_reward:new {
 
 }
 

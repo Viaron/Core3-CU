@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_legacy_cuan = object_mobile_dressed_legacy_cuan:new {
+object_mobile_dressed_legacy_cuan = object_mobile_shared_dressed_legacy_cuan:new {
 
 }
 

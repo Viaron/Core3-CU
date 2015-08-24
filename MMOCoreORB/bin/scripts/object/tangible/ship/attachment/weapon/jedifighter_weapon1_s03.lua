@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_weapon_jedifighter_weapon1_s03 = object_tangible_ship_attachment_weapon_jedifighter_weapon1_s03:new {
+object_tangible_ship_attachment_weapon_jedifighter_weapon1_s03 = object_tangible_ship_attachment_weapon_shared_jedifighter_weapon1_s03:new {
 
 }
 

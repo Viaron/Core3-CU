@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_rifle_rifle_lightning_heavy = object_weapon_ranged_rifle_rifle_lightning_heavy:new {
+object_weapon_ranged_rifle_rifle_lightning_heavy = object_weapon_ranged_rifle_shared_rifle_lightning_heavy:new {
 
 }
 

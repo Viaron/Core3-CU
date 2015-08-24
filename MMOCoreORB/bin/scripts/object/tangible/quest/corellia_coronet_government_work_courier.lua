@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_corellia_coronet_government_work_courier = object_tangible_quest_corellia_coronet_government_work_courier:new {
+object_tangible_quest_corellia_coronet_government_work_courier = object_tangible_quest_shared_corellia_coronet_government_work_courier:new {
 
 }
 

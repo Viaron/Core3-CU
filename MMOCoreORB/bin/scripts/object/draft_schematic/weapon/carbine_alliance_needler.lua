@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_carbine_alliance_needler = object_draft_schematic_weapon_carbine_alliance_needler:new {
+object_draft_schematic_weapon_carbine_alliance_needler = object_draft_schematic_weapon_shared_carbine_alliance_needler:new {
 
 }
 

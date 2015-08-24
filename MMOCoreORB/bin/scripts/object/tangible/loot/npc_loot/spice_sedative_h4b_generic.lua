@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_spice_sedative_h4b_generic = object_tangible_loot_npc_loot_spice_sedative_h4b_generic:new {
+object_tangible_loot_npc_loot_spice_sedative_h4b_generic = object_tangible_loot_npc_loot_shared_spice_sedative_h4b_generic:new {
 
 }
 

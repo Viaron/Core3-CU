@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_armor_appearance_ithorian_sentinel_gloves = object_draft_schematic_armor_armor_appearance_ithorian_sentinel_gloves:new {
+object_draft_schematic_armor_armor_appearance_ithorian_sentinel_gloves = object_draft_schematic_armor_shared_armor_appearance_ithorian_sentinel_gloves:new {
 
 }
 

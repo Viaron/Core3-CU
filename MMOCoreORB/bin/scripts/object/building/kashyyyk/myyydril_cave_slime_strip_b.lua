@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_myyydril_cave_slime_strip_b = object_building_kashyyyk_myyydril_cave_slime_strip_b:new {
+object_building_kashyyyk_myyydril_cave_slime_strip_b = object_building_kashyyyk_shared_myyydril_cave_slime_strip_b:new {
 
 }
 

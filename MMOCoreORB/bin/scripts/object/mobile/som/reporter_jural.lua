@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_reporter_jural = object_mobile_som_reporter_jural:new {
+object_mobile_som_reporter_jural = object_mobile_som_shared_reporter_jural:new {
 
 }
 

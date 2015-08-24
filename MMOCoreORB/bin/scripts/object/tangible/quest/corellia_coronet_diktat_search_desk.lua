@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_corellia_coronet_diktat_search_desk = object_tangible_quest_corellia_coronet_diktat_search_desk:new {
+object_tangible_quest_corellia_coronet_diktat_search_desk = object_tangible_quest_shared_corellia_coronet_diktat_search_desk:new {
 
 }
 

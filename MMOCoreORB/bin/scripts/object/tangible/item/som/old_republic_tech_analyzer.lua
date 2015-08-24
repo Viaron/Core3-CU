@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_old_republic_tech_analyzer = object_tangible_item_som_old_republic_tech_analyzer:new {
+object_tangible_item_som_old_republic_tech_analyzer = object_tangible_item_som_shared_old_republic_tech_analyzer:new {
 
 }
 

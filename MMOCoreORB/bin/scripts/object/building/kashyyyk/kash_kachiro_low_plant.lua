@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_kash_kachiro_low_plant = object_building_kashyyyk_kash_kachiro_low_plant:new {
+object_building_kashyyyk_kash_kachiro_low_plant = object_building_kashyyyk_shared_kash_kachiro_low_plant:new {
 
 }
 

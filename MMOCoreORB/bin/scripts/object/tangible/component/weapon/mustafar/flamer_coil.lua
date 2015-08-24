@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_flamer_coil = object_tangible_component_weapon_mustafar_flamer_coil:new {
+object_tangible_component_weapon_mustafar_flamer_coil = object_tangible_component_weapon_mustafar_shared_flamer_coil:new {
 
 }
 

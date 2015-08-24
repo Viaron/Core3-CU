@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_resource_container_resource_container_organic_food = object_resource_container_resource_container_organic_food:new {
+object_resource_container_resource_container_organic_food = object_resource_container_shared_resource_container_organic_food:new {
 
 }
 

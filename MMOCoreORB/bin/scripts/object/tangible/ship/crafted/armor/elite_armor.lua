@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_armor_elite_armor = object_tangible_ship_crafted_armor_elite_armor:new {
+object_tangible_ship_crafted_armor_elite_armor = object_tangible_ship_crafted_armor_shared_elite_armor:new {
 
 }
 

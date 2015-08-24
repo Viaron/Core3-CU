@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner = object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner:new {
+object_tangible_dungeon_mustafar_decrepit_droid_factory_security_scanner = object_tangible_dungeon_mustafar_decrepit_droid_factory_shared_security_scanner:new {
 
 }
 

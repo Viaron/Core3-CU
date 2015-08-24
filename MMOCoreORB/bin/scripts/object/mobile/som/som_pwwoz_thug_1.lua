@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_pwwoz_thug_1 = object_mobile_som_som_pwwoz_thug_1:new {
+object_mobile_som_som_pwwoz_thug_1 = object_mobile_som_shared_som_pwwoz_thug_1:new {
 
 }
 

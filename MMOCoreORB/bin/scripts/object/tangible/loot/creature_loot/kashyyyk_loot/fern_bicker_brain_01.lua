@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_fern_bicker_brain_01 = object_tangible_loot_creature_loot_kashyyyk_loot_fern_bicker_brain_01:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_fern_bicker_brain_01 = object_tangible_loot_creature_loot_kashyyyk_loot_shared_fern_bicker_brain_01:new {
 
 }
 

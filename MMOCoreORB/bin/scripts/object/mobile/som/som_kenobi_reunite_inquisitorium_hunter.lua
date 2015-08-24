@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_kenobi_reunite_inquisitorium_hunter = object_mobile_som_som_kenobi_reunite_inquisitorium_hunter:new {
+object_mobile_som_som_kenobi_reunite_inquisitorium_hunter = object_mobile_som_shared_som_kenobi_reunite_inquisitorium_hunter:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_furniture_must_painting_04 = object_draft_schematic_furniture_must_painting_04:new {
+object_draft_schematic_furniture_must_painting_04 = object_draft_schematic_furniture_shared_must_painting_04:new {
 
 }
 

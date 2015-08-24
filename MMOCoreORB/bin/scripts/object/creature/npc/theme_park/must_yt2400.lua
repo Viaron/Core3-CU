@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_creature_npc_theme_park_must_yt2400 = object_creature_npc_theme_park_must_yt2400:new {
+object_creature_npc_theme_park_must_yt2400 = object_creature_npc_theme_park_shared_must_yt2400:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_pt_water_drop_sound = object_static_particle_pt_water_drop_sound:new {
+object_static_particle_pt_water_drop_sound = object_static_particle_shared_pt_water_drop_sound:new {
 
 }
 

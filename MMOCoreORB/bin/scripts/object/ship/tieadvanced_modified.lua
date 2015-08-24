@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_tieadvanced_modified = object_ship_tieadvanced_modified:new {
+object_ship_tieadvanced_modified = object_ship_shared_tieadvanced_modified:new {
 
 }
 

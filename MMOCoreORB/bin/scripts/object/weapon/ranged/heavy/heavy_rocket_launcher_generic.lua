@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_heavy_rocket_launcher_generic = object_weapon_ranged_heavy_heavy_rocket_launcher_generic:new {
+object_weapon_ranged_heavy_heavy_rocket_launcher_generic = object_weapon_ranged_heavy_shared_heavy_rocket_launcher_generic:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_wke_prayer_mobile = object_tangible_furniture_ep3_rewards_wke_prayer_mobile:new {
+object_tangible_furniture_ep3_rewards_wke_prayer_mobile = object_tangible_furniture_ep3_rewards_shared_wke_prayer_mobile:new {
 
 }
 

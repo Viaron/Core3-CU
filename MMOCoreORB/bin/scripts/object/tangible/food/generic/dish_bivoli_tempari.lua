@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_bivoli_tempari = object_tangible_food_generic_dish_bivoli_tempari:new {
+object_tangible_food_generic_dish_bivoli_tempari = object_tangible_food_generic_shared_dish_bivoli_tempari:new {
 
 }
 

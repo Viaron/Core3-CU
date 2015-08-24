@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_vault_holocron = object_tangible_quest_som_vault_holocron:new {
+object_tangible_quest_som_vault_holocron = object_tangible_quest_shared_som_vault_holocron:new {
 
 }
 

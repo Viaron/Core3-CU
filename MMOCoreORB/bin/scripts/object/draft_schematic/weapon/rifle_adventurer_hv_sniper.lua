@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_rifle_adventurer_hv_sniper = object_draft_schematic_weapon_rifle_adventurer_hv_sniper:new {
+object_draft_schematic_weapon_rifle_adventurer_hv_sniper = object_draft_schematic_weapon_shared_rifle_adventurer_hv_sniper:new {
 
 }
 

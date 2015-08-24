@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_deneelian_fizz_pudding = object_tangible_food_generic_dessert_deneelian_fizz_pudding:new {
+object_tangible_food_generic_dessert_deneelian_fizz_pudding = object_tangible_food_generic_shared_dessert_deneelian_fizz_pudding:new {
 
 }
 

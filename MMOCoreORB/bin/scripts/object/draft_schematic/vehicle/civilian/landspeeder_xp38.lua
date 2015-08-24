@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_vehicle_civilian_landspeeder_xp38 = object_draft_schematic_vehicle_civilian_landspeeder_xp38:new {
+object_draft_schematic_vehicle_civilian_landspeeder_xp38 = object_draft_schematic_vehicle_civilian_shared_landspeeder_xp38:new {
 
 }
 

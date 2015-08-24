@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_wke_center_piece = object_tangible_furniture_ep3_rewards_wke_center_piece:new {
+object_tangible_furniture_ep3_rewards_wke_center_piece = object_tangible_furniture_ep3_rewards_shared_wke_center_piece:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_rifle_ep3_rifle_trando_hunter_crafted = object_weapon_ranged_rifle_ep3_rifle_trando_hunter_crafted:new {
+object_weapon_ranged_rifle_ep3_rifle_trando_hunter_crafted = object_weapon_ranged_rifle_ep3_shared_rifle_trando_hunter_crafted:new {
 
 }
 

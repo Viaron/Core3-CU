@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_grenade_base_grenade_static_base = object_weapon_ranged_grenade_base_grenade_static_base:new {
+object_weapon_ranged_grenade_base_grenade_static_base = object_weapon_ranged_grenade_base_shared_grenade_static_base:new {
 
 }
 

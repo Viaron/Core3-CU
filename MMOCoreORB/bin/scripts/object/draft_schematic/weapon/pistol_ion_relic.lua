@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_ion_relic = object_draft_schematic_weapon_pistol_ion_relic:new {
+object_draft_schematic_weapon_pistol_ion_relic = object_draft_schematic_weapon_shared_pistol_ion_relic:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_power_generator = object_tangible_dungeon_mustafar_valley_battlefield_power_generator:new {
+object_tangible_dungeon_mustafar_valley_battlefield_power_generator = object_tangible_dungeon_mustafar_valley_battlefield_shared_power_generator:new {
 
 }
 

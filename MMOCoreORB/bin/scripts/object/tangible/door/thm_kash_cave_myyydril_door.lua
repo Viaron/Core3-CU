@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_door_thm_kash_cave_myyydril_door = object_tangible_door_thm_kash_cave_myyydril_door:new {
+object_tangible_door_thm_kash_cave_myyydril_door = object_tangible_door_shared_thm_kash_cave_myyydril_door:new {
 
 }
 

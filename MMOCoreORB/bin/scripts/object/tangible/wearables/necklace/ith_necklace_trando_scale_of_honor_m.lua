@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_ith_necklace_trando_scale_of_honor_m = object_tangible_wearables_necklace_ith_necklace_trando_scale_of_honor_m:new {
+object_tangible_wearables_necklace_ith_necklace_trando_scale_of_honor_m = object_tangible_wearables_necklace_shared_ith_necklace_trando_scale_of_honor_m:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_special_massassiknuckler = object_weapon_melee_special_massassiknuckler:new {
+object_weapon_melee_special_massassiknuckler = object_weapon_melee_special_shared_massassiknuckler:new {
 
 }
 

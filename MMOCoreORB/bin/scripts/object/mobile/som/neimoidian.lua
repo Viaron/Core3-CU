@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_neimoidian = object_mobile_som_neimoidian:new {
+object_mobile_som_neimoidian = object_mobile_som_shared_neimoidian:new {
 
 }
 

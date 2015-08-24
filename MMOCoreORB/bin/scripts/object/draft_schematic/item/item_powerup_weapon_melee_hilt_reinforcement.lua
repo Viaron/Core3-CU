@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement = object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement:new {
+object_draft_schematic_item_item_powerup_weapon_melee_hilt_reinforcement = object_draft_schematic_item_shared_item_powerup_weapon_melee_hilt_reinforcement:new {
 
 }
 

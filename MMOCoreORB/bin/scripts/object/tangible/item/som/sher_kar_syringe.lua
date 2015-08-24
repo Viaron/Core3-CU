@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_sher_kar_syringe = object_tangible_item_som_sher_kar_syringe:new {
+object_tangible_item_som_sher_kar_syringe = object_tangible_item_som_shared_sher_kar_syringe:new {
 
 }
 

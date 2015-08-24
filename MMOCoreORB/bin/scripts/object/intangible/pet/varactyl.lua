@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_pet_varactyl = object_intangible_pet_varactyl:new {
+object_intangible_pet_varactyl = object_intangible_pet_shared_varactyl:new {
 
 }
 

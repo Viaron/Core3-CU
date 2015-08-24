@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_ep3_kachirho_locked_container = object_tangible_item_ep3_kachirho_locked_container:new {
+object_tangible_item_ep3_kachirho_locked_container = object_tangible_item_ep3_shared_kachirho_locked_container:new {
 
 }
 

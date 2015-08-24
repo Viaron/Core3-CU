@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_gloves_gloves_bossk_reward = object_tangible_wearables_gloves_gloves_bossk_reward:new {
+object_tangible_wearables_gloves_gloves_bossk_reward = object_tangible_wearables_gloves_shared_gloves_bossk_reward:new {
 
 }
 

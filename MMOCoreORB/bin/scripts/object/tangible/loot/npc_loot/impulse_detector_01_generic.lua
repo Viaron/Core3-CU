@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_impulse_detector_01_generic = object_tangible_loot_npc_loot_impulse_detector_01_generic:new {
+object_tangible_loot_npc_loot_impulse_detector_01_generic = object_tangible_loot_npc_loot_shared_impulse_detector_01_generic:new {
 
 }
 

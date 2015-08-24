@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_cargo_hold_crg_crafted_starfighter_small = object_tangible_ship_crafted_cargo_hold_crg_crafted_starfighter_small:new {
+object_tangible_ship_crafted_cargo_hold_crg_crafted_starfighter_small = object_tangible_ship_crafted_cargo_hold_shared_crg_crafted_starfighter_small:new {
 
 }
 

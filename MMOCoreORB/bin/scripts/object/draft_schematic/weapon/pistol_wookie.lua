@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_wookie = object_draft_schematic_weapon_pistol_wookie:new {
+object_draft_schematic_weapon_pistol_wookie = object_draft_schematic_weapon_shared_pistol_wookie:new {
 
 }
 

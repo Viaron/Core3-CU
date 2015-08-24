@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_weapon_wpn_crafted_tractor_beam = object_tangible_ship_crafted_weapon_wpn_crafted_tractor_beam:new {
+object_tangible_ship_crafted_weapon_wpn_crafted_tractor_beam = object_tangible_ship_crafted_weapon_shared_wpn_crafted_tractor_beam:new {
 
 }
 

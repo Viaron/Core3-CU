@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_slave_collar_generic = object_tangible_loot_generic_usable_slave_collar_generic:new {
+object_tangible_loot_generic_usable_slave_collar_generic = object_tangible_loot_generic_usable_shared_slave_collar_generic:new {
 
 }
 

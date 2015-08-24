@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_som_lava_cannon = object_weapon_ranged_heavy_som_lava_cannon:new {
+object_weapon_ranged_heavy_som_lava_cannon = object_weapon_ranged_heavy_shared_som_lava_cannon:new {
 
 }
 

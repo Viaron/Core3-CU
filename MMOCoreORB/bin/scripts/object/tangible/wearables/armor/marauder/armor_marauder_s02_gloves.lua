@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves = object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves:new {
+object_tangible_wearables_armor_marauder_armor_marauder_s02_gloves = object_tangible_wearables_armor_marauder_shared_armor_marauder_s02_gloves:new {
 
 }
 

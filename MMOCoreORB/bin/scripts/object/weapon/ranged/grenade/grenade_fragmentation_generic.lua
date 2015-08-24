@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_grenade_grenade_fragmentation_generic = object_weapon_ranged_grenade_grenade_fragmentation_generic:new {
+object_weapon_ranged_grenade_grenade_fragmentation_generic = object_weapon_ranged_grenade_shared_grenade_fragmentation_generic:new {
 
 }
 

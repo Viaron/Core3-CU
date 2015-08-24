@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_tatooine_poi_darklighter_estate = object_building_tatooine_poi_darklighter_estate:new {
+object_building_tatooine_poi_darklighter_estate = object_building_tatooine_shared_poi_darklighter_estate:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_clone_relics_starmap_box = object_tangible_quest_clone_relics_starmap_box:new {
+object_tangible_quest_clone_relics_starmap_box = object_tangible_quest_shared_clone_relics_starmap_box:new {
 
 }
 

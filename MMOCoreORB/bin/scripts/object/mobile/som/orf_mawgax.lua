@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_orf_mawgax = object_mobile_som_orf_mawgax:new {
+object_mobile_som_orf_mawgax = object_mobile_som_shared_orf_mawgax:new {
 
 }
 

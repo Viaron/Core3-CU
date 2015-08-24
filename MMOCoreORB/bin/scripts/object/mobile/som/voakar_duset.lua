@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_voakar_duset = object_mobile_som_voakar_duset:new {
+object_mobile_som_voakar_duset = object_mobile_som_shared_voakar_duset:new {
 
 }
 

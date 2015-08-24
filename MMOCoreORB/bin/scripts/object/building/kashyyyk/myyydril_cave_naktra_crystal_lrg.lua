@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_myyydril_cave_naktra_crystal_lrg = object_building_kashyyyk_myyydril_cave_naktra_crystal_lrg:new {
+object_building_kashyyyk_myyydril_cave_naktra_crystal_lrg = object_building_kashyyyk_shared_myyydril_cave_naktra_crystal_lrg:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_space_comm_ep3_vosc_traaer = object_mobile_space_comm_ep3_vosc_traaer:new {
+object_mobile_space_comm_ep3_vosc_traaer = object_mobile_shared_space_comm_ep3_vosc_traaer:new {
 
 }
 

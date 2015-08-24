@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_medical_boxes = object_tangible_quest_medical_boxes:new {
+object_tangible_quest_medical_boxes = object_tangible_quest_shared_medical_boxes:new {
 
 }
 

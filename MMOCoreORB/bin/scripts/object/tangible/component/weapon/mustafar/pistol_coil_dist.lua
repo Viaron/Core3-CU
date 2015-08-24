@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_pistol_coil_dist = object_tangible_component_weapon_mustafar_pistol_coil_dist:new {
+object_tangible_component_weapon_mustafar_pistol_coil_dist = object_tangible_component_weapon_mustafar_shared_pistol_coil_dist:new {
 
 }
 

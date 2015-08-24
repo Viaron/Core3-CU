@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_skeleton_tulrus = object_mobile_skeleton_tulrus:new {
+object_mobile_skeleton_tulrus = object_mobile_skeleton_shared_tulrus:new {
 
 }
 

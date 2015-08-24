@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_carbine_e11_mark2 = object_weapon_ranged_carbine_carbine_e11_mark2:new {
+object_weapon_ranged_carbine_carbine_e11_mark2 = object_weapon_ranged_carbine_shared_carbine_e11_mark2:new {
 
 }
 

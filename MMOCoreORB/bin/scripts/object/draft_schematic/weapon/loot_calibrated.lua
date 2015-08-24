@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_loot_calibrated = object_draft_schematic_weapon_loot_calibrated:new {
+object_draft_schematic_weapon_loot_calibrated = object_draft_schematic_weapon_shared_loot_calibrated:new {
 
 }
 

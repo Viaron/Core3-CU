@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_food_drink_newbie_tea = object_draft_schematic_food_drink_newbie_tea:new {
+object_draft_schematic_food_drink_newbie_tea = object_draft_schematic_food_shared_drink_newbie_tea:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_carbine_coil_sfor = object_tangible_component_weapon_mustafar_carbine_coil_sfor:new {
+object_tangible_component_weapon_mustafar_carbine_coil_sfor = object_tangible_component_weapon_mustafar_shared_carbine_coil_sfor:new {
 
 }
 

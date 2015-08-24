@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_pyollian_cake = object_tangible_food_generic_dessert_pyollian_cake:new {
+object_tangible_food_generic_dessert_pyollian_cake = object_tangible_food_generic_shared_dessert_pyollian_cake:new {
 
 }
 

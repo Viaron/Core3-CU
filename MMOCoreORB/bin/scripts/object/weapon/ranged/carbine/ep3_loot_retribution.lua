@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_ep3_loot_retribution = object_weapon_ranged_carbine_ep3_loot_retribution:new {
+object_weapon_ranged_carbine_ep3_loot_retribution = object_weapon_ranged_carbine_shared_ep3_loot_retribution:new {
 
 }
 

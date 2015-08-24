@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_kash_restraining_chair = object_building_kashyyyk_frn_kash_restraining_chair:new {
+object_building_kashyyyk_frn_kash_restraining_chair = object_building_kashyyyk_shared_frn_kash_restraining_chair:new {
 
 }
 

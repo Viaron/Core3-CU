@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_cooling_unit = object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_cooling_unit:new {
+object_tangible_dungeon_mustafar_valley_battlefield_must_bandit_cooling_unit = object_tangible_dungeon_mustafar_valley_battlefield_shared_must_bandit_cooling_unit:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_software_module_generic = object_tangible_loot_generic_usable_software_module_generic:new {
+object_tangible_loot_generic_usable_software_module_generic = object_tangible_loot_generic_usable_shared_software_module_generic:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_lair_firepit = object_static_item_lair_firepit:new {
+object_static_item_lair_firepit = object_static_item_shared_lair_firepit:new {
 
 }
 

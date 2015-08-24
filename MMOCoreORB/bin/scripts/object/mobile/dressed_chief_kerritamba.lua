@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_chief_kerritamba = object_mobile_dressed_chief_kerritamba:new {
+object_mobile_dressed_chief_kerritamba = object_mobile_shared_dressed_chief_kerritamba:new {
 
 }
 

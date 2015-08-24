@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_poison_miner_tracking_computer = object_tangible_quest_poison_miner_tracking_computer:new {
+object_tangible_quest_poison_miner_tracking_computer = object_tangible_quest_shared_poison_miner_tracking_computer:new {
 
 }
 

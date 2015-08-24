@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_typho = object_mobile_typho:new {
+object_mobile_typho = object_mobile_shared_typho:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_carbine_dh17_snubnose_npe = object_weapon_ranged_carbine_carbine_dh17_snubnose_npe:new {
+object_weapon_ranged_carbine_carbine_dh17_snubnose_npe = object_weapon_ranged_carbine_shared_carbine_dh17_snubnose_npe:new {
 
 }
 

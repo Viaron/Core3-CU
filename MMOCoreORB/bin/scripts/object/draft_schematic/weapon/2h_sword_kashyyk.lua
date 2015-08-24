@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_2h_sword_kashyyk = object_draft_schematic_weapon_2h_sword_kashyyk:new {
+object_draft_schematic_weapon_2h_sword_kashyyk = object_draft_schematic_weapon_shared_2h_sword_kashyyk:new {
 
 }
 

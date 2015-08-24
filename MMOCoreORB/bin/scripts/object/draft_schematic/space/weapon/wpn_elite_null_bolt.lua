@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_weapon_wpn_elite_null_bolt = object_draft_schematic_space_weapon_wpn_elite_null_bolt:new {
+object_draft_schematic_space_weapon_wpn_elite_null_bolt = object_draft_schematic_space_weapon_shared_wpn_elite_null_bolt:new {
 
 }
 

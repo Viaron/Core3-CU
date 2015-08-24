@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_drink_accarragm = object_tangible_food_generic_drink_accarragm:new {
+object_tangible_food_generic_drink_accarragm = object_tangible_food_generic_shared_drink_accarragm:new {
 
 }
 

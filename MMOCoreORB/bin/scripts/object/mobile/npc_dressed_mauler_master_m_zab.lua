@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_npc_dressed_mauler_master_m_zab = object_mobile_npc_dressed_mauler_master_m_zab:new {
+object_mobile_npc_dressed_mauler_master_m_zab = object_mobile_shared_npc_dressed_mauler_master_m_zab:new {
 
 }
 

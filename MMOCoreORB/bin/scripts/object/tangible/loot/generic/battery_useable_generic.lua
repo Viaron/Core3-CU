@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_battery_useable_generic = object_tangible_loot_generic_battery_useable_generic:new {
+object_tangible_loot_generic_battery_useable_generic = object_tangible_loot_generic_shared_battery_useable_generic:new {
 
 }
 

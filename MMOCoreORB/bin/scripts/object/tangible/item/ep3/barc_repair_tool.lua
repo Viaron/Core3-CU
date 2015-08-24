@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_ep3_barc_repair_tool = object_tangible_item_ep3_barc_repair_tool:new {
+object_tangible_item_ep3_barc_repair_tool = object_tangible_item_ep3_shared_barc_repair_tool:new {
 
 }
 

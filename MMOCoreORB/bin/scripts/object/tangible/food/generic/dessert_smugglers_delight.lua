@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_smugglers_delight = object_tangible_food_generic_dessert_smugglers_delight:new {
+object_tangible_food_generic_dessert_smugglers_delight = object_tangible_food_generic_shared_dessert_smugglers_delight:new {
 
 }
 

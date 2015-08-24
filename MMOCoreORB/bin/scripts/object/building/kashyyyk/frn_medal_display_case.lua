@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_medal_display_case = object_building_kashyyyk_frn_medal_display_case:new {
+object_building_kashyyyk_frn_medal_display_case = object_building_kashyyyk_shared_frn_medal_display_case:new {
 
 }
 

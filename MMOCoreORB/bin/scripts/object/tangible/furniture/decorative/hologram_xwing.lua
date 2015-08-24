@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_decorative_hologram_xwing = object_tangible_furniture_decorative_hologram_xwing:new {
+object_tangible_furniture_decorative_hologram_xwing = object_tangible_furniture_decorative_shared_hologram_xwing:new {
 
 }
 

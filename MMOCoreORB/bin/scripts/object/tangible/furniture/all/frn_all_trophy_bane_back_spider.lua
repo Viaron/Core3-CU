@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_all_frn_all_trophy_bane_back_spider = object_tangible_furniture_all_frn_all_trophy_bane_back_spider:new {
+object_tangible_furniture_all_frn_all_trophy_bane_back_spider = object_tangible_furniture_all_shared_frn_all_trophy_bane_back_spider:new {
 
 }
 

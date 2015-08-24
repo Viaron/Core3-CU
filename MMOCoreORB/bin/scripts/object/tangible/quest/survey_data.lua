@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_survey_data = object_tangible_quest_survey_data:new {
+object_tangible_quest_survey_data = object_tangible_quest_shared_survey_data:new {
 
 }
 

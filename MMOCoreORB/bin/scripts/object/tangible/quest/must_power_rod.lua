@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_must_power_rod = object_tangible_quest_must_power_rod:new {
+object_tangible_quest_must_power_rod = object_tangible_quest_shared_must_power_rod:new {
 
 }
 

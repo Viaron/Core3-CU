@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_djedi_hum_m_01 = object_mobile_som_djedi_hum_m_01:new {
+object_mobile_som_djedi_hum_m_01 = object_mobile_som_shared_djedi_hum_m_01:new {
 
 }
 

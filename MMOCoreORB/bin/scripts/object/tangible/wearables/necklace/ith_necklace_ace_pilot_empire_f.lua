@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_ith_necklace_ace_pilot_empire_f = object_tangible_wearables_necklace_ith_necklace_ace_pilot_empire_f:new {
+object_tangible_wearables_necklace_ith_necklace_ace_pilot_empire_f = object_tangible_wearables_necklace_shared_ith_necklace_ace_pilot_empire_f:new {
 
 }
 

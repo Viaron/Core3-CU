@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_modification_hutt_heavy_modification_s01 = object_tangible_ship_crafted_modification_hutt_heavy_modification_s01:new {
+object_tangible_ship_crafted_modification_hutt_heavy_modification_s01 = object_tangible_ship_crafted_modification_shared_hutt_heavy_modification_s01:new {
 
 }
 

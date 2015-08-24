@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_elect_power_unit_generic = object_tangible_loot_generic_usable_elect_power_unit_generic:new {
+object_tangible_loot_generic_usable_elect_power_unit_generic = object_tangible_loot_generic_usable_shared_elect_power_unit_generic:new {
 
 }
 

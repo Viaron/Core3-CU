@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_quest_blaster_power_handler_faux_bowcaster = object_tangible_component_weapon_quest_blaster_power_handler_faux_bowcaster:new {
+object_tangible_component_weapon_quest_blaster_power_handler_faux_bowcaster = object_tangible_component_weapon_quest_shared_blaster_power_handler_faux_bowcaster:new {
 
 }
 

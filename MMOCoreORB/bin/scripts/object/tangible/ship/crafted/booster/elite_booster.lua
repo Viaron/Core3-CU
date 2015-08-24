@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_booster_elite_booster = object_tangible_ship_crafted_booster_elite_booster:new {
+object_tangible_ship_crafted_booster_elite_booster = object_tangible_ship_crafted_booster_shared_elite_booster:new {
 
 }
 

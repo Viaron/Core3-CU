@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_radar_screen = object_tangible_loot_mustafar_radar_screen:new {
+object_tangible_loot_mustafar_radar_screen = object_tangible_loot_mustafar_shared_radar_screen:new {
 
 }
 

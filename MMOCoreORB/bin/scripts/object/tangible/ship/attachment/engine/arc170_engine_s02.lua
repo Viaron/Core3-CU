@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_attachment_engine_arc170_engine_s02 = object_tangible_ship_attachment_engine_arc170_engine_s02:new {
+object_tangible_ship_attachment_engine_arc170_engine_s02 = object_tangible_ship_attachment_engine_shared_arc170_engine_s02:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_spice_crate = object_tangible_quest_spice_crate:new {
+object_tangible_quest_spice_crate = object_tangible_quest_shared_spice_crate:new {
 
 }
 

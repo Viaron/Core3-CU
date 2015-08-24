@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic = object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic:new {
+object_tangible_loot_loot_schematic_weapon_must_2h_lightsaber_schematic = object_tangible_loot_loot_schematic_shared_weapon_must_2h_lightsaber_schematic:new {
 
 }
 

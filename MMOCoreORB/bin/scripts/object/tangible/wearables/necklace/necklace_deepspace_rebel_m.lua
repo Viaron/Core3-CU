@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_necklace_necklace_deepspace_rebel_m = object_tangible_wearables_necklace_necklace_deepspace_rebel_m:new {
+object_tangible_wearables_necklace_necklace_deepspace_rebel_m = object_tangible_wearables_necklace_shared_necklace_deepspace_rebel_m:new {
 
 }
 

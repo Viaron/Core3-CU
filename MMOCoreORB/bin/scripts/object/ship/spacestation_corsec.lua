@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_spacestation_corsec = object_ship_spacestation_corsec:new {
+object_ship_spacestation_corsec = object_ship_shared_spacestation_corsec:new {
 
 }
 

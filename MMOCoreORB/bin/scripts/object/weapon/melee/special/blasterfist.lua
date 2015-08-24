@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_special_blasterfist = object_weapon_melee_special_blasterfist:new {
+object_weapon_melee_special_blasterfist = object_weapon_melee_special_shared_blasterfist:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_chassis_jedi_starfighter_deed = object_tangible_ship_crafted_chassis_jedi_starfighter_deed:new {
+object_tangible_ship_crafted_chassis_jedi_starfighter_deed = object_tangible_ship_crafted_chassis_shared_jedi_starfighter_deed:new {
 
 }
 

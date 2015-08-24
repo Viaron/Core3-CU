@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_uwari_pincer = object_tangible_loot_creature_loot_kashyyyk_loot_uwari_pincer:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_uwari_pincer = object_tangible_loot_creature_loot_kashyyyk_loot_shared_uwari_pincer:new {
 
 }
 

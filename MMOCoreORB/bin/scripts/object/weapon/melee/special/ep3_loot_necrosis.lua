@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_special_ep3_loot_necrosis = object_weapon_melee_special_ep3_loot_necrosis:new {
+object_weapon_melee_special_ep3_loot_necrosis = object_weapon_melee_special_shared_ep3_loot_necrosis:new {
 
 }
 

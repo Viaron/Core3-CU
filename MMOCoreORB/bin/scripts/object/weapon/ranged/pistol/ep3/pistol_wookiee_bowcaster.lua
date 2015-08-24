@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_pistol_ep3_pistol_wookiee_bowcaster = object_weapon_ranged_pistol_ep3_pistol_wookiee_bowcaster:new {
+object_weapon_ranged_pistol_ep3_pistol_wookiee_bowcaster = object_weapon_ranged_pistol_ep3_shared_pistol_wookiee_bowcaster:new {
 
 }
 

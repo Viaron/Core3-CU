@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_dance_prop_prop_ribbon_spark_l = object_draft_schematic_dance_prop_prop_ribbon_spark_l:new {
+object_draft_schematic_dance_prop_prop_ribbon_spark_l = object_draft_schematic_dance_prop_shared_prop_ribbon_spark_l:new {
 
 }
 

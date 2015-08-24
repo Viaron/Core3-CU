@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_heavy_republic_flamer = object_draft_schematic_weapon_heavy_republic_flamer:new {
+object_draft_schematic_weapon_heavy_republic_flamer = object_draft_schematic_weapon_shared_heavy_republic_flamer:new {
 
 }
 

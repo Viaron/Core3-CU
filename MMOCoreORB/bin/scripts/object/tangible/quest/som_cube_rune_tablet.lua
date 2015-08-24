@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_cube_rune_tablet = object_tangible_quest_som_cube_rune_tablet:new {
+object_tangible_quest_som_cube_rune_tablet = object_tangible_quest_shared_som_cube_rune_tablet:new {
 
 }
 

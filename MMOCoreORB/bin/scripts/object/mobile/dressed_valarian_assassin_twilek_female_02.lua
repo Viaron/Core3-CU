@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_valarian_assassin_twilek_female_02 = object_mobile_dressed_valarian_assassin_twilek_female_02:new {
+object_mobile_dressed_valarian_assassin_twilek_female_02 = object_mobile_shared_dressed_valarian_assassin_twilek_female_02:new {
 
 }
 

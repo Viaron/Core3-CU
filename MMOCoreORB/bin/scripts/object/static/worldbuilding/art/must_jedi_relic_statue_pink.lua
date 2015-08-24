@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_worldbuilding_art_must_jedi_relic_statue_pink = object_static_worldbuilding_art_must_jedi_relic_statue_pink:new {
+object_static_worldbuilding_art_must_jedi_relic_statue_pink = object_static_worldbuilding_art_shared_must_jedi_relic_statue_pink:new {
 
 }
 

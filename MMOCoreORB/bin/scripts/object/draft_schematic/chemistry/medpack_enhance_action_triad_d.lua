@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_medpack_enhance_action_triad_d = object_draft_schematic_chemistry_medpack_enhance_action_triad_d:new {
+object_draft_schematic_chemistry_medpack_enhance_action_triad_d = object_draft_schematic_chemistry_shared_medpack_enhance_action_triad_d:new {
 
 }
 

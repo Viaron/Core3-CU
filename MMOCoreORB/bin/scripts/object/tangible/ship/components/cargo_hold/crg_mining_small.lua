@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_cargo_hold_crg_mining_small = object_tangible_ship_components_cargo_hold_crg_mining_small:new {
+object_tangible_ship_components_cargo_hold_crg_mining_small = object_tangible_ship_components_cargo_hold_shared_crg_mining_small:new {
 
 }
 

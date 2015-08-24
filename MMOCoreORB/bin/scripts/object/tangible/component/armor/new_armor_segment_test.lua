@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_new_armor_segment_test = object_tangible_component_armor_new_armor_segment_test:new {
+object_tangible_component_armor_new_armor_segment_test = object_tangible_component_armor_shared_new_armor_segment_test:new {
 
 }
 

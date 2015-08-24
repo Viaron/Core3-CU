@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_heavy_lava_cannon = object_draft_schematic_weapon_heavy_lava_cannon:new {
+object_draft_schematic_weapon_heavy_lava_cannon = object_draft_schematic_weapon_shared_heavy_lava_cannon:new {
 
 }
 

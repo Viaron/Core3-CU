@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_sayormi_tent_mobile = object_building_kashyyyk_sayormi_tent_mobile:new {
+object_building_kashyyyk_sayormi_tent_mobile = object_building_kashyyyk_shared_sayormi_tent_mobile:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_loot_retaliation = object_draft_schematic_weapon_loot_retaliation:new {
+object_draft_schematic_weapon_loot_retaliation = object_draft_schematic_weapon_shared_loot_retaliation:new {
 
 }
 

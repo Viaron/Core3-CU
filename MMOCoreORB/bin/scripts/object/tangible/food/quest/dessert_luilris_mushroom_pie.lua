@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_quest_dessert_luilris_mushroom_pie = object_tangible_food_quest_dessert_luilris_mushroom_pie:new {
+object_tangible_food_quest_dessert_luilris_mushroom_pie = object_tangible_food_quest_shared_dessert_luilris_mushroom_pie:new {
 
 }
 

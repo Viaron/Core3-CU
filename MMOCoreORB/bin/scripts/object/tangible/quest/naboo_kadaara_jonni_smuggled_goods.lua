@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_naboo_kadaara_jonni_smuggled_goods = object_tangible_quest_naboo_kadaara_jonni_smuggled_goods:new {
+object_tangible_quest_naboo_kadaara_jonni_smuggled_goods = object_tangible_quest_shared_naboo_kadaara_jonni_smuggled_goods:new {
 
 }
 

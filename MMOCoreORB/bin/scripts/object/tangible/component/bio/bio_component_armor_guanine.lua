@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_bio_bio_component_armor_guanine = object_tangible_component_bio_bio_component_armor_guanine:new {
+object_tangible_component_bio_bio_component_armor_guanine = object_tangible_component_bio_shared_bio_component_armor_guanine:new {
 
 }
 

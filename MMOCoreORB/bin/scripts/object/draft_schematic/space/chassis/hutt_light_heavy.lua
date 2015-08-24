@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_chassis_hutt_light_heavy = object_draft_schematic_space_chassis_hutt_light_heavy:new {
+object_draft_schematic_space_chassis_hutt_light_heavy = object_draft_schematic_space_chassis_shared_hutt_light_heavy:new {
 
 }
 

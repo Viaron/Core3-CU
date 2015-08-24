@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s01 = object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s01:new {
+object_weapon_melee_sword_crafted_saber_sword_lightsaber_ranged_donotuse_s01 = object_weapon_melee_sword_crafted_saber_shared_sword_lightsaber_ranged_donotuse_s01:new {
 
 }
 

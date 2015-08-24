@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_ep3_rryatt_lost_rodian_frantic_02 = object_mobile_ep3_ep3_rryatt_lost_rodian_frantic_02:new {
+object_mobile_ep3_ep3_rryatt_lost_rodian_frantic_02 = object_mobile_ep3_shared_ep3_rryatt_lost_rodian_frantic_02:new {
 
 }
 

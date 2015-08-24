@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_obsid_lance_core = object_tangible_component_weapon_mustafar_obsid_lance_core:new {
+object_tangible_component_weapon_mustafar_obsid_lance_core = object_tangible_component_weapon_mustafar_shared_obsid_lance_core:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_kiwik_clusjo_swirl = object_tangible_food_generic_dessert_kiwik_clusjo_swirl:new {
+object_tangible_food_generic_dessert_kiwik_clusjo_swirl = object_tangible_food_generic_shared_dessert_kiwik_clusjo_swirl:new {
 
 }
 

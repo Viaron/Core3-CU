@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_ep3_mining_thom_steele = object_mobile_ep3_ep3_mining_thom_steele:new {
+object_mobile_ep3_ep3_mining_thom_steele = object_mobile_ep3_shared_ep3_mining_thom_steele:new {
 
 }
 

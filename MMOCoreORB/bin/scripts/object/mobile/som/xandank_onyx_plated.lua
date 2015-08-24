@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_xandank_onyx_plated = object_mobile_som_xandank_onyx_plated:new {
+object_mobile_som_xandank_onyx_plated = object_mobile_som_shared_xandank_onyx_plated:new {
 
 }
 

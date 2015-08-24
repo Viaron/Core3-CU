@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_pod_egg_sacs = object_tangible_quest_pod_egg_sacs:new {
+object_tangible_quest_pod_egg_sacs = object_tangible_quest_shared_pod_egg_sacs:new {
 
 }
 

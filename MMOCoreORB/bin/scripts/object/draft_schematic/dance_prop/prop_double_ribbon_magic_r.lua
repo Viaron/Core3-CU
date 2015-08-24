@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_dance_prop_prop_double_ribbon_magic_r = object_draft_schematic_dance_prop_prop_double_ribbon_magic_r:new {
+object_draft_schematic_dance_prop_prop_double_ribbon_magic_r = object_draft_schematic_dance_prop_shared_prop_double_ribbon_magic_r:new {
 
 }
 

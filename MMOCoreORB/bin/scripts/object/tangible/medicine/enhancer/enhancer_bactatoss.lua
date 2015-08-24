@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_enhancer_enhancer_bactatoss = object_tangible_medicine_enhancer_enhancer_bactatoss:new {
+object_tangible_medicine_enhancer_enhancer_bactatoss = object_tangible_medicine_enhancer_shared_enhancer_bactatoss:new {
 
 }
 

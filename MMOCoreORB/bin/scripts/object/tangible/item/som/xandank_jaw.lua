@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_xandank_jaw = object_tangible_item_som_xandank_jaw:new {
+object_tangible_item_som_xandank_jaw = object_tangible_item_som_shared_xandank_jaw:new {
 
 }
 

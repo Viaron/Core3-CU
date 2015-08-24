@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_etyyy_chiss_poached_goods = object_tangible_quest_etyyy_chiss_poached_goods:new {
+object_tangible_quest_etyyy_chiss_poached_goods = object_tangible_quest_shared_etyyy_chiss_poached_goods:new {
 
 }
 

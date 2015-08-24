@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_terminal_terminal_kashyyyk_content = object_tangible_terminal_terminal_kashyyyk_content:new {
+object_tangible_terminal_terminal_kashyyyk_content = object_tangible_terminal_shared_terminal_kashyyyk_content:new {
 
 }
 

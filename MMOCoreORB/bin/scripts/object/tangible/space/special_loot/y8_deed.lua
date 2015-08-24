@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_space_special_loot_y8_deed = object_tangible_space_special_loot_y8_deed:new {
+object_tangible_space_special_loot_y8_deed = object_tangible_space_special_loot_shared_y8_deed:new {
 
 }
 

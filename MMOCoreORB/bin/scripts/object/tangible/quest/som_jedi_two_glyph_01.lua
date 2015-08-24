@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_som_jedi_two_glyph_01 = object_tangible_quest_som_jedi_two_glyph_01:new {
+object_tangible_quest_som_jedi_two_glyph_01 = object_tangible_quest_shared_som_jedi_two_glyph_01:new {
 
 }
 

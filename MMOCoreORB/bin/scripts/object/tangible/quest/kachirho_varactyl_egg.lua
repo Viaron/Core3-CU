@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_kachirho_varactyl_egg = object_tangible_quest_kachirho_varactyl_egg:new {
+object_tangible_quest_kachirho_varactyl_egg = object_tangible_quest_shared_kachirho_varactyl_egg:new {
 
 }
 

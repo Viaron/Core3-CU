@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_finned_blaggart = object_mobile_finned_blaggart:new {
+object_mobile_finned_blaggart = object_mobile_shared_finned_blaggart:new {
 
 }
 

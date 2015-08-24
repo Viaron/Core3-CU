@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core = object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core:new {
+object_tangible_dungeon_mustafar_decrepit_droid_factory_master_power_core = object_tangible_dungeon_mustafar_decrepit_droid_factory_shared_master_power_core:new {
 
 }
 

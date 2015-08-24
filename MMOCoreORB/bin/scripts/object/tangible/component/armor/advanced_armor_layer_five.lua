@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_advanced_armor_layer_five = object_tangible_component_armor_advanced_armor_layer_five:new {
+object_tangible_component_armor_advanced_armor_layer_five = object_tangible_component_armor_shared_advanced_armor_layer_five:new {
 
 }
 

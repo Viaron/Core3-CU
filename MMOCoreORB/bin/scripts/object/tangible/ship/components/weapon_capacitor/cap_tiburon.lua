@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_weapon_capacitor_cap_tiburon = object_tangible_ship_components_weapon_capacitor_cap_tiburon:new {
+object_tangible_ship_components_weapon_capacitor_cap_tiburon = object_tangible_ship_components_weapon_capacitor_shared_cap_tiburon:new {
 
 }
 

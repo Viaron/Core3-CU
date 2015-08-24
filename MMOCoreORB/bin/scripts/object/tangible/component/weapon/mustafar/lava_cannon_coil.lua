@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_mustafar_lava_cannon_coil = object_tangible_component_weapon_mustafar_lava_cannon_coil:new {
+object_tangible_component_weapon_mustafar_lava_cannon_coil = object_tangible_component_weapon_mustafar_shared_lava_cannon_coil:new {
 
 }
 

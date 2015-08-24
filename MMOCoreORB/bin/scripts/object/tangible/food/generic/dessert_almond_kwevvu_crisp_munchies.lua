@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_almond_kwevvu_crisp_munchies = object_tangible_food_generic_dessert_almond_kwevvu_crisp_munchies:new {
+object_tangible_food_generic_dessert_almond_kwevvu_crisp_munchies = object_tangible_food_generic_shared_dessert_almond_kwevvu_crisp_munchies:new {
 
 }
 

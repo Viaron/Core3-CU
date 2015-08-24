@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_blacksun_vaksai_pcd = object_intangible_ship_blacksun_vaksai_pcd:new {
+object_intangible_ship_blacksun_vaksai_pcd = object_intangible_ship_shared_blacksun_vaksai_pcd:new {
 
 }
 

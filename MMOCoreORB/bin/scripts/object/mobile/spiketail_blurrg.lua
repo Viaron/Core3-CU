@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_spiketail_blurrg = object_mobile_spiketail_blurrg:new {
+object_mobile_spiketail_blurrg = object_mobile_shared_spiketail_blurrg:new {
 
 }
 

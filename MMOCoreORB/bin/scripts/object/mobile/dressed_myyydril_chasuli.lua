@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_myyydril_chasuli = object_mobile_dressed_myyydril_chasuli:new {
+object_mobile_dressed_myyydril_chasuli = object_mobile_shared_dressed_myyydril_chasuli:new {
 
 }
 

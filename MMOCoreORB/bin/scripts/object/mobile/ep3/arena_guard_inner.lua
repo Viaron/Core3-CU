@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_arena_guard_inner = object_mobile_ep3_arena_guard_inner:new {
+object_mobile_ep3_arena_guard_inner = object_mobile_ep3_shared_arena_guard_inner:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_npc_ithes_olok = object_mobile_som_npc_ithes_olok:new {
+object_mobile_som_npc_ithes_olok = object_mobile_som_shared_npc_ithes_olok:new {
 
 }
 

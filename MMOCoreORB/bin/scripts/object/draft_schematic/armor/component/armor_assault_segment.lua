@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_armor_component_armor_assault_segment = object_draft_schematic_armor_component_armor_assault_segment:new {
+object_draft_schematic_armor_component_armor_assault_segment = object_draft_schematic_armor_component_shared_armor_assault_segment:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_tieinterceptor_imperial_guard_pcd = object_intangible_ship_tieinterceptor_imperial_guard_pcd:new {
+object_intangible_ship_tieinterceptor_imperial_guard_pcd = object_intangible_ship_shared_tieinterceptor_imperial_guard_pcd:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_pt_fog_kashyyyk_hracca_chiss_fog = object_static_particle_pt_fog_kashyyyk_hracca_chiss_fog:new {
+object_static_particle_pt_fog_kashyyyk_hracca_chiss_fog = object_static_particle_shared_pt_fog_kashyyyk_hracca_chiss_fog:new {
 
 }
 

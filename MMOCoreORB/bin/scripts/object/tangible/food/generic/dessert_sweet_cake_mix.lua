@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_sweet_cake_mix = object_tangible_food_generic_dessert_sweet_cake_mix:new {
+object_tangible_food_generic_dessert_sweet_cake_mix = object_tangible_food_generic_shared_dessert_sweet_cake_mix:new {
 
 }
 

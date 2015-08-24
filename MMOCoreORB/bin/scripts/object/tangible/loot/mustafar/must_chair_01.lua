@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_must_chair_01 = object_tangible_loot_mustafar_must_chair_01:new {
+object_tangible_loot_mustafar_must_chair_01 = object_tangible_loot_mustafar_shared_must_chair_01:new {
 
 }
 

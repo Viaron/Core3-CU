@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_player_player_mustafar_house_lg = object_building_player_player_mustafar_house_lg:new {
+object_building_player_player_mustafar_house_lg = object_building_player_shared_player_mustafar_house_lg:new {
 
 }
 

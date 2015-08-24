@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_valley_battlefield_demo_charge_medium = object_tangible_dungeon_mustafar_valley_battlefield_demo_charge_medium:new {
+object_tangible_dungeon_mustafar_valley_battlefield_demo_charge_medium = object_tangible_dungeon_mustafar_valley_battlefield_shared_demo_charge_medium:new {
 
 }
 

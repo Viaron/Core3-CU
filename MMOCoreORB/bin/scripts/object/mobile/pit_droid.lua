@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_pit_droid = object_mobile_pit_droid:new {
+object_mobile_pit_droid = object_mobile_shared_pit_droid:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_som_jundak_skull = object_tangible_item_som_jundak_skull:new {
+object_tangible_item_som_jundak_skull = object_tangible_item_som_shared_jundak_skull:new {
 
 }
 

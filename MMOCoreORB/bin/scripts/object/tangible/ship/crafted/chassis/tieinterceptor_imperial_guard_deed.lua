@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_deed = object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_deed:new {
+object_tangible_ship_crafted_chassis_tieinterceptor_imperial_guard_deed = object_tangible_ship_crafted_chassis_shared_tieinterceptor_imperial_guard_deed:new {
 
 }
 

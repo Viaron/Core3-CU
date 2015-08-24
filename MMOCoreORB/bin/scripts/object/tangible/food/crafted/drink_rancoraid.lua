@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_crafted_drink_rancoraid = object_tangible_food_crafted_drink_rancoraid:new {
+object_tangible_food_crafted_drink_rancoraid = object_tangible_food_crafted_shared_drink_rancoraid:new {
 
 }
 

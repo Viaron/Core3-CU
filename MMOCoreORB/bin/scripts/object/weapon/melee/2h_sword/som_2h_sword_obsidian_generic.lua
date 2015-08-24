@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_2h_sword_som_2h_sword_obsidian_generic = object_weapon_melee_2h_sword_som_2h_sword_obsidian_generic:new {
+object_weapon_melee_2h_sword_som_2h_sword_obsidian_generic = object_weapon_melee_2h_sword_shared_som_2h_sword_obsidian_generic:new {
 
 }
 

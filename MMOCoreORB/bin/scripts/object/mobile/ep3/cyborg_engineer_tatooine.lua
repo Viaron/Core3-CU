@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_cyborg_engineer_tatooine = object_mobile_ep3_cyborg_engineer_tatooine:new {
+object_mobile_ep3_cyborg_engineer_tatooine = object_mobile_ep3_shared_cyborg_engineer_tatooine:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_usable_generator_device_generic = object_tangible_loot_generic_usable_generator_device_generic:new {
+object_tangible_loot_generic_usable_generator_device_generic = object_tangible_loot_generic_usable_shared_generator_device_generic:new {
 
 }
 

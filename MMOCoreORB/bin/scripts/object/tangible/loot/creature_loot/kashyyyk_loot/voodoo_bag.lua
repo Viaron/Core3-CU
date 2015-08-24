@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag = object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag:new {
+object_tangible_loot_creature_loot_kashyyyk_loot_voodoo_bag = object_tangible_loot_creature_loot_kashyyyk_loot_shared_voodoo_bag:new {
 
 }
 

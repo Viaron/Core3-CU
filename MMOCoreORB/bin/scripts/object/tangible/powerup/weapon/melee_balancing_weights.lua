@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_powerup_weapon_melee_balancing_weights = object_tangible_powerup_weapon_melee_balancing_weights:new {
+object_tangible_powerup_weapon_melee_balancing_weights = object_tangible_powerup_weapon_shared_melee_balancing_weights:new {
 
 }
 

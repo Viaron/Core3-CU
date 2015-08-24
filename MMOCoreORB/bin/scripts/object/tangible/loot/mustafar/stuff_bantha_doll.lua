@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_mustafar_stuff_bantha_doll = object_tangible_loot_mustafar_stuff_bantha_doll:new {
+object_tangible_loot_mustafar_stuff_bantha_doll = object_tangible_loot_mustafar_shared_stuff_bantha_doll:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_corellia_coronet_farm_aid_stolen_grain = object_tangible_quest_corellia_coronet_farm_aid_stolen_grain:new {
+object_tangible_quest_corellia_coronet_farm_aid_stolen_grain = object_tangible_quest_shared_corellia_coronet_farm_aid_stolen_grain:new {
 
 }
 

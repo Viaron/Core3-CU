@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_weapon_projectile_feed_mechanism_enhancement_bounty = object_tangible_component_weapon_projectile_feed_mechanism_enhancement_bounty:new {
+object_tangible_component_weapon_projectile_feed_mechanism_enhancement_bounty = object_tangible_component_weapon_shared_projectile_feed_mechanism_enhancement_bounty:new {
 
 }
 

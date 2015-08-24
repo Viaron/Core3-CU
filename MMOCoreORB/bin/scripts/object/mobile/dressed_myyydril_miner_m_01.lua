@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_myyydril_miner_m_01 = object_mobile_dressed_myyydril_miner_m_01:new {
+object_mobile_dressed_myyydril_miner_m_01 = object_mobile_shared_dressed_myyydril_miner_m_01:new {
 
 }
 

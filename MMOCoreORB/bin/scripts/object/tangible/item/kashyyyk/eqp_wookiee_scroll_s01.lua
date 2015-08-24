@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_kashyyyk_eqp_wookiee_scroll_s01 = object_tangible_item_kashyyyk_eqp_wookiee_scroll_s01:new {
+object_tangible_item_kashyyyk_eqp_wookiee_scroll_s01 = object_tangible_item_kashyyyk_shared_eqp_wookiee_scroll_s01:new {
 
 }
 

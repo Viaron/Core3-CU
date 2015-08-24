@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_npc_loot_spray_unit_small_03_generic = object_tangible_loot_npc_loot_spray_unit_small_03_generic:new {
+object_tangible_loot_npc_loot_spray_unit_small_03_generic = object_tangible_loot_npc_loot_shared_spray_unit_small_03_generic:new {
 
 }
 

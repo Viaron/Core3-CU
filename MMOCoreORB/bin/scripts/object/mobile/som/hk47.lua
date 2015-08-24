@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_hk47 = object_mobile_som_hk47:new {
+object_mobile_som_hk47 = object_mobile_som_shared_hk47:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn = object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn:new {
+object_tangible_quest_quest_start_ep3_hunt_loot_spiketop_horn = object_tangible_quest_quest_start_shared_ep3_hunt_loot_spiketop_horn:new {
 
 }
 

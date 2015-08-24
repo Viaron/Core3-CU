@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_bio_cartridge = object_tangible_component_armor_bio_cartridge:new {
+object_tangible_component_armor_bio_cartridge = object_tangible_component_armor_shared_bio_cartridge:new {
 
 }
 

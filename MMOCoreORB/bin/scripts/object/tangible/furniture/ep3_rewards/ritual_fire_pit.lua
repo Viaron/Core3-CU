@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_ritual_fire_pit = object_tangible_furniture_ep3_rewards_ritual_fire_pit:new {
+object_tangible_furniture_ep3_rewards_ritual_fire_pit = object_tangible_furniture_ep3_rewards_shared_ritual_fire_pit:new {
 
 }
 

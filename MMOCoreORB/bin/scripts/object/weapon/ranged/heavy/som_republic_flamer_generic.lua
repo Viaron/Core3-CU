@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_som_republic_flamer_generic = object_weapon_ranged_heavy_som_republic_flamer_generic:new {
+object_weapon_ranged_heavy_som_republic_flamer_generic = object_weapon_ranged_heavy_shared_som_republic_flamer_generic:new {
 
 }
 

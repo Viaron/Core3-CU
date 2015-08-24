@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_installation_turret_mustafar_defense_turret = object_installation_turret_mustafar_defense_turret:new {
+object_installation_turret_mustafar_defense_turret = object_installation_turret_shared_mustafar_defense_turret:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_mun_kash_tree_sm_s01 = object_building_kashyyyk_mun_kash_tree_sm_s01:new {
+object_building_kashyyyk_mun_kash_tree_sm_s01 = object_building_kashyyyk_shared_mun_kash_tree_sm_s01:new {
 
 }
 

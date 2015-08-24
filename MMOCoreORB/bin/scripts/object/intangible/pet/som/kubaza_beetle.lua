@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_pet_som_kubaza_beetle = object_intangible_pet_som_kubaza_beetle:new {
+object_intangible_pet_som_kubaza_beetle = object_intangible_pet_som_shared_kubaza_beetle:new {
 
 }
 

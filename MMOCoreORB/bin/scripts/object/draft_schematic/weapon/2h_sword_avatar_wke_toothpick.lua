@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_2h_sword_avatar_wke_toothpick = object_draft_schematic_weapon_2h_sword_avatar_wke_toothpick:new {
+object_draft_schematic_weapon_2h_sword_avatar_wke_toothpick = object_draft_schematic_weapon_shared_2h_sword_avatar_wke_toothpick:new {
 
 }
 

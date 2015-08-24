@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_wookiee_spirit_healer_01 = object_mobile_ep3_wookiee_spirit_healer_01:new {
+object_mobile_ep3_wookiee_spirit_healer_01 = object_mobile_ep3_shared_wookiee_spirit_healer_01:new {
 
 }
 

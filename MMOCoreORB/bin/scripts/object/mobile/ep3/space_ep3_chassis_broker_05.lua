@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_space_ep3_chassis_broker_05 = object_mobile_ep3_space_ep3_chassis_broker_05:new {
+object_mobile_ep3_space_ep3_chassis_broker_05 = object_mobile_ep3_shared_space_ep3_chassis_broker_05:new {
 
 }
 

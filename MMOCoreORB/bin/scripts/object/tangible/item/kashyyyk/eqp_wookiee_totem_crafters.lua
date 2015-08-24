@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_kashyyyk_eqp_wookiee_totem_crafters = object_tangible_item_kashyyyk_eqp_wookiee_totem_crafters:new {
+object_tangible_item_kashyyyk_eqp_wookiee_totem_crafters = object_tangible_item_kashyyyk_shared_eqp_wookiee_totem_crafters:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_dl44_metal_light = object_draft_schematic_weapon_pistol_dl44_metal_light:new {
+object_draft_schematic_weapon_pistol_dl44_metal_light = object_draft_schematic_weapon_shared_pistol_dl44_metal_light:new {
 
 }
 

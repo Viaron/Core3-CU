@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_orf_vesp = object_mobile_som_orf_vesp:new {
+object_mobile_som_orf_vesp = object_mobile_som_shared_orf_vesp:new {
 
 }
 

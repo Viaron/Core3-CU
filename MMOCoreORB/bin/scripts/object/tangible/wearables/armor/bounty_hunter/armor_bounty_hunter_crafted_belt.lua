@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_bounty_hunter_armor_bounty_hunter_crafted_belt = object_tangible_wearables_armor_bounty_hunter_armor_bounty_hunter_crafted_belt:new {
+object_tangible_wearables_armor_bounty_hunter_armor_bounty_hunter_crafted_belt = object_tangible_wearables_armor_bounty_hunter_shared_armor_bounty_hunter_crafted_belt:new {
 
 }
 

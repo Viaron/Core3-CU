@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_kash_myyydril_cave_lantern = object_building_kashyyyk_frn_kash_myyydril_cave_lantern:new {
+object_building_kashyyyk_frn_kash_myyydril_cave_lantern = object_building_kashyyyk_shared_frn_kash_myyydril_cave_lantern:new {
 
 }
 

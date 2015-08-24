@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_minstyngar = object_mobile_minstyngar:new {
+object_mobile_minstyngar = object_mobile_shared_minstyngar:new {
 
 }
 

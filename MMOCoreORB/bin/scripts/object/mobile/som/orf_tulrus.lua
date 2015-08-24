@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_orf_tulrus = object_mobile_som_orf_tulrus:new {
+object_mobile_som_orf_tulrus = object_mobile_som_shared_orf_tulrus:new {
 
 }
 

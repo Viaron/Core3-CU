@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_ship_grievous_starship_pcd = object_intangible_ship_grievous_starship_pcd:new {
+object_intangible_ship_grievous_starship_pcd = object_intangible_ship_shared_grievous_starship_pcd:new {
 
 }
 

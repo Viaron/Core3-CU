@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_player_player_jedi_starfighter = object_ship_player_player_jedi_starfighter:new {
+object_ship_player_player_jedi_starfighter = object_ship_player_shared_player_jedi_starfighter:new {
 
 }
 

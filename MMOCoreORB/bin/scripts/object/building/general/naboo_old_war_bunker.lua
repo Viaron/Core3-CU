@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_general_naboo_old_war_bunker = object_building_general_naboo_old_war_bunker:new {
+object_building_general_naboo_old_war_bunker = object_building_general_shared_naboo_old_war_bunker:new {
 
 }
 

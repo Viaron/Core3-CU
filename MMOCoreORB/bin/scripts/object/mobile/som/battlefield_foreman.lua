@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_battlefield_foreman = object_mobile_som_battlefield_foreman:new {
+object_mobile_som_battlefield_foreman = object_mobile_som_shared_battlefield_foreman:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_gloves = object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_gloves:new {
+object_tangible_wearables_armor_rebel_assault_armor_rebel_assault_gloves = object_tangible_wearables_armor_rebel_assault_shared_armor_rebel_assault_gloves:new {
 
 }
 

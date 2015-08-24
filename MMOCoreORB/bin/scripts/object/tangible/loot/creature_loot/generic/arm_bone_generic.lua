@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_arm_bone_generic = object_tangible_loot_creature_loot_generic_arm_bone_generic:new {
+object_tangible_loot_creature_loot_generic_arm_bone_generic = object_tangible_loot_creature_loot_generic_shared_arm_bone_generic:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_skeleton_blistmok = object_mobile_skeleton_blistmok:new {
+object_mobile_skeleton_blistmok = object_mobile_skeleton_shared_blistmok:new {
 
 }
 

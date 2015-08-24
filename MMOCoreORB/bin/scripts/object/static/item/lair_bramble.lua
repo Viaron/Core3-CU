@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_lair_bramble = object_static_item_lair_bramble:new {
+object_static_item_lair_bramble = object_static_item_shared_lair_bramble:new {
 
 }
 

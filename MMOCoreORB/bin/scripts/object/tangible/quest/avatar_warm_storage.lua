@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_avatar_warm_storage = object_tangible_quest_avatar_warm_storage:new {
+object_tangible_quest_avatar_warm_storage = object_tangible_quest_shared_avatar_warm_storage:new {
 
 }
 

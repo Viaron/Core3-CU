@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_medicine_instant_stimpack_stimpack_b = object_tangible_medicine_instant_stimpack_stimpack_b:new {
+object_tangible_medicine_instant_stimpack_stimpack_b = object_tangible_medicine_instant_stimpack_shared_stimpack_b:new {
 
 }
 

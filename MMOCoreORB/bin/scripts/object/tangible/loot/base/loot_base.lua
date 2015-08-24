@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_base_loot_base = object_tangible_loot_base_loot_base:new {
+object_tangible_loot_base_loot_base = object_tangible_loot_base_shared_loot_base:new {
 
 }
 

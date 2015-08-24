@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_tieinterceptor_imperial_guard_tier5 = object_ship_tieinterceptor_imperial_guard_tier5:new {
+object_ship_tieinterceptor_imperial_guard_tier5 = object_ship_shared_tieinterceptor_imperial_guard_tier5:new {
 
 }
 

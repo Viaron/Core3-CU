@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_cww8_battle_droid = object_mobile_som_cww8_battle_droid:new {
+object_mobile_som_cww8_battle_droid = object_mobile_som_shared_cww8_battle_droid:new {
 
 }
 

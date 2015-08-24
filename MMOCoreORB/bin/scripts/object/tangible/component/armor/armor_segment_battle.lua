@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_component_armor_armor_segment_battle = object_tangible_component_armor_armor_segment_battle:new {
+object_tangible_component_armor_armor_segment_battle = object_tangible_component_armor_shared_armor_segment_battle:new {
 
 }
 

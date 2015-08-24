@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_factional_schematic_rebel_assault_chest_plate_schematic = object_tangible_loot_factional_schematic_rebel_assault_chest_plate_schematic:new {
+object_tangible_loot_factional_schematic_rebel_assault_chest_plate_schematic = object_tangible_loot_factional_schematic_shared_rebel_assault_chest_plate_schematic:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_loot_cube = object_tangible_item_loot_cube:new {
+object_tangible_item_loot_cube = object_tangible_item_shared_loot_cube:new {
 
 }
 

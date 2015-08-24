@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_ep3_varactyl_egg = object_tangible_loot_quest_ep3_varactyl_egg:new {
+object_tangible_loot_quest_ep3_varactyl_egg = object_tangible_loot_quest_ep3_shared_varactyl_egg:new {
 
 }
 

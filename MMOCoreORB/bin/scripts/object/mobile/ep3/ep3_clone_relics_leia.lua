@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_ep3_ep3_clone_relics_leia = object_mobile_ep3_ep3_clone_relics_leia:new {
+object_mobile_ep3_ep3_clone_relics_leia = object_mobile_ep3_shared_ep3_clone_relics_leia:new {
 
 }
 

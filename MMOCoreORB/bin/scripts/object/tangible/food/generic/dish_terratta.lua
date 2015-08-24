@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_terratta = object_tangible_food_generic_dish_terratta:new {
+object_tangible_food_generic_dish_terratta = object_tangible_food_generic_shared_dish_terratta:new {
 
 }
 

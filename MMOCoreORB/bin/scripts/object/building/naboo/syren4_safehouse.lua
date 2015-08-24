@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_naboo_syren4_safehouse = object_building_naboo_syren4_safehouse:new {
+object_building_naboo_syren4_safehouse = object_building_naboo_shared_syren4_safehouse:new {
 
 }
 

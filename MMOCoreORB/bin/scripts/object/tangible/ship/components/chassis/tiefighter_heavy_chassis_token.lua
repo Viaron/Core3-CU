@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token = object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token:new {
+object_tangible_ship_components_chassis_tiefighter_heavy_chassis_token = object_tangible_ship_components_chassis_shared_tiefighter_heavy_chassis_token:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_hugo_eckener = object_mobile_hugo_eckener:new {
+object_mobile_hugo_eckener = object_mobile_shared_hugo_eckener:new {
 
 }
 

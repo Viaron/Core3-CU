@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_vehicle_barc_speeder_pcd = object_intangible_vehicle_barc_speeder_pcd:new {
+object_intangible_vehicle_barc_speeder_pcd = object_intangible_vehicle_shared_barc_speeder_pcd:new {
 
 }
 

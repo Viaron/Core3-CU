@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_legacy_valarian_pallet1_datapad = object_tangible_quest_legacy_valarian_pallet1_datapad:new {
+object_tangible_quest_legacy_valarian_pallet1_datapad = object_tangible_quest_shared_legacy_valarian_pallet1_datapad:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_quest_ep3_healing_resin = object_tangible_loot_quest_ep3_healing_resin:new {
+object_tangible_loot_quest_ep3_healing_resin = object_tangible_loot_quest_shared_ep3_healing_resin:new {
 
 }
 

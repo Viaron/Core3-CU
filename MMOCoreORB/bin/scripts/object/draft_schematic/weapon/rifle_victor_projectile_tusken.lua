@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_rifle_victor_projectile_tusken = object_draft_schematic_weapon_rifle_victor_projectile_tusken:new {
+object_draft_schematic_weapon_rifle_victor_projectile_tusken = object_draft_schematic_weapon_shared_rifle_victor_projectile_tusken:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_event_perk_frn_all_gaming_kiosk_s01 = object_tangible_event_perk_frn_all_gaming_kiosk_s01:new {
+object_tangible_event_perk_frn_all_gaming_kiosk_s01 = object_tangible_event_perk_shared_frn_all_gaming_kiosk_s01:new {
 
 }
 

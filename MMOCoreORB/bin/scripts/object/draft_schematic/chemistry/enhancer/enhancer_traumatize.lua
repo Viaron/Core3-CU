@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_chemistry_enhancer_enhancer_traumatize = object_draft_schematic_chemistry_enhancer_enhancer_traumatize:new {
+object_draft_schematic_chemistry_enhancer_enhancer_traumatize = object_draft_schematic_chemistry_enhancer_shared_enhancer_traumatize:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_ep3_forest_wke_assassin = object_mobile_dressed_ep3_forest_wke_assassin:new {
+object_mobile_dressed_ep3_forest_wke_assassin = object_mobile_shared_dressed_ep3_forest_wke_assassin:new {
 
 }
 

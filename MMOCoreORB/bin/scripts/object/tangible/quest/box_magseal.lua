@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_box_magseal = object_tangible_quest_box_magseal:new {
+object_tangible_quest_box_magseal = object_tangible_quest_shared_box_magseal:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller = object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller:new {
+object_tangible_dungeon_mustafar_decrepit_droid_factory_environmental_controller = object_tangible_dungeon_mustafar_decrepit_droid_factory_shared_environmental_controller:new {
 
 }
 

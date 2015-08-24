@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_sword_01_static = object_weapon_melee_sword_sword_01_static:new {
+object_weapon_melee_sword_sword_01_static = object_weapon_melee_sword_shared_sword_01_static:new {
 
 }
 

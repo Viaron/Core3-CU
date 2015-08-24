@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_bicep_l = object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_bicep_l:new {
+object_tangible_wearables_armor_assault_trooper_armor_assault_trooper_bicep_l = object_tangible_wearables_armor_assault_trooper_shared_armor_assault_trooper_bicep_l:new {
 
 }
 

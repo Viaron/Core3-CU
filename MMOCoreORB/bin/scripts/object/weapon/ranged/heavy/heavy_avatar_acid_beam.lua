@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_heavy_heavy_avatar_acid_beam = object_weapon_ranged_heavy_heavy_avatar_acid_beam:new {
+object_weapon_ranged_heavy_heavy_avatar_acid_beam = object_weapon_ranged_heavy_shared_heavy_avatar_acid_beam:new {
 
 }
 

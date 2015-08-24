@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_tantel_armor_tantel_skreej_bracer_r = object_tangible_wearables_armor_tantel_armor_tantel_skreej_bracer_r:new {
+object_tangible_wearables_armor_tantel_armor_tantel_skreej_bracer_r = object_tangible_wearables_armor_tantel_shared_armor_tantel_skreej_bracer_r:new {
 
 }
 

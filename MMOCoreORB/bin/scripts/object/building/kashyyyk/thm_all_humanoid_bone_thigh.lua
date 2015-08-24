@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_thm_all_humanoid_bone_thigh = object_building_kashyyyk_thm_all_humanoid_bone_thigh:new {
+object_building_kashyyyk_thm_all_humanoid_bone_thigh = object_building_kashyyyk_shared_thm_all_humanoid_bone_thigh:new {
 
 }
 

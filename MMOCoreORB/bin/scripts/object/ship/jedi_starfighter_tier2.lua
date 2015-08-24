@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_ship_jedi_starfighter_tier2 = object_ship_jedi_starfighter_tier2:new {
+object_ship_jedi_starfighter_tier2 = object_ship_shared_jedi_starfighter_tier2:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_dungeon_mustafar_old_republic_facility_terminal_delta_five = object_tangible_dungeon_mustafar_old_republic_facility_terminal_delta_five:new {
+object_tangible_dungeon_mustafar_old_republic_facility_terminal_delta_five = object_tangible_dungeon_mustafar_old_republic_facility_shared_terminal_delta_five:new {
 
 }
 

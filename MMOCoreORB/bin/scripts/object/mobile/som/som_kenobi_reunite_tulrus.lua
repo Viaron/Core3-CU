@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_som_kenobi_reunite_tulrus = object_mobile_som_som_kenobi_reunite_tulrus:new {
+object_mobile_som_som_kenobi_reunite_tulrus = object_mobile_som_shared_som_kenobi_reunite_tulrus:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_poi_tree_mound = object_building_kashyyyk_poi_tree_mound:new {
+object_building_kashyyyk_poi_tree_mound = object_building_kashyyyk_shared_poi_tree_mound:new {
 
 }
 

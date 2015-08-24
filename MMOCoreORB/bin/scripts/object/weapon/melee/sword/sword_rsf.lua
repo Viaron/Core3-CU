@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_sword_sword_rsf = object_weapon_melee_sword_sword_rsf:new {
+object_weapon_melee_sword_sword_rsf = object_weapon_melee_sword_shared_sword_rsf:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_rifle_ep3_rifle_dc15 = object_weapon_ranged_rifle_ep3_rifle_dc15:new {
+object_weapon_ranged_rifle_ep3_rifle_dc15 = object_weapon_ranged_rifle_ep3_shared_rifle_dc15:new {
 
 }
 

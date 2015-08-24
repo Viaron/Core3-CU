@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_powerup_weapon_melee_actioncost = object_tangible_powerup_weapon_melee_actioncost:new {
+object_tangible_powerup_weapon_melee_actioncost = object_tangible_powerup_weapon_shared_melee_actioncost:new {
 
 }
 

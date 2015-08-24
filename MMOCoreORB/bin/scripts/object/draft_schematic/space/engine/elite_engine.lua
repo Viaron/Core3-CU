@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_space_engine_elite_engine = object_draft_schematic_space_engine_elite_engine:new {
+object_draft_schematic_space_engine_elite_engine = object_draft_schematic_space_engine_shared_elite_engine:new {
 
 }
 

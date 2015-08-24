@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_components_armor_arm_ur_0015_rancor = object_tangible_ship_components_armor_arm_ur_0015_rancor:new {
+object_tangible_ship_components_armor_arm_ur_0015_rancor = object_tangible_ship_components_armor_shared_arm_ur_0015_rancor:new {
 
 }
 

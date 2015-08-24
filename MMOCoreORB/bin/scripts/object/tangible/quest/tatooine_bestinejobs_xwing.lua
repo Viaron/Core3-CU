@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_tatooine_bestinejobs_xwing = object_tangible_quest_tatooine_bestinejobs_xwing:new {
+object_tangible_quest_tatooine_bestinejobs_xwing = object_tangible_quest_shared_tatooine_bestinejobs_xwing:new {
 
 }
 

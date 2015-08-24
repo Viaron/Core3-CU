@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_factional_schematic_imperial_assault_trooper_helmet_schematic = object_tangible_loot_factional_schematic_imperial_assault_trooper_helmet_schematic:new {
+object_tangible_loot_factional_schematic_imperial_assault_trooper_helmet_schematic = object_tangible_loot_factional_schematic_shared_imperial_assault_trooper_helmet_schematic:new {
 
 }
 

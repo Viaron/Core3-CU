@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_drink_kylessian_fruit_distillate = object_tangible_food_generic_drink_kylessian_fruit_distillate:new {
+object_tangible_food_generic_drink_kylessian_fruit_distillate = object_tangible_food_generic_shared_drink_kylessian_fruit_distillate:new {
 
 }
 

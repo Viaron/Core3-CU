@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_knife_naktra_crystal_false = object_draft_schematic_weapon_knife_naktra_crystal_false:new {
+object_draft_schematic_weapon_knife_naktra_crystal_false = object_draft_schematic_weapon_shared_knife_naktra_crystal_false:new {
 
 }
 

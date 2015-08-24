@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_sword_rantok = object_draft_schematic_weapon_sword_rantok:new {
+object_draft_schematic_weapon_sword_rantok = object_draft_schematic_weapon_shared_sword_rantok:new {
 
 }
 

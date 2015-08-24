@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_wp_rifle_adventurer = object_static_item_wp_rifle_adventurer:new {
+object_static_item_wp_rifle_adventurer = object_static_item_shared_wp_rifle_adventurer:new {
 
 }
 

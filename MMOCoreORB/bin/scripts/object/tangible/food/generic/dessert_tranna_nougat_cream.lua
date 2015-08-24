@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dessert_tranna_nougat_cream = object_tangible_food_generic_dessert_tranna_nougat_cream:new {
+object_tangible_food_generic_dessert_tranna_nougat_cream = object_tangible_food_generic_shared_dessert_tranna_nougat_cream:new {
 
 }
 

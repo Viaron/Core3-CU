@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_thm_kash_zonegate_fence_simple = object_building_kashyyyk_thm_kash_zonegate_fence_simple:new {
+object_building_kashyyyk_thm_kash_zonegate_fence_simple = object_building_kashyyyk_shared_thm_kash_zonegate_fence_simple:new {
 
 }
 

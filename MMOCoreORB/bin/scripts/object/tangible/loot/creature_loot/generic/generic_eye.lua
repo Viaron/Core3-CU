@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_creature_loot_generic_generic_eye = object_tangible_loot_creature_loot_generic_generic_eye:new {
+object_tangible_loot_creature_loot_generic_generic_eye = object_tangible_loot_creature_loot_generic_shared_generic_eye:new {
 
 }
 

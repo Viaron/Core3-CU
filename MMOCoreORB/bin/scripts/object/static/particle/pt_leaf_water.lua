@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_particle_pt_leaf_water = object_static_particle_pt_leaf_water:new {
+object_static_particle_pt_leaf_water = object_static_particle_shared_pt_leaf_water:new {
 
 }
 

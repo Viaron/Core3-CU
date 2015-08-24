@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_luilris_mushrooms = object_tangible_quest_luilris_mushrooms:new {
+object_tangible_quest_luilris_mushrooms = object_tangible_quest_shared_luilris_mushrooms:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_ship_crafted_reactor_mining_grade_reactor = object_tangible_ship_crafted_reactor_mining_grade_reactor:new {
+object_tangible_ship_crafted_reactor_mining_grade_reactor = object_tangible_ship_crafted_reactor_shared_mining_grade_reactor:new {
 
 }
 

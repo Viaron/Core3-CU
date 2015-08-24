@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_intangible_pet_som_tanray = object_intangible_pet_som_tanray:new {
+object_intangible_pet_som_tanray = object_intangible_pet_som_shared_tanray:new {
 
 }
 

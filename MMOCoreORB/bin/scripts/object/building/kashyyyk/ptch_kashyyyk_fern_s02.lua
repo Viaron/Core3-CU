@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_ptch_kashyyyk_fern_s02 = object_building_kashyyyk_ptch_kashyyyk_fern_s02:new {
+object_building_kashyyyk_ptch_kashyyyk_fern_s02 = object_building_kashyyyk_shared_ptch_kashyyyk_fern_s02:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_draft_schematic_weapon_pistol_avatar_trando_special = object_draft_schematic_weapon_pistol_avatar_trando_special:new {
+object_draft_schematic_weapon_pistol_avatar_trando_special = object_draft_schematic_weapon_shared_pistol_avatar_trando_special:new {
 
 }
 

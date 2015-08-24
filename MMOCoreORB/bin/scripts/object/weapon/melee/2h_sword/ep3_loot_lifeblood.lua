@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_melee_2h_sword_ep3_loot_lifeblood = object_weapon_melee_2h_sword_ep3_loot_lifeblood:new {
+object_weapon_melee_2h_sword_ep3_loot_lifeblood = object_weapon_melee_2h_sword_shared_ep3_loot_lifeblood:new {
 
 }
 

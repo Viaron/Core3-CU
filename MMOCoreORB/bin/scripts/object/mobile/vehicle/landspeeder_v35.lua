@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_vehicle_landspeeder_v35 = object_mobile_vehicle_landspeeder_v35:new {
+object_mobile_vehicle_landspeeder_v35 = object_mobile_vehicle_shared_landspeeder_v35:new {
 
 }
 

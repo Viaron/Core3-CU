@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_rrwii_root = object_tangible_quest_rrwii_root:new {
+object_tangible_quest_rrwii_root = object_tangible_quest_shared_rrwii_root:new {
 
 }
 

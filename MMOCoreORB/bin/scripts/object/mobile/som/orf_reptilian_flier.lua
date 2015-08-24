@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_orf_reptilian_flier = object_mobile_som_orf_reptilian_flier:new {
+object_mobile_som_orf_reptilian_flier = object_mobile_som_shared_orf_reptilian_flier:new {
 
 }
 

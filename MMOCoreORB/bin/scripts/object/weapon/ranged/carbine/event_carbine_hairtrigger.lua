@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_weapon_ranged_carbine_event_carbine_hairtrigger = object_weapon_ranged_carbine_event_carbine_hairtrigger:new {
+object_weapon_ranged_carbine_event_carbine_hairtrigger = object_weapon_ranged_carbine_shared_event_carbine_hairtrigger:new {
 
 }
 

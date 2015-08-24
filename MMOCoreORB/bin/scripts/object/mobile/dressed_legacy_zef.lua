@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_dressed_legacy_zef = object_mobile_dressed_legacy_zef:new {
+object_mobile_dressed_legacy_zef = object_mobile_shared_dressed_legacy_zef:new {
 
 }
 

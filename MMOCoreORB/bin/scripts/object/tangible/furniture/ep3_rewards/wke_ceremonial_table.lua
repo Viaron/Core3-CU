@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_furniture_ep3_rewards_wke_ceremonial_table = object_tangible_furniture_ep3_rewards_wke_ceremonial_table:new {
+object_tangible_furniture_ep3_rewards_wke_ceremonial_table = object_tangible_furniture_ep3_rewards_shared_wke_ceremonial_table:new {
 
 }
 

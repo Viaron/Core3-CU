@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_quest_lost_squadron_xwing = object_tangible_quest_lost_squadron_xwing:new {
+object_tangible_quest_lost_squadron_xwing = object_tangible_quest_shared_lost_squadron_xwing:new {
 
 }
 

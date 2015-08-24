@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_static_item_wp_rifle_ewok_crossbow = object_static_item_wp_rifle_ewok_crossbow:new {
+object_static_item_wp_rifle_ewok_crossbow = object_static_item_shared_wp_rifle_ewok_crossbow:new {
 
 }
 

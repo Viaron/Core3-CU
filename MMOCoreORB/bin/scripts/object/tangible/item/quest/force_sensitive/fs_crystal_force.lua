@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_item_quest_force_sensitive_fs_crystal_force = object_tangible_item_quest_force_sensitive_fs_crystal_force:new {
+object_tangible_item_quest_force_sensitive_fs_crystal_force = object_tangible_item_quest_force_sensitive_shared_fs_crystal_force:new {
 
 }
 

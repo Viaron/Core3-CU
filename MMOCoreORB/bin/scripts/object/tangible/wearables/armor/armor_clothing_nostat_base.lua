@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_wearables_armor_armor_clothing_nostat_base = object_tangible_wearables_armor_armor_clothing_nostat_base:new {
+object_tangible_wearables_armor_armor_clothing_nostat_base = object_tangible_wearables_armor_shared_armor_clothing_nostat_base:new {
 
 }
 

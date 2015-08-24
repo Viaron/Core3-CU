@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_bar_drink_bar_s05 = object_tangible_food_bar_drink_bar_s05:new {
+object_tangible_food_bar_drink_bar_s05 = object_tangible_food_bar_shared_drink_bar_s05:new {
 
 }
 

@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_frn_kash_wookiee_shaman_prayer_mobile = object_building_kashyyyk_frn_kash_wookiee_shaman_prayer_mobile:new {
+object_building_kashyyyk_frn_kash_wookiee_shaman_prayer_mobile = object_building_kashyyyk_shared_frn_kash_wookiee_shaman_prayer_mobile:new {
 
 }
 

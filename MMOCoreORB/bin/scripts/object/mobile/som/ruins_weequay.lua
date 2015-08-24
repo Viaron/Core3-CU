@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_mobile_som_ruins_weequay = object_mobile_som_ruins_weequay:new {
+object_mobile_som_ruins_weequay = object_mobile_som_shared_ruins_weequay:new {
 
 }
 

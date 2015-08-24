@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_smuggler_finely_crafted_toolset = object_tangible_smuggler_finely_crafted_toolset:new {
+object_tangible_smuggler_finely_crafted_toolset = object_tangible_smuggler_shared_finely_crafted_toolset:new {
 
 }
 

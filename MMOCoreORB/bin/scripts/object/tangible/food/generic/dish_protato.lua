@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_food_generic_dish_protato = object_tangible_food_generic_dish_protato:new {
+object_tangible_food_generic_dish_protato = object_tangible_food_generic_shared_dish_protato:new {
 
 }
 

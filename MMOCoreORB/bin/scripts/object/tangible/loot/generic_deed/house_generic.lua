@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_tangible_loot_generic_deed_house_generic = object_tangible_loot_generic_deed_house_generic:new {
+object_tangible_loot_generic_deed_house_generic = object_tangible_loot_generic_deed_shared_house_generic:new {
 
 }
 

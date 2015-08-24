@@ -1,6 +1,6 @@
 --Copyright 2015 CUEmu
 
-object_building_kashyyyk_kash_dead_forest_cliff_right = object_building_kashyyyk_kash_dead_forest_cliff_right:new {
+object_building_kashyyyk_kash_dead_forest_cliff_right = object_building_kashyyyk_shared_kash_dead_forest_cliff_right:new {
 
 }
 
