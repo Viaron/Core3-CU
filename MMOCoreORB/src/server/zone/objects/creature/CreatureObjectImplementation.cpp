@@ -2825,17 +2825,17 @@ void CreatureObjectImplementation::addWearableObject(TangibleObject* object, boo
 	if (wearablesVector.contains(object))
 		return;
 
-	/*if (notifyClient) {
+	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
 				_this.get());
-		msg->startUpdate(0x0F);
+		msg->startUpdate(0x10);
 		wearablesVector.add(object, msg);
 		msg->close();
 
-		broadcastMessage(msg, true);*/
-	//} else {
-	wearablesVector.add(object);
-	//}
+		broadcastMessage(msg, true);
+	} else {
+		wearablesVector.add(object);
+	}
 }
 
 void CreatureObjectImplementation::removeWearableObject(TangibleObject* object, bool notifyClient) {
@@ -2844,17 +2844,17 @@ void CreatureObjectImplementation::removeWearableObject(TangibleObject* object, 
 	if (index == -1)
 		return;
 
-	/*if (notifyClient) {
+	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
 				_this.get());
-		msg->startUpdate(0x0F);
+		msg->startUpdate(0x10);
 		wearablesVector.remove(index, msg);
 		msg->close();
 
 		broadcastMessage(msg, true);
-	} else {*/
-	wearablesVector.remove(index);
-	//}
+	} else {
+		wearablesVector.remove(index);
+	}
 }
 
 CampSiteActiveArea* CreatureObjectImplementation::getCurrentCamp() {
