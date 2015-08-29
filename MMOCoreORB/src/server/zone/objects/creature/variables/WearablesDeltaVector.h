@@ -35,6 +35,7 @@ public:
 		msg->insertInt(object->getContainmentType()); //Equipped
 		msg->insertLong(object->getObjectID()); //object id
 		msg->insertInt(object->getClientObjectCRC()); //CRC of the object
+		msg->insertByte(0); // CU Buffer
 	}
 
 	bool add(ManagedReference<TangibleObject*> element, DeltaMessage* message = NULL, int updates = 1) {
