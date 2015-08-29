@@ -1,17 +1,11 @@
---Copyright 2015 CUEmu
-
---Children folder includes
-
--- Server Objects
-includeFile("building/mustafar/structures/must_new_mining_facility.lua")
 includeFile("building/mustafar/structures/droid_factory_exterior_door.lua")
 includeFile("building/mustafar/structures/droid_factory_interior_door.lua")
 includeFile("building/mustafar/structures/must_bandit_bunker.lua")
 includeFile("building/mustafar/structures/must_bandit_cooling_unit.lua")
 includeFile("building/mustafar/structures/must_bandit_entrance.lua")
-includeFile("building/mustafar/structures/must_bandit_fence_8m.lua")
 includeFile("building/mustafar/structures/must_bandit_fence_16m.lua")
 includeFile("building/mustafar/structures/must_bandit_fence_32m.lua")
+includeFile("building/mustafar/structures/must_bandit_fence_8m.lua")
 includeFile("building/mustafar/structures/must_bandit_fence_post.lua")
 includeFile("building/mustafar/structures/must_bandit_generator.lua")
 includeFile("building/mustafar/structures/must_crashed_republic_ship.lua")
@@ -41,6 +35,7 @@ includeFile("building/mustafar/structures/must_mining_clone_marker.lua")
 includeFile("building/mustafar/structures/must_mining_facility.lua")
 includeFile("building/mustafar/structures/must_mining_facility_destroyed.lua")
 includeFile("building/mustafar/structures/must_mining_facility_fork.lua")
+includeFile("building/mustafar/structures/must_new_mining_facility.lua")
 includeFile("building/mustafar/structures/must_old_republic_facility_exterior.lua")
 includeFile("building/mustafar/structures/must_orbital_defense_mushroom.lua")
 includeFile("building/mustafar/structures/must_sherkar_door.lua")
@@ -52,6 +47,3 @@ includeFile("building/mustafar/structures/must_smuggler_watchtower.lua")
 includeFile("building/mustafar/structures/must_uplink_bunker_entrance.lua")
 includeFile("building/mustafar/structures/must_uplink_bunker_entrance_door.lua")
 includeFile("building/mustafar/structures/old_republic_facility_door_exterior.lua")
-
-
-

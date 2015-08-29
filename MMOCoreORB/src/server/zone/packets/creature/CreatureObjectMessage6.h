@@ -99,7 +99,7 @@ public:
 	}
 
 	void insertEquipmentList(CreatureObject* creo) {
-		VectorMap<String, ManagedReference<SceneObject*> >* equipmentList = creo->getSlottedObjects();
+		/*VectorMap<String, ManagedReference<SceneObject*> >* equipmentList = creo->getSlottedObjects();
 
 		SortedVector<ManagedReference<SceneObject*> > uniqueObjects;
 		uniqueObjects.setNoDuplicateInsertPlan();
@@ -134,8 +134,9 @@ public:
 			insertLong(object->getObjectID()); //object id
 			insertInt(object->getClientObjectCRC()); //CRC of the object
 			insertByte(0); // CU buffer...
-		}
-
+		}*/
+		DeltaVector<ManagedReference<TangibleObject*> >* wearables = creo->getWearablesDeltaVector();
+		wearables->insertToMessage(this);
 	}
 };
 
