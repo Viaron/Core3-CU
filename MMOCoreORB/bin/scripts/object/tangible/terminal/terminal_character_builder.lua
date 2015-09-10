@@ -1794,13 +1794,19 @@ object_tangible_terminal_terminal_character_builder = object_tangible_terminal_s
 			{
 				"Vehicle Deeds",
 				{
-					"Swoop", "object/tangible/deed/vehicle_deed/speederbike_swoop_deed.iff",
-					--"Jetpack", "object/tangible/deed/vehicle_deed/jetpack_deed.iff",
-					"Speederbike", "object/tangible/deed/vehicle_deed/speederbike_deed.iff",
-					--"Speederbike Flash", "object/tangible/deed/vehicle_deed/speederbike_flash_deed.iff",
+					"BARC Speeder", "object/tangible/deed/vehicle_deed/barc_speeder_deed.iff",
 					--"Landspeeder av21", "object/tangible/deed/vehicle_deed/landspeeder_av21_deed.iff",
 					--"Landspeeder x31", "object/tangible/deed/vehicle_deed/landspeeder_x31_deed.iff",
-					--"Landspeeder x34", "object/tangible/deed/vehicle_deed/landspeeder_x34_deed.iff"
+					--"Landspeeder x34", "object/tangible/deed/vehicle_deed/landspeeder_x34_deed.iff",
+					--"Jetpack", "object/tangible/deed/vehicle_deed/jetpack_deed.iff",
+					"Speederbike", "object/tangible/deed/vehicle_deed/speederbike_deed.iff",
+					"Swoop", "object/tangible/deed/vehicle_deed/speederbike_swoop_deed.iff",
+					--"Speederbike Flash", "object/tangible/deed/vehicle_deed/speederbike_flash_deed.iff",
+					"Tantive IV Landspeeder", "object/tangible/deed/vehicle_deed/landspeeder_tantive4_deed.iff",
+					"Transport Skiff", "object/tangible/deed/vehicle_deed/landspeeder_desert_skiff_deed.iff",
+					"USV5 Landspeeder", "object/tangible/deed/vehicle_deed/landspeeder_usv5_deed.iff",
+					"V35 Landspeeder", "object/tangible/deed/vehicle_deed/landspeeder_v35_deed.iff",
+					"XP-38 Landspeeder", "object/tangible/deed/vehicle_deed/landspeeder_xp38_deed.iff"
 				},
 				"Structure Deeds",
 				{
