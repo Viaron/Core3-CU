@@ -912,7 +912,7 @@ bool PlayerObjectImplementation::addSchematics(Vector<ManagedReference<DraftSche
 	if(schematicsToSend.size() == 0)
 		return false;
 
-	if (notifyClient) {
+	/*if (notifyClient) {
 		PlayerObjectDeltaMessage9* msg = new PlayerObjectDeltaMessage9(_this.getReferenceUnsafeStaticCast());
 		msg->startUpdate(4);
 
@@ -924,12 +924,12 @@ bool PlayerObjectImplementation::addSchematics(Vector<ManagedReference<DraftSche
 		msg->close();
 
 		sendMessage(msg);
-	} else {
+	} else {*/
 
 		for (int i = 0; i < schematicsToSend.size(); ++i)
 			schematicList.add(schematicsToSend.get(i));
 
-	}
+	//}
 
 	return true;
 }
@@ -990,7 +990,7 @@ void PlayerObjectImplementation::removeSchematics(Vector<ManagedReference<DraftS
 	if (schematics.size() == 0)
 		return;
 
-	if (notifyClient) {
+	/*if (notifyClient) {
 		PlayerObjectDeltaMessage9* msg = new PlayerObjectDeltaMessage9(_this.getReferenceUnsafeStaticCast());
 		msg->startUpdate(4);
 
@@ -1000,10 +1000,10 @@ void PlayerObjectImplementation::removeSchematics(Vector<ManagedReference<DraftS
 
 		sendMessage(msg);
 
-	} else {
+	} else {*/
 
 		schematicList.removeAll();
-	}
+	//}
 
 	/**
 	 * Here we are loading the schematics based on the skills that the

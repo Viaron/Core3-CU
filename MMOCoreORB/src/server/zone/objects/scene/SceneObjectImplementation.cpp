@@ -1340,13 +1340,13 @@ void SceneObjectImplementation::setZone(Zone* zone) {
 }
 
 void SceneObjectImplementation::showFlyText(const String& file, const String& aux, uint8 red, uint8 green, uint8 blue) {
-	ShowFlyText* fly = new ShowFlyText(_this.get(), file, aux, 1.0, red, green, blue);
+	ShowFlyText* fly = new ShowFlyText(asSceneObject(), file, aux, 1.0, red, green, blue);
 
 	broadcastMessage(fly, true);
 }
 
 void SceneObjectImplementation::showFlyText(const String& file, const String& aux, float scale, uint8 red, uint8 green, uint8 blue) {
-	ShowFlyText* fly = new ShowFlyText(_this.get(), file, aux, scale, red, green, blue);
+	ShowFlyText* fly = new ShowFlyText(asSceneObject(), file, aux, scale, red, green, blue);
 
 	broadcastMessage(fly, true);
 }

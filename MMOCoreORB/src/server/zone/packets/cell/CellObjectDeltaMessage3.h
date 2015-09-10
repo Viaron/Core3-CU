@@ -20,7 +20,7 @@ public:
 	}
 
 	void updateCellNumber(int cellNumber) {
-		addIntUpdate(5, cellNumber);
+		addIntUpdate(6, cellNumber);
 	}
 };
 

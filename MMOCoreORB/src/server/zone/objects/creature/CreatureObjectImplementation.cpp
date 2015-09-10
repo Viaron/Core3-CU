@@ -465,13 +465,13 @@ void CreatureObjectImplementation::clearQueueAction(uint32 actioncntr, float tim
 
 
 	if (tab1 > 0 || tab2 > 0 || timer == 0) {
-		BaseMessage* commandFail = new CommandTimer(_this.get(), actioncntr, actionCRC);
+		BaseMessage* commandFail = new CommandTimer(asCreatureObject(), actioncntr, actionCRC);
 		sendMessage(commandFail);
 	} /*else {
 		ManagedReference<ObjectController*> objectController = getZoneServer()->getObjectController();
 		QueueCommand* queueCommand = objectController->getQueueCommand(actionCRC);
 
-		BaseMessage* cooldownStart = new CommandTimer(_this.get(), actioncntr, actionCRC, queueCommand->getCoolDownGroup().hashCode(), queueCommand->getCooldown(), queueCommand->getExecuteTime());
+		BaseMessage* cooldownStart = new CommandTimer(asCreatureObject(), actioncntr, actionCRC, queueCommand->getCoolDownGroup().hashCode(), queueCommand->getCooldown(), queueCommand->getExecuteTime());
 		sendMessage(cooldownStart);
 	}*/
 }
@@ -527,19 +527,19 @@ void CreatureObjectImplementation::setWeapon(WeaponObject* weao,
 
 	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
-				_this.get());
+				asCreatureObject());
 		msg->updateWeapon();
 		msg->close();
 
 		broadcastMessage(msg, true);
 
-		WeaponObjectMessage3* weaponChange1 = new WeaponObjectMessage3(_this.get()->getWeapon());
+		WeaponObjectMessage3* weaponChange1 = new WeaponObjectMessage3(asCreatureObject()->getWeapon());
 		sendMessage(weaponChange1);
 
-		WeaponObjectMessage6* weaponChange2 = new WeaponObjectMessage6(_this.get()->getWeapon());
+		WeaponObjectMessage6* weaponChange2 = new WeaponObjectMessage6(asCreatureObject()->getWeapon());
 		sendMessage(weaponChange2);
 
-		/*WeaponRanges* ranges = new WeaponRanges(_this.get(), getWeapon());
+		/*WeaponRanges* ranges = new WeaponRanges(asCreatureObject(), getWeapon());
 		sendMessage(ranges); */ // not used in CU
 	}
 }
@@ -1236,7 +1236,7 @@ void CreatureObjectImplementation::setMaxHAM(int type, int value,
 
 	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
-				_this.get());
+				asCreatureObject());
 		msg->startUpdate(0x0F);
 		maxHamList.set(type, value, msg);
 		msg->close();
@@ -1893,7 +1893,7 @@ void CreatureObjectImplementation::enqueueCommand(unsigned int actionCRC,
 		return;
 	}
 
-	action = new CommandQueueAction(_this.get(), targetID, actionCRC, actionCount,
+	action = new CommandQueueAction(asCreatureObject(), targetID, actionCRC, actionCount,
 			arguments);
 
 	if (commandQueue->size() != 0 || !nextAction.isPast()) {
@@ -2158,7 +2158,7 @@ void CreatureObjectImplementation::executeObjectControllerAction(
 
 void CreatureObjectImplementation::doCombatAnimation(CreatureObject* defender,
 		uint32 animcrc, byte hit, byte trails) {
-	CombatAction* action = new CombatAction(_this.get(), defender, 0, animcrc, hit, trails, 0, getWeapon()->getObjectID());
+	CombatAction* action = new CombatAction(asCreatureObject(), defender, 0, animcrc, hit, trails, 0, getWeapon()->getObjectID());
 
 	broadcastMessage(action, true);
 }
@@ -2172,7 +2172,7 @@ void CreatureObjectImplementation::doAnimation(const String& anim) {
 void CreatureObjectImplementation::playEffect(const String& file,
 		const String& aux) {
 	PlayClientEffectObjectMessage* effect = new PlayClientEffectObjectMessage(
-			_this.get(), file, aux);
+			asCreatureObject(), file, aux);
 
 	broadcastMessage(effect, true);
 }
@@ -2216,12 +2216,12 @@ void CreatureObjectImplementation::setCoverState(int durationSeconds) {
 
 void CreatureObjectImplementation::setBerserkedState(uint32 duration) {
 	if (!hasState(CreatureState::BERSERK)) {
-		addBuff(CreatureState::BERSERK);
+		addBuff(STRING_HASHCODE("berserk"));
 	}
 }
 void CreatureObjectImplementation::setStunnedState(int durationSeconds) {
 	if (!hasState(CreatureState::STUNNED)) {
-		addBuff(STRING_HASHCODE("beserk"));
+		addBuff(STRING_HASHCODE("stun"));
 	}
 }
 
@@ -2232,7 +2232,7 @@ void CreatureObjectImplementation::setBlindedState(int durationSeconds) {
 }
 
 void CreatureObjectImplementation::setIntimidatedState(uint32 mod, uint32 crc, int durationSeconds) {
-	addBuff(STRING_HASHCODE("stun"));
+	addBuff(STRING_HASHCODE("intimidate"));
 }
 
 void CreatureObjectImplementation::setSnaredState(int durationSeconds) {
@@ -2827,7 +2827,7 @@ void CreatureObjectImplementation::addWearableObject(TangibleObject* object, boo
 
 	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
-				_this.get());
+				asCreatureObject());
 		msg->startUpdate(0x10);
 		wearablesVector.add(object, msg);
 		msg->close();
@@ -2846,7 +2846,7 @@ void CreatureObjectImplementation::removeWearableObject(TangibleObject* object, 
 
 	if (notifyClient) {
 		CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(
-				_this.get());
+				asCreatureObject());
 		msg->startUpdate(0x10);
 		wearablesVector.remove(index, msg);
 		msg->close();
@@ -3128,7 +3128,7 @@ void CreatureObjectImplementation::forceCloakRemoval() {
 	setInvisible(false);
 	setVisible(1);
 
-	CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(_this.get());
+	CreatureObjectDeltaMessage6* msg = new CreatureObjectDeltaMessage6(asCreatureObject());
 	msg->updateVisible();
 	msg->close();
 	broadcastMessage(msg, true);
@@ -3138,8 +3138,8 @@ void CreatureObjectImplementation::forceCloakRemoval() {
 	for (int i = 0; i < closeObjects->size(); ++i) {
 		SceneObject* scno = cast<SceneObject*>( closeObjects->get(i).get());
 
-		if (scno != _this.get() && scno->isPlayerCreature())
-			scno->notifyInsert(_this.get());
+		if (scno != asCreatureObject() && scno->isPlayerCreature())
+			scno->notifyInsert(asCreatureObject());
 	}
 
 	//PlayClientEffectLoc* removeCloakEffectOther = new PlayClientEffectLoc("clienteffect/combat_special_attacker_cover.cef", zone->getZoneName(), getPositionX(), getPositionZ(), getPositionY());

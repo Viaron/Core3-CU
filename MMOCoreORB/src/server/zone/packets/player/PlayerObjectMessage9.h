@@ -63,20 +63,7 @@ public:
 
 		// datapad draft schematics
 		DeltaVector<ManagedReference<DraftSchematic* > >* schematics = play->getSchematics();
-
-		int size = schematics->size();
-
-		insertInt(size);
-		insertInt(size);
-		insertByte(0);
-
-		for (int i = 0; i < size; ++i) {
-			ManagedReference<DraftSchematic* > value = schematics->get(i);
-			insertInt(value->getObjectID());
-			insertInt(value->getDraftSchematicTemplate()->getClientObjectCRC());
-			insertByte(1);
-			insertInt(0);
-		}
+		schematics->insertToMessage(this);
 
 		// accomplishments
 		insertInt(0);
