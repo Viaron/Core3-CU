@@ -175,10 +175,14 @@ void SchematicList::insertToMessage(BaseMessage* msg) {
 	msg->insertInt(size());
 	msg->insertInt(updateCounter);
 
+	msg->insertByte(0);
+
 	for (int i = 0; i < size(); ++i) {
 		DraftSchematic* schematic = get(i);
 
 		msg->insertInt(schematic->getClientObjectCRC());
 		msg->insertInt(schematic->getClientObjectCRC());  /// Must be client CRC
+		msg->insertByte(1);
+		msg->insertInt(0);
 	}
 }
