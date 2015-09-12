@@ -105,7 +105,7 @@ public:
 	}
 
 	void updateInstrumentID(int value) {
-		startUpdate(0x0C);
+		startUpdate(0x0D);
 		insertInt(value);
 	}
 
