@@ -168,6 +168,7 @@ void GroupManager::joinGroup(CreatureObject* player) {
 
 	player->info("joining group");
 
+
 	player->updateGroup(group);
 	group->addMember(player);
 

@@ -54,12 +54,13 @@ class GroupObjectMessage6 : public BaseLineMessage {
 public:
 	GroupObjectMessage6(GroupObject* gr)
 			: BaseLineMessage(gr->getObjectID(), 0x47525550, 6, 0x0B) {
-		insertInt(0);
-		GroupList* list = gr->getGroupList();
 
+		GroupList* list = gr->getGroupList();
+		insertInt(0);
 		insertAscii("string_id_table");
 		insertInt(0);
-		insertAscii("");
+		insertShort((short) 0);
+		//insertAscii("");
 
 		insertInt(list->size()); // MemberList Size
 		insertInt(list->getUpdateCounter()); // MemberList UpdateCounter
@@ -70,8 +71,9 @@ public:
 		}
 
 		// Seems to be for JTL and should be added similarly to the above
-		insertInt(list->size()); // List Size??
-		insertInt(list->getUpdateCounter()); // List UpdateCounter??
+		insertInt(0); // List Size??
+		insertInt(0); // List UpdateCounter??
+
 
 		insertInt(0);
 		insertInt(0);
@@ -79,8 +81,8 @@ public:
 		insertInt(0);
 		insertInt(0);
 		insertInt(1);
-		insertAscii("");
-
+		//insertAscii("");
+		insertShort((short) 0);
 		insertShort((uint16)gr->getGroupLevel()); // Group Con/Difficulty/Level
 		insertInt(0); // Unk
 		insertLong(gr->getLeader()->getObjectID()); // Loot Master
