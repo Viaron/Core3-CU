@@ -60,7 +60,6 @@ public:
 		insertAscii("string_id_table");
 		insertInt(0);
 		insertShort((short) 0);
-		//insertAscii("");
 
 		insertInt(list->size()); // MemberList Size
 		insertInt(list->getUpdateCounter()); // MemberList UpdateCounter
@@ -75,13 +74,6 @@ public:
 		insertInt(0); // List UpdateCounter??
 
 
-		insertInt(0);
-		insertInt(0);
-		insertInt(0);
-		insertInt(0);
-		insertInt(0);
-		insertInt(1);
-		//insertAscii("");
 		insertShort((short) 0);
 		insertShort((uint16)gr->getGroupLevel()); // Group Con/Difficulty/Level
 		insertInt(0); // Unk
