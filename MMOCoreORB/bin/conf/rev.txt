@@ -1,10 +1,10 @@
-8d12db5 was Valkyra, 6 hours ago, message: Merge pull request #9 from ilikenwf/master
-36c49dd was Matt Parnell, 7 hours ago, message: Merge remote-tracking branch 'upstream/master'
-f1b2245 was Matt Parnell, 7 hours ago, message: remove parenthases
-8439818 was Valkyra, 17 hours ago, message: Merge pull request #8 from ilikenwf/master
-f70b713 was Valkyra, 17 hours ago, message: Merge pull request #7 from ilikenwf/master
-247f8ea was jay7199, 17 hours ago, message: [added] combat revamp - brawler is the only class with commands atm [added] Level System [Changed] Some functions for coolDown Timers - more adjusting required
-c1d7faa was Matt Parnell, 17 hours ago, message: Merge remote-tracking branch 'upstream/master'
-ce99035 was Matt Parnell, 17 hours ago, message: no, really, this is the last one...I am useless without caffeine
-ce27ee7 was Matt Parnell, 17 hours ago, message: Merge remote-tracking branch 'upstream/master'
-2dea0d6 was Matt Parnell, 17 hours ago, message: hopefully this is the last fix
+905b4e5 was Zing, 13 hours ago, message: Merge pull request #6 from CUEmu/master
+db112ea was Valkyra, 15 hours ago, message: Merge pull request #17 from Keylarra2/master
+724918b was Valkyra, 30 hours ago, message: Merge pull request #14 from Viaron/master
+45505d0 was Keylarra, 31 hours ago, message: [Fixed] Wearable items can now be equipped
+6a8417a was Valkyra, 2 days ago, message: Merge pull request #16 from Stephen-Groat/master
+74509dc was Stephen Groat, 2 days ago, message: Found and fixed a bug with incorrect HAM levels on player creation
+7cc792a was ValkyraSWG, 3 days ago, message: [fixed] object loading part 2, should all load correctly now.
+170340f was Valkyra, 3 days ago, message: Merge pull request #12 from ilikenwf/master
+4cf6d17 was jay7199, 3 days ago, message: [Fixed a issue with combat timers] [Removed some unused pre cu stuff] Still a WIP
+35415cd was Viaron, 3 days ago, message: [Added] Event Admin Commands to Spawn Management Skills Cluster

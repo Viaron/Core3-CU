@@ -88,8 +88,10 @@ void GroupObjectImplementation::addMember(SceneObject* newMember) {
 	Locker locker(_this.getReferenceUnsafeStaticCast());
 
 	GroupObjectDeltaMessage6* grp = new GroupObjectDeltaMessage6(_this.getReferenceUnsafeStaticCast());
-	grp->startUpdate(1);
+	grp->startUpdate(2);
+
 	groupMembers.add(newMember, grp);
+
 	grp->close();
 
 	broadcastMessage(grp);
@@ -118,7 +120,7 @@ void GroupObjectImplementation::removeMember(SceneObject* member) {
 
 		if (scno == member) {
 			GroupObjectDeltaMessage6* grp = new GroupObjectDeltaMessage6(_this.getReferenceUnsafeStaticCast());
-			grp->startUpdate(1);
+			grp->startUpdate(2);
 			groupMembers.remove(i, grp);
 			grp->close();
 
@@ -193,7 +195,7 @@ void GroupObjectImplementation::makeLeader(SceneObject* player) {
 	for (int i = 0; i < groupMembers.size(); ++i) {
 		if (groupMembers.get(i) == player) {
 			GroupObjectDeltaMessage6* grp = new GroupObjectDeltaMessage6(_this.getReferenceUnsafeStaticCast());
-			grp->startUpdate(1);
+			grp->startUpdate(2);
 
 			if (hasSquadLeader())
 				removeGroupModifiers();

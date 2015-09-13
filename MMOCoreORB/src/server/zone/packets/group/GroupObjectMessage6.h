@@ -50,20 +50,20 @@ which carries forward this exception.
 #include "server/zone/objects/group/GroupObject.h"
 
 class GroupObjectMessage6 : public BaseLineMessage {
-	
+
 public:
 	GroupObjectMessage6(GroupObject* gr)
 			: BaseLineMessage(gr->getObjectID(), 0x47525550, 6, 0x0B) {
-
+		insertInt(0);
 		GroupList* list = gr->getGroupList();
-		
+
 		insertAscii("string_id_table");
 		insertInt(0);
 		insertAscii("");
 
 		insertInt(list->size()); // MemberList Size
 		insertInt(list->getUpdateCounter()); // MemberList UpdateCounter
-		
+
 		for (int i = 0; i < list->size(); ++i) {
 			insertLong(list->get(i)->getObjectID()); // Member Object ID
 			insertAscii(list->get(i)->getDisplayedName()); // Member Name

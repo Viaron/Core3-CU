@@ -56,10 +56,11 @@ public:
 	GroupObjectDeltaMessage6(GroupObject* gr)
 			: DeltaMessage(gr->getObjectID(), 0x47525550, 6) {
 		grup = gr;
-	}
 
-	void addMember(SceneObject* player, int idx) {
-		startUpdate(0x01);
+	}
+// Re-commented this out because it was conflicting with the way grouping is done with SWGEmu.
+/*	void addMember(SceneObject* player, int idx) {
+		startUpdate(0x02);
 
 		GroupList* grupList = grup->getGroupList();
 		startList(1, grupList->getNewUpdateCounter(1));
@@ -71,7 +72,7 @@ public:
 	}
 	
 	void removeMember(int idx) {
-		startUpdate(0x01);
+		startUpdate(0x02);
 		
 		GroupList* grupList = grup->getGroupList();
 		startList(1, grupList->getNewUpdateCounter(1));
@@ -81,7 +82,7 @@ public:
 	}
 	
 	void updateLeader(SceneObject* newLeader, SceneObject* oldLeader, int oldLeaderIdx) {
-		startUpdate(0x01);
+		startUpdate(0x02);
 		
 		GroupList* grupList = grup->getGroupList();
 		startList(2, grupList->getNewUpdateCounter(2));
@@ -96,21 +97,21 @@ public:
 		insertLong(newLeader->getObjectID());
 		insertAscii(newLeader->getDisplayedName());
 	}
-	
+	*/
 	void updateLevel(uint16 value) {
-		startUpdate(0x04);
+		startUpdate(0x05);
 		insertShort(value);
 	}
 
-	void updateLootMaster(SceneObject* newLootMaster) {
+/*	void updateLootMaster(SceneObject* newLootMaster) {
 		startUpdate(0x06);
 		insertLong(newLootMaster->getObjectID());
-	}
+	}*/
 
 	 void updateLootRules(uint64 looter, int rule) {
-		 startUpdate(0x06);
-		 insertLong(looter);
 		 startUpdate(0x07);
+		 insertLong(looter);
+		 startUpdate(0x08);
 		 insertInt(rule);
 	}
 };
