@@ -45,10 +45,10 @@
 --Children folder includes
 
 -- Server Objects
-includeFile("tangible/ship/components/reactor/rct_tiefighter_basic_a.lua")
-includeFile("tangible/ship/components/reactor/rct_tiefighter_basic_b.lua")
-includeFile("tangible/ship/components/reactor/rct_z95_basic_a.lua")
-includeFile("tangible/ship/components/reactor/rct_z95_basic_b.lua")
+--includeFile("tangible/ship/components/reactor/rct_tiefighter_basic_a.lua")
+--includeFile("tangible/ship/components/reactor/rct_tiefighter_basic_b.lua")
+--includeFile("tangible/ship/components/reactor/rct_z95_basic_a.lua")
+--ncludeFile("tangible/ship/components/reactor/rct_z95_basic_b.lua")
 includeFile("tangible/ship/components/reactor/rct_armek_phase_grinder.lua")
 includeFile("tangible/ship/components/reactor/rct_armek_super_collider.lua")
 includeFile("tangible/ship/components/reactor/rct_armek_ultra_collider.lua")
