@@ -130,7 +130,6 @@ PlayerManagerImplementation::PlayerManagerImplementation(ZoneServer* zoneServer,
 	server = zoneServer;
 	processor = impl;
 
-	playerMap = new PlayerMap(3000);
 	nameMap = new CharacterNameMap();
 
 	DirectorManager::instance()->getLuaInstance()->runFile("scripts/screenplays/checklnum.lua");
@@ -282,9 +281,6 @@ void PlayerManagerImplementation::loadPermissionLevels() {
 }
 
 void PlayerManagerImplementation::finalize() {
-	delete playerMap;
-	playerMap = NULL;
-
 	delete nameMap;
 	nameMap = NULL;
 }

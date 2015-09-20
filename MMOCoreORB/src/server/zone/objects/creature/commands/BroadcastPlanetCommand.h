@@ -47,6 +47,7 @@ which carries forward this exception.
 
 #include "server/zone/objects/scene/SceneObject.h"
 #include "server/zone/objects/player/PlayerObject.h"
+#include "server/zone/managers/player/PlayerMap.h"
 
 class BroadcastPlanetCommand : public QueueCommand {
 public:
